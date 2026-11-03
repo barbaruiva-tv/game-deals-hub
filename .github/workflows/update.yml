@@ -17,10 +17,10 @@ jobs:
         env:
           ITAD_API_KEY: ${{ secrets.ITAD_API_KEY }}
         run: python collect.py
-      - name: Salvar ofertas
+      - name: Enriquecer gêneros e anos (RAWG opcional)\n        env:\n          RAWG_API_KEY: \${{ secrets.RAWG_API_KEY }}\n        run: python enrich.py\n      - name: Salvar ofertas
         run: |
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git add deals.json
+          git add deals.json metadata_cache.json
           if ! git diff --cached --quiet; then git commit -m 'Atualiza ofertas'; git push; fi
           
