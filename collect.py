@@ -10,15 +10,23 @@ key = os.environ.get("ITAD_API_KEY")
 if not key:
     raise SystemExit("Configure o segredo ITAD_API_KEY no GitHub Actions.")
 
-params = urlencode({"country": "BR", "limit": 200, "sort": "-cut"})
-url = "https://api.isthereanydeal.com/deals/v2?" + params
-request = Request(url, headers={
-    "ITAD-API-Key": key,
-    "Accept": "application/json",
-    "User-Agent": "GameDealsHub/1.0",
-})
-with urlopen(request, timeout=45) as response:
-    payload = json.load(response)
+# Paginar ofertas para não limitar o catálogo aos maiores descontos.
+# Dez páginas de 200 resultados = até 2.000 ofertas analisadas por coleta.
+entries = []
+for offset in range(0, 2000, 200):
+    params = urlencode({"country": "BR", "limit": 200, "offset": offset, "sort": "-cut"})
+    url = "https://api.isthereanydeal.com/deals/v2?" + params
+    request = Request(url, headers={
+        "ITAD-API-Key": key,
+        "Accept": "application/json",
+        "User-Agent": "GameDealsHub/1.1",
+    })
+    with urlopen(request, timeout=45) as response:
+        payload = json.load(response)
+    page = payload.get("list", [])
+    entries.extend(page)
+    if len(page) < 200:
+        break
 
 stores = {
     "Steam": "Steam",
@@ -28,7 +36,7 @@ stores = {
     "Nuuvem": "Nuuvem",
 }
 deals = []
-for entry in payload.get("list", []):
+for entry in entries:
     deal = entry.get("deal") or {}
     store = stores.get((deal.get("shop") or {}).get("name", ""))
     if not store:
@@ -57,4 +65,4 @@ output = {
 Path(__file__).with_name("deals.json").write_text(
     json.dumps(output, ensure_ascii=False, indent=2), encoding="utf-8"
 )
-print("Ofertas das lojas selecionadas:", len(deals))
+print("Ofertas examinadas:", len(entries), "Ofertas das lojas selecionadas:", len(deals))
