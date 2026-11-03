@@ -1,0 +1,33 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Game Deals Hub — Ofertas de PC</title>
+<style>
+:root{color-scheme:dark;font-family:Inter,system-ui,Arial,sans-serif;background:#0b1020;color:#e8edf8}*{box-sizing:border-box}body{margin:0}header{background:#151c31;border-bottom:1px solid #29344e;padding:24px max(24px,calc((100vw - 1100px)/2))}h1{margin:0;font-size:28px}p{color:#9daac2}main{max-width:1100px;margin:32px auto;padding:0 20px}.stats{display:grid;grid-template-columns:repeat(3,1fr);gap:12px}.stat,.panel,.deal{background:#161f35;border:1px solid #2a3652;border-radius:14px;padding:18px}.stat strong{font-size:26px;display:block}.stat span,.meta{color:#aab6ce;font-size:13px}.panel{margin:20px 0}.filters{display:flex;flex-wrap:wrap;gap:12px}input,select{background:#0c1428;border:1px solid #3b4866;border-radius:9px;padding:11px;color:white;min-width:160px}input[type=search]{flex:1}.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(270px,1fr));gap:14px}.deal h3{margin:0 0 14px;font-size:17px}.price{font-size:23px;font-weight:750}.old{text-decoration:line-through;color:#8997b2}.cut{color:#6ee7a5;font-weight:700}.tag{font-size:12px;background:#263753;padding:5px 9px;border-radius:6px}a{color:#7eb6ff}.deal a{display:inline-block;margin-top:16px}.empty{padding:28px;text-align:center;background:#161f35;border-radius:14px;color:#aab6ce}.notice{font-size:13px}label{display:flex;align-items:center;gap:6px}@media(max-width:600px){.stats{grid-template-columns:1fr}header{padding:20px}}
+</style>
+</head>
+<body>
+<header><h1>🎮 Game Deals Hub</h1><p>Steam · Epic Games · GOG · Nuuvem — ofertas para o Brasil</p></header>
+<main>
+<div class="stats"><div class="stat"><strong id="total">—</strong><span>Ofertas coletadas</span></div><div class="stat"><strong id="free">—</strong><span>Jogos gratuitos</span></div><div class="stat"><strong id="best">—</strong><span>Maior desconto</span></div></div>
+<section class="panel"><div class="filters"><input id="search" type="search" placeholder="Pesquisar jogo..."><select id="store"><option value="">Todas as lojas</option><option>Steam</option><option>Epic Games</option><option>GOG</option><option>Nuuvem</option></select><select id="filter"><option value="">Todas as ofertas</option><option value="free">Grátis</option><option value="discount">70% ou mais</option><option value="historical">Menor preço histórico</option><option value="coupon">Com cupom</option></select><select id="sort"><option value="discount">Maior desconto</option><option value="price">Menor preço</option></select></div><p class="notice" id="updated">Carregando dados…</p></section>
+<div id="results" class="grid"></div>
+<p class="notice">Fonte: IsThereAnyDeal. Preços em BRL quando fornecidos para a região BR. Confirme valor e disponibilidade na loja. Cupons e mínimos históricos só aparecem quando verificados.</p>
+</main>
+<script>
+const fmt = n => new Intl.NumberFormat('pt-BR',{style:'currency',currency:'BRL'}).format(n);
+let deals=[];
+function render(){
+const q=document.querySelector('#search').value.toLowerCase(),s=document.querySelector('#store').value,f=document.querySelector('#filter').value,sort=document.querySelector('#sort').value;
+const filtered=deals.filter(d=>(!q||d.title.toLowerCase().includes(q))&&(!s||d.store===s)&&(!f||(f==='free'&&d.price===0)||(f==='discount'&&d.discount>=70)||(f==='historical'&&d.historical_low===true)||(f==='coupon'&&d.coupon)));
+filtered.sort((a,b)=>sort==='price'?a.price-b.price:b.discount-a.discount);
+const root=document.querySelector('#results');root.replaceChildren();
+if(!filtered.length){const div=document.createElement('div');div.className='empty';div.textContent=deals.length?'Nenhuma oferta corresponde aos filtros.':'Nenhuma oferta disponível ainda. Configure a chave e execute a coleta no GitHub Actions.';root.append(div);return;}
+for(const d of filtered){const card=document.createElement('article');card.className='deal';const title=document.createElement('h3');title.textContent=d.title;const store=document.createElement('span');store.className='tag';store.textContent=d.store;const price=document.createElement('p');price.className='price';price.textContent=d.price===0?'Grátis':fmt(d.price);const old=document.createElement('span');old.className='old';old.textContent=typeof d.regular_price==='number'?fmt(d.regular_price):'';const cut=document.createElement('p');cut.className='cut';cut.textContent=Math.round(d.discount||0)+'% de desconto';card.append(title,store,price,old,cut);if(d.coupon){const c=document.createElement('p');c.textContent='Cupom: '+d.coupon;card.append(c)}if(d.historical_low){const h=document.createElement('p');h.textContent='✓ Menor preço histórico confirmado';card.append(h)}if(/^https:\/\//.test(d.url||'')){const a=document.createElement('a');a.href=d.url;a.target='_blank';a.rel='noopener noreferrer';a.textContent='Ver oferta na loja ↗';card.append(a)}root.append(card);}
+}
+for(const id of ['search','store','filter','sort'])document.getElementById(id).addEventListener('input',render);
+fetch('./deals.json?ts='+Date.now(),{cache:'no-store'}).then(r=>{if(!r.ok)throw Error('HTTP '+r.status);return r.json()}).then(data=>{deals=Array.isArray(data.deals)?data.deals:[];document.querySelector('#total').textContent=deals.length;document.querySelector('#free').textContent=deals.filter(d=>d.price===0).length;document.querySelector('#best').textContent=deals.length?Math.max(...deals.map(d=>d.discount||0))+'%':'—';document.querySelector('#updated').textContent=data.updated_at?'Última coleta: '+new Date(data.updated_at).toLocaleString('pt-BR',{timeZone:'America/Sao_Paulo'}):'Aguardando primeira coleta real';render()}).catch(e=>{document.querySelector('#updated').textContent='Falha ao carregar ofertas: '+e.message;render()});
+</script>
+</body></html>
