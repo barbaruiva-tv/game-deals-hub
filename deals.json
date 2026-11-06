@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-05T12:04:51.061761+00:00",
+  "updated_at": "2026-11-06T11:59:20.605860+00:00",
   "source": "IsThereAnyDeal",
   "country": "BR",
   "deals": [
@@ -20,6 +20,16 @@
       "regular_price": 4.29,
       "discount": 97,
       "url": "https://itad.link/018d9386-8e54-73e1-8f40-98459575d5ef/?app=ze0jtd",
+      "historical_low": false,
+      "coupon": null
+    },
+    {
+      "title": "DIG Premium Bundle",
+      "store": "Steam",
+      "price": 16.2,
+      "regular_price": 324,
+      "discount": 95,
+      "url": "https://itad.link/01a1b016-735f-7288-bf1d-cc95672963b4/?app=ze0jtd",
       "historical_low": false,
       "coupon": null
     },
@@ -114,6 +124,36 @@
       "coupon": null
     },
     {
+      "title": "Night Seeker",
+      "store": "Steam",
+      "price": 13.49,
+      "regular_price": 269.99,
+      "discount": 95,
+      "url": "https://itad.link/01975fd0-6238-714a-82c0-ec623dbe279c/?app=ze0jtd",
+      "historical_low": false,
+      "coupon": null
+    },
+    {
+      "title": "Forsaken Manor",
+      "store": "Steam",
+      "price": 13.49,
+      "regular_price": 269.99,
+      "discount": 95,
+      "url": "https://itad.link/01975fd0-6238-714a-82c0-ec623d599aa2/?app=ze0jtd",
+      "historical_low": false,
+      "coupon": null
+    },
+    {
+      "title": "Owl Bounce",
+      "store": "Steam",
+      "price": 13.49,
+      "regular_price": 269.99,
+      "discount": 95,
+      "url": "https://itad.link/01975fbb-0860-715a-99fe-0eef582a65b5/?app=ze0jtd",
+      "historical_low": false,
+      "coupon": null
+    },
+    {
       "title": "Blastforge Breach",
       "store": "Steam",
       "price": 5.39,
@@ -140,6 +180,16 @@
       "regular_price": 107.99,
       "discount": 95,
       "url": "https://itad.link/0196bd7e-ca79-713b-a3cb-fdaa2cae045e/?app=ze0jtd",
+      "historical_low": false,
+      "coupon": null
+    },
+    {
+      "title": "Deck Combo",
+      "store": "Steam",
+      "price": 13.49,
+      "regular_price": 269.99,
+      "discount": 95,
+      "url": "https://itad.link/01954841-3d41-7274-8b13-ffd0c2b4a56a/?app=ze0jtd",
       "historical_low": false,
       "coupon": null
     },
@@ -204,6 +254,16 @@
       "coupon": null
     },
     {
+      "title": "Crown Wars: The Black Prince",
+      "store": "Steam",
+      "price": 3.99,
+      "regular_price": 79.99,
+      "discount": 95,
+      "url": "https://itad.link/018fa63c-5b6b-7074-9658-0eb1f26a93dc/?app=ze0jtd",
+      "historical_low": false,
+      "coupon": null
+    },
+    {
       "title": "10 YEARS ANNIVERSARY BUNDLE",
       "store": "Steam",
       "price": 9.15,
@@ -234,16 +294,6 @@
       "coupon": null
     },
     {
-      "title": "Zorro: The Chronicles",
-      "store": "Steam",
-      "price": 2.99,
-      "regular_price": 59.99,
-      "discount": 95,
-      "url": "https://itad.link/018d9386-fdd2-72d6-b86d-0f2e7e0d4692/?app=ze0jtd",
-      "historical_low": false,
-      "coupon": null
-    },
-    {
       "title": "Zack 2: Celestine's Map",
       "store": "Steam",
       "price": 3.39,
@@ -265,11 +315,11 @@
     },
     {
       "title": "War Hospital",
-      "store": "GOG",
-      "price": 4.55,
+      "store": "Steam",
+      "price": 4.54,
       "regular_price": 90.99,
       "discount": 95,
-      "url": "https://itad.link/018d9386-f39d-719a-9489-ffe6dd6407bb/?app=ze0jtd",
+      "url": "https://itad.link/018d9386-f39d-719a-9489-ffe6e617cd91/?app=ze0jtd",
       "historical_low": false,
       "coupon": null
     },
@@ -285,11 +335,21 @@
     },
     {
       "title": "Warhammer: Chaosbane",
-      "store": "GOG",
-      "price": 6.99,
-      "regular_price": 139.99,
+      "store": "Steam",
+      "price": 5.94,
+      "regular_price": 118.99,
       "discount": 95,
-      "url": "https://itad.link/018d9386-f260-736d-a10f-85d9fc3f927e/?app=ze0jtd",
+      "url": "https://itad.link/018d9386-f260-736d-a10f-85d9fb8a01b4/?app=ze0jtd",
+      "historical_low": false,
+      "coupon": null
+    },
+    {
+      "title": "TT Isle of Man: Ride on the Edge 3 Racing Fan Edition",
+      "store": "Steam",
+      "price": 8.1,
+      "regular_price": 162,
+      "discount": 95,
+      "url": "https://itad.link/018d9386-e9ff-7264-b716-7894c945d571/?app=ze0jtd",
       "historical_low": false,
       "coupon": null
     },
@@ -380,6 +440,16 @@
       "regular_price": 67.99,
       "discount": 95,
       "url": "https://itad.link/018d9386-b116-737f-97bc-f930942de446/?app=ze0jtd",
+      "historical_low": false,
+      "coupon": null
+    },
+    {
+      "title": "OVERPASS™",
+      "store": "Steam",
+      "price": 3.99,
+      "regular_price": 79.99,
+      "discount": 95,
+      "url": "https://itad.link/018d9386-a7f8-73f5-8ce6-5722dc309080/?app=ze0jtd",
       "historical_low": false,
       "coupon": null
     },
@@ -724,6 +794,16 @@
       "coupon": null
     },
     {
+      "title": "Euphoria: Supreme Mechanics",
+      "store": "GOG",
+      "price": 2.39,
+      "regular_price": 39.99,
+      "discount": 94,
+      "url": "https://itad.link/018d9386-5946-7374-9589-3d76502f83c8/?app=ze0jtd",
+      "historical_low": false,
+      "coupon": null
+    },
+    {
       "title": "Dex",
       "store": "GOG",
       "price": 2.19,
@@ -854,12 +934,42 @@
       "coupon": null
     },
     {
+      "title": "Inquisitor's Heart and Soul",
+      "store": "GOG",
+      "price": 1.75,
+      "regular_price": 24.89,
+      "discount": 93,
+      "url": "https://itad.link/018d9386-7f73-71ce-a241-3d35bb375149/?app=ze0jtd",
+      "historical_low": false,
+      "coupon": null
+    },
+    {
+      "title": "Hell Division",
+      "store": "GOG",
+      "price": 1.59,
+      "regular_price": 22.79,
+      "discount": 93,
+      "url": "https://itad.link/018d9386-73a0-70ef-99b4-4b607a8fb582/?app=ze0jtd",
+      "historical_low": false,
+      "coupon": null
+    },
+    {
       "title": "The Excrawlers",
       "store": "Steam",
       "price": 2.93,
       "regular_price": 41.99,
       "discount": 93,
       "url": "https://itad.link/018d9386-5cf6-714e-b356-2be9b2ad1c57/?app=ze0jtd",
+      "historical_low": false,
+      "coupon": null
+    },
+    {
+      "title": "Cyberpunk SFX",
+      "store": "GOG",
+      "price": 1.75,
+      "regular_price": 24.89,
+      "discount": 93,
+      "url": "https://itad.link/018d9386-46b0-70e5-9b53-b1ca2b56b3cf/?app=ze0jtd",
       "historical_low": false,
       "coupon": null
     },
@@ -900,6 +1010,16 @@
       "regular_price": 59.99,
       "discount": 93,
       "url": "https://itad.link/018d9386-3b91-72db-857f-3fdb0db610ad/?app=ze0jtd",
+      "historical_low": false,
+      "coupon": null
+    },
+    {
+      "title": "Virus Lab",
+      "store": "Steam",
+      "price": 3.51,
+      "regular_price": 43.99,
+      "discount": 92,
+      "url": "https://itad.link/01a042ee-6fa7-70fe-8371-54a8f3a5d7b1/?app=ze0jtd",
       "historical_low": false,
       "coupon": null
     },
@@ -994,6 +1114,16 @@
       "coupon": null
     },
     {
+      "title": "Middle-earth™: Shadow of War™ Definitive Edition",
+      "store": "Nuuvem",
+      "price": 27.99,
+      "regular_price": 279.99,
+      "discount": 90,
+      "url": "https://itad.link/018d9386-9814-712a-9b94-69f01ca24a25/?app=ze0jtd",
+      "historical_low": false,
+      "coupon": null
+    },
+    {
       "title": "Jet Kave Adventure",
       "store": "GOG",
       "price": 3.99,
@@ -1004,22 +1134,22 @@
       "coupon": null
     },
     {
+      "title": "JASEM: Just Another Shooter with Electronic Music",
+      "store": "Steam",
+      "price": 1.83,
+      "regular_price": 22.99,
+      "discount": 92,
+      "url": "https://itad.link/018d9386-8304-7247-b77b-dc2d84a61b51/?app=ze0jtd",
+      "historical_low": false,
+      "coupon": null
+    },
+    {
       "title": "In Sound Mind - Digital Artbook",
       "store": "GOG",
       "price": 0.19,
       "regular_price": 2.29,
       "discount": 92,
       "url": "https://itad.link/018d9386-7f7a-73a1-a2da-9311951dc3a3/?app=ze0jtd",
-      "historical_low": false,
-      "coupon": null
-    },
-    {
-      "title": "House Flipper",
-      "store": "Steam",
-      "price": 5.91,
-      "regular_price": 73.99,
-      "discount": 92,
-      "url": "https://itad.link/018d9386-76e1-7290-af34-356611209643/?app=ze0jtd",
       "historical_low": false,
       "coupon": null
     },
@@ -1050,6 +1180,16 @@
       "regular_price": 63.79,
       "discount": 92,
       "url": "https://itad.link/018d9386-7396-73d0-b6b0-553b03277356/?app=ze0jtd",
+      "historical_low": false,
+      "coupon": null
+    },
+    {
+      "title": "Grotto",
+      "store": "GOG",
+      "price": 5.65,
+      "regular_price": 26.89,
+      "discount": 79,
+      "url": "https://itad.link/018d9386-6f59-7206-a95c-117aa105e1dd/?app=ze0jtd",
       "historical_low": false,
       "coupon": null
     },
@@ -1504,26 +1644,6 @@
       "coupon": null
     },
     {
-      "title": "Vampire: The Masquerade - Swansong",
-      "store": "GOG",
-      "price": 13.49,
-      "regular_price": 134.99,
-      "discount": 90,
-      "url": "https://itad.link/019fae11-e17b-7221-8d38-7dabc983a648/?app=ze0jtd",
-      "historical_low": false,
-      "coupon": null
-    },
-    {
-      "title": "Vampire: The Masquerade - Swansong PRIMOGEN Edition",
-      "store": "GOG",
-      "price": 16.19,
-      "regular_price": 162,
-      "discount": 90,
-      "url": "https://itad.link/019fae11-e0c7-7145-87ff-3eb930665804/?app=ze0jtd",
-      "historical_low": false,
-      "coupon": null
-    },
-    {
       "title": "Lab 2040",
       "store": "Steam",
       "price": 4.79,
@@ -1554,42 +1674,22 @@
       "coupon": null
     },
     {
-      "title": "Mega Solitaire Collection",
+      "title": "Space Avengers",
       "store": "Steam",
       "price": 3.74,
       "regular_price": 37.49,
       "discount": 90,
-      "url": "https://itad.link/019d9d67-dfec-72f8-b6a8-d18b72d0eb1b/?app=ze0jtd",
+      "url": "https://itad.link/019d97c5-ba19-718f-8803-93a89ae3bd0c/?app=ze0jtd",
       "historical_low": false,
       "coupon": null
     },
     {
-      "title": "One Day of an Insurance Agent",
+      "title": "Spleef Game",
       "store": "Steam",
       "price": 3.74,
       "regular_price": 37.49,
       "discount": 90,
-      "url": "https://itad.link/019d97d3-7c88-704a-96ad-16ba93f7bcee/?app=ze0jtd",
-      "historical_low": false,
-      "coupon": null
-    },
-    {
-      "title": "Jack In Town",
-      "store": "Steam",
-      "price": 3.74,
-      "regular_price": 37.49,
-      "discount": 90,
-      "url": "https://itad.link/019d9660-c946-7228-801a-3b0a57281266/?app=ze0jtd",
-      "historical_low": false,
-      "coupon": null
-    },
-    {
-      "title": "Crazy Bike",
-      "store": "Steam",
-      "price": 3.84,
-      "regular_price": 38.49,
-      "discount": 90,
-      "url": "https://itad.link/019cf760-7dc2-738a-b560-6ed0116fde91/?app=ze0jtd",
+      "url": "https://itad.link/019d9653-0421-7020-ad6d-0bc360de2dc9/?app=ze0jtd",
       "historical_low": false,
       "coupon": null
     },
@@ -1670,6 +1770,16 @@
       "regular_price": 229.99,
       "discount": 90,
       "url": "https://itad.link/0198e188-c38c-739b-9cf4-51aa4fad35ba/?app=ze0jtd",
+      "historical_low": false,
+      "coupon": null
+    },
+    {
+      "title": "Quiz Kingdom: Elementary Math Kids RPG",
+      "store": "Steam",
+      "price": 5.49,
+      "regular_price": 54.99,
+      "discount": 90,
+      "url": "https://itad.link/019889c7-20aa-70af-ad90-5dfceb3ba3e3/?app=ze0jtd",
       "historical_low": false,
       "coupon": null
     },
@@ -1854,6 +1964,16 @@
       "coupon": null
     },
     {
+      "title": "祛魅·化始（祛魅4） - Disenchantment Initializtion - 豪华礼包",
+      "store": "Steam",
+      "price": 2.99,
+      "regular_price": 29.99,
+      "discount": 90,
+      "url": "https://itad.link/0194ab63-c4d6-73af-bc6c-6a2d889462f4/?app=ze0jtd",
+      "historical_low": false,
+      "coupon": null
+    },
+    {
       "title": "Slice of Sea",
       "store": "GOG",
       "price": 4.75,
@@ -1884,12 +2004,12 @@
       "coupon": null
     },
     {
-      "title": "MXGP 24: The Official Game - Fox Holeshot Edition",
+      "title": "MXGP 24: The Official Game",
       "store": "Steam",
-      "price": 20.99,
-      "regular_price": 209.99,
+      "price": 17.99,
+      "regular_price": 179.99,
       "discount": 90,
-      "url": "https://itad.link/01937210-3be6-72c0-93ed-9a1f4a7b4e84/?app=ze0jtd",
+      "url": "https://itad.link/01937210-3be5-7329-9f31-7e3128833f2b/?app=ze0jtd",
       "historical_low": false,
       "coupon": null
     },
@@ -2004,22 +2124,22 @@
       "coupon": null
     },
     {
+      "title": "NEON Squad Tactics",
+      "store": "Steam",
+      "price": 5.99,
+      "regular_price": 59.99,
+      "discount": 90,
+      "url": "https://itad.link/01920433-5f06-72c9-8a21-1dfb2dceea48/?app=ze0jtd",
+      "historical_low": false,
+      "coupon": null
+    },
+    {
       "title": "X4: Kingdom End Soundtrack",
       "store": "Steam",
       "price": 3.29,
       "regular_price": 32.99,
       "discount": 90,
       "url": "https://itad.link/0191ccf0-633c-720b-be2d-2fed1b281c45/?app=ze0jtd",
-      "historical_low": false,
-      "coupon": null
-    },
-    {
-      "title": "Glitch Busters Soundtrack",
-      "store": "Steam",
-      "price": 3.29,
-      "regular_price": 32.99,
-      "discount": 90,
-      "url": "https://itad.link/0191ccf0-5daa-716a-8168-fbe0b54464d0/?app=ze0jtd",
       "historical_low": false,
       "coupon": null
     },
@@ -2084,16 +2204,6 @@
       "coupon": null
     },
     {
-      "title": "Green Hell",
-      "store": "Steam",
-      "price": 4.74,
-      "regular_price": 47.49,
-      "discount": 90,
-      "url": "https://itad.link/0191c321-1d7a-70b3-80b3-9e3e2ca2cdc7/?app=ze0jtd",
-      "historical_low": false,
-      "coupon": null
-    },
-    {
       "title": "Rise Eterna War",
       "store": "GOG",
       "price": 3.29,
@@ -2130,6 +2240,16 @@
       "regular_price": 32.99,
       "discount": 90,
       "url": "https://itad.link/01912352-d4c9-717c-9c18-71a0415b1037/?app=ze0jtd",
+      "historical_low": false,
+      "coupon": null
+    },
+    {
+      "title": "People Playground",
+      "store": "GOG",
+      "price": 1.99,
+      "regular_price": 20,
+      "discount": 90,
+      "url": "https://itad.link/019122ae-50a7-7258-8d47-50b1236633e5/?app=ze0jtd",
       "historical_low": false,
       "coupon": null
     },
@@ -2234,6 +2354,16 @@
       "coupon": null
     },
     {
+      "title": "Robot Destroyers & Titan Slayers",
+      "store": "Steam",
+      "price": 5.65,
+      "regular_price": 56.68,
+      "discount": 90,
+      "url": "https://itad.link/018e9aaa-90fb-729c-a179-115b43641be0/?app=ze0jtd",
+      "historical_low": false,
+      "coupon": null
+    },
+    {
       "title": "Tchia",
       "store": "Steam",
       "price": 8.9,
@@ -2254,12 +2384,12 @@
       "coupon": null
     },
     {
-      "title": "Welcome to ParadiZe - Supporter Edition",
+      "title": "Welcome to ParadiZe",
       "store": "Steam",
-      "price": 10.99,
-      "regular_price": 109.99,
+      "price": 9.09,
+      "regular_price": 90.99,
       "discount": 90,
-      "url": "https://itad.link/018df5dd-094a-735d-8d60-c8e14c8623a2/?app=ze0jtd",
+      "url": "https://itad.link/018df5dd-0949-71a8-a6eb-4e10857d4737/?app=ze0jtd",
       "historical_low": false,
       "coupon": null
     },
@@ -2424,22 +2554,42 @@
       "coupon": null
     },
     {
-      "title": "WRC 9 FIA World Rally Championship",
+      "title": "WRC 8 FIA World Rally Championship",
       "store": "Steam",
       "price": 6.99,
       "regular_price": 69.99,
       "discount": 90,
-      "url": "https://itad.link/018d9386-f963-73ab-9509-1201a60ee49c/?app=ze0jtd",
+      "url": "https://itad.link/018d9386-f966-7308-add8-95648dc23d43/?app=ze0jtd",
       "historical_low": false,
       "coupon": null
     },
     {
-      "title": "WRC 10 FIA World Rally Championship",
+      "title": "WRC 7 FIA World Rally Championship",
       "store": "Steam",
-      "price": 10.99,
-      "regular_price": 109.99,
+      "price": 4.79,
+      "regular_price": 47.99,
       "discount": 90,
-      "url": "https://itad.link/018d9386-f960-7016-8f97-6519db31cf70/?app=ze0jtd",
+      "url": "https://itad.link/018d9386-f966-7308-add8-95645f78931b/?app=ze0jtd",
+      "historical_low": false,
+      "coupon": null
+    },
+    {
+      "title": "WRC 6",
+      "store": "Steam",
+      "price": 2.89,
+      "regular_price": 28.99,
+      "discount": 90,
+      "url": "https://itad.link/018d9386-f965-7208-8335-1c6081f63357/?app=ze0jtd",
+      "historical_low": false,
+      "coupon": null
+    },
+    {
+      "title": "Wild Terra 2: New Lands",
+      "store": "Steam",
+      "price": 10.59,
+      "regular_price": 105.99,
+      "discount": 90,
+      "url": "https://itad.link/018d9386-f614-7210-a32a-a1fdc7c6553b/?app=ze0jtd",
       "historical_low": false,
       "coupon": null
     },
@@ -2514,6 +2664,46 @@
       "coupon": null
     },
     {
+      "title": "Werewolf: The Apocalypse - Heart of the Forest",
+      "store": "Steam",
+      "price": 2.89,
+      "regular_price": 28.99,
+      "discount": 90,
+      "url": "https://itad.link/018d9386-f4db-7240-bbb3-3637ea14f359/?app=ze0jtd",
+      "historical_low": false,
+      "coupon": null
+    },
+    {
+      "title": "Werewolf: The Apocalypse - Earthblood - Champion of Gaia Pack",
+      "store": "Steam",
+      "price": 2.68,
+      "regular_price": 26.89,
+      "discount": 90,
+      "url": "https://itad.link/018d9386-f4db-7240-bbb3-3637dbdcf128/?app=ze0jtd",
+      "historical_low": false,
+      "coupon": null
+    },
+    {
+      "title": "Werewolf: The Apocalypse - Earthblood Champion Of Gaia Edition",
+      "store": "GOG",
+      "price": 8.99,
+      "regular_price": 90.09,
+      "discount": 90,
+      "url": "https://itad.link/018d9386-f4db-7240-bbb3-3637d21abbfa/?app=ze0jtd",
+      "historical_low": false,
+      "coupon": null
+    },
+    {
+      "title": "Werewolf: The Apocalypse - Earthblood",
+      "store": "GOG",
+      "price": 6.99,
+      "regular_price": 69.99,
+      "discount": 90,
+      "url": "https://itad.link/018d9386-f4da-71ae-9a80-f64366171aaa/?app=ze0jtd",
+      "historical_low": false,
+      "coupon": null
+    },
+    {
       "title": "Warhammer 40,000: Mechanicus - Omnissiah Edition",
       "store": "GOG",
       "price": 10.19,
@@ -2554,32 +2744,12 @@
       "coupon": null
     },
     {
-      "title": "The Walking Dead: The Telltale Definitive Series",
-      "store": "Steam",
-      "price": 13.49,
-      "regular_price": 134.99,
-      "discount": 90,
-      "url": "https://itad.link/018d9386-f197-7203-a687-2ba791ca3c76/?app=ze0jtd",
-      "historical_low": false,
-      "coupon": null
-    },
-    {
       "title": "The Walking Dead Season One",
       "store": "GOG",
       "price": 2.89,
       "regular_price": 28.99,
       "discount": 90,
       "url": "https://itad.link/018d9386-f195-705b-8e4e-ed58b96601d5/?app=ze0jtd",
-      "historical_low": false,
-      "coupon": null
-    },
-    {
-      "title": "V-Rally 4",
-      "store": "Steam",
-      "price": 6.99,
-      "regular_price": 69.99,
-      "discount": 90,
-      "url": "https://itad.link/018d9386-f06c-724b-9c27-7a7a68ef8286/?app=ze0jtd",
       "historical_low": false,
       "coupon": null
     },
@@ -2620,6 +2790,26 @@
       "regular_price": 26.89,
       "discount": 90,
       "url": "https://itad.link/018d9386-ed44-73bb-8d90-f4647e5fe07d/?app=ze0jtd",
+      "historical_low": false,
+      "coupon": null
+    },
+    {
+      "title": "Vampire: The Masquerade - Swansong PRIMOGEN Edition",
+      "store": "Steam",
+      "price": 11.99,
+      "regular_price": 119.99,
+      "discount": 90,
+      "url": "https://itad.link/018d9386-ed43-729b-8c8b-112b77696338/?app=ze0jtd",
+      "historical_low": false,
+      "coupon": null
+    },
+    {
+      "title": "Vampire: The Masquerade - Swansong",
+      "store": "Steam",
+      "price": 7.99,
+      "regular_price": 79.99,
+      "discount": 90,
+      "url": "https://itad.link/018d9386-ed42-71ad-8a8e-ba78ef2e1171/?app=ze0jtd",
       "historical_low": false,
       "coupon": null
     },
@@ -2670,6 +2860,16 @@
       "regular_price": 13.99,
       "discount": 90,
       "url": "https://itad.link/018d9386-ed25-72fc-943f-3417a8f3f1ff/?app=ze0jtd",
+      "historical_low": false,
+      "coupon": null
+    },
+    {
+      "title": "URAGUN",
+      "store": "Steam",
+      "price": 3.29,
+      "regular_price": 32.99,
+      "discount": 90,
+      "url": "https://itad.link/018d9386-ec27-7219-b1bc-7940cbffc2d1/?app=ze0jtd",
       "historical_low": false,
       "coupon": null
     },
@@ -2854,6 +3054,16 @@
       "coupon": null
     },
     {
+      "title": "Time Carnage",
+      "store": "Steam",
+      "price": 4.19,
+      "regular_price": 41.99,
+      "discount": 90,
+      "url": "https://itad.link/018d9386-df68-70b1-a655-94654da4c8da/?app=ze0jtd",
+      "historical_low": false,
+      "coupon": null
+    },
+    {
       "title": "Timberman VR",
       "store": "Steam",
       "price": 2.64,
@@ -2884,12 +3094,12 @@
       "coupon": null
     },
     {
-      "title": "Thief of Thieves: Season One",
+      "title": "Tetraminos",
       "store": "Steam",
-      "price": 5.99,
-      "regular_price": 59.99,
+      "price": 2.99,
+      "regular_price": 29.99,
       "discount": 90,
-      "url": "https://itad.link/018d9386-de2d-72f9-b67a-bbea1e145fe8/?app=ze0jtd",
+      "url": "https://itad.link/018d9386-dd0a-709e-9ed3-a4772a75b766/?app=ze0jtd",
       "historical_low": false,
       "coupon": null
     },
@@ -2900,26 +3110,6 @@
       "regular_price": 59,
       "discount": 90,
       "url": "https://itad.link/018d9386-dd07-7199-9ae2-0e1509d393de/?app=ze0jtd",
-      "historical_low": false,
-      "coupon": null
-    },
-    {
-      "title": "Tennis World Tour 2",
-      "store": "Steam",
-      "price": 11.89,
-      "regular_price": 118.99,
-      "discount": 90,
-      "url": "https://itad.link/018d9386-dbfd-731f-9215-c2bd0ffbb343/?app=ze0jtd",
-      "historical_low": false,
-      "coupon": null
-    },
-    {
-      "title": "Tennis World Tour",
-      "store": "Steam",
-      "price": 5.79,
-      "regular_price": 57.99,
-      "discount": 90,
-      "url": "https://itad.link/018d9386-dbfd-731f-9215-c2bcfbb2c75c/?app=ze0jtd",
       "historical_low": false,
       "coupon": null
     },
@@ -2950,6 +3140,16 @@
       "regular_price": 19.99,
       "discount": 90,
       "url": "https://itad.link/018d9386-daab-71f5-bc5d-5d0d76741175/?app=ze0jtd",
+      "historical_low": false,
+      "coupon": null
+    },
+    {
+      "title": "Synthwave Burnout",
+      "store": "GOG",
+      "price": 2.05,
+      "regular_price": 20.69,
+      "discount": 90,
+      "url": "https://itad.link/018d9386-d97e-73b1-bce8-42d4128065aa/?app=ze0jtd",
       "historical_low": false,
       "coupon": null
     },
@@ -3034,6 +3234,16 @@
       "coupon": null
     },
     {
+      "title": "Super Sketch Bob",
+      "store": "Steam",
+      "price": 3.29,
+      "regular_price": 32.99,
+      "discount": 90,
+      "url": "https://itad.link/018d9386-d83a-72c0-84dc-f397309c0203/?app=ze0jtd",
+      "historical_low": false,
+      "coupon": null
+    },
+    {
       "title": "Super Jigsaw Puzzle: Generations - Random 5",
       "store": "Steam",
       "price": 2.99,
@@ -3110,6 +3320,16 @@
       "regular_price": 90.88,
       "discount": 90,
       "url": "https://itad.link/018d9386-d760-71c4-8a17-bb7913790d3e/?app=ze0jtd",
+      "historical_low": false,
+      "coupon": null
+    },
+    {
+      "title": "Sunblaze",
+      "store": "GOG",
+      "price": 2.89,
+      "regular_price": 28.99,
+      "discount": 90,
+      "url": "https://itad.link/018d9386-d75e-7117-9755-3e28c560fd5a/?app=ze0jtd",
       "historical_low": false,
       "coupon": null
     },
@@ -3294,6 +3514,16 @@
       "coupon": null
     },
     {
+      "title": "Steelrising - Bastille Edition",
+      "store": "Steam",
+      "price": 11.39,
+      "regular_price": 113.99,
+      "discount": 90,
+      "url": "https://itad.link/018d9386-d3a8-73a7-99ac-6ff72aad9cd2/?app=ze0jtd",
+      "historical_low": false,
+      "coupon": null
+    },
+    {
       "title": "Steel Rats™ original soundtrack",
       "store": "GOG",
       "price": 1.09,
@@ -3434,16 +3664,6 @@
       "coupon": null
     },
     {
-      "title": "Spike Volleyball",
-      "store": "Steam",
-      "price": 4.79,
-      "regular_price": 47.99,
-      "discount": 90,
-      "url": "https://itad.link/018d9386-cfe8-714d-87c9-7f7a3f304547/?app=ze0jtd",
-      "historical_low": false,
-      "coupon": null
-    },
-    {
       "title": "Sphere - Flying Cities | Deluxe",
       "store": "Steam",
       "price": 5.55,
@@ -3514,12 +3734,22 @@
       "coupon": null
     },
     {
-      "title": "SOULCALIBUR VI",
+      "title": "Soul Axiom Rebooted",
       "store": "Steam",
-      "price": 24.25,
-      "regular_price": 242.5,
+      "price": 5.99,
+      "regular_price": 59.99,
       "discount": 90,
-      "url": "https://itad.link/018d9386-cd3e-72e1-b0f7-c85d27416fe2/?app=ze0jtd",
+      "url": "https://itad.link/018d9386-cd3d-734f-8355-2a007687ce66/?app=ze0jtd",
+      "historical_low": false,
+      "coupon": null
+    },
+    {
+      "title": "Soul Axiom",
+      "store": "Steam",
+      "price": 3.69,
+      "regular_price": 36.99,
+      "discount": 90,
+      "url": "https://itad.link/018d9386-cd3d-734f-8355-2a007213f7c1/?app=ze0jtd",
       "historical_low": false,
       "coupon": null
     },
@@ -3530,6 +3760,16 @@
       "regular_price": 53.49,
       "discount": 90,
       "url": "https://itad.link/018d9386-cc19-70ef-924d-d3850b0e7b66/?app=ze0jtd",
+      "historical_low": false,
+      "coupon": null
+    },
+    {
+      "title": "Solitaire",
+      "store": "Steam",
+      "price": 2.99,
+      "regular_price": 29.99,
+      "discount": 90,
+      "url": "https://itad.link/018d9386-cc19-70ef-924d-d384f6b54fe0/?app=ze0jtd",
       "historical_low": false,
       "coupon": null
     },
@@ -4154,6 +4394,16 @@
       "coupon": null
     },
     {
+      "title": "ROAD HOMEWARD: Open world",
+      "store": "Steam",
+      "price": 3.84,
+      "regular_price": 38.49,
+      "discount": 90,
+      "url": "https://itad.link/018d9386-bb46-718c-97fd-da540aa30f4d/?app=ze0jtd",
+      "historical_low": false,
+      "coupon": null
+    },
+    {
       "title": "Rising Sun Mahjong",
       "store": "Steam",
       "price": 5.34,
@@ -4240,6 +4490,16 @@
       "regular_price": 99,
       "discount": 90,
       "url": "https://itad.link/018d9386-b70a-716c-a3a2-f3005a625ce9/?app=ze0jtd",
+      "historical_low": false,
+      "coupon": null
+    },
+    {
+      "title": "Rebel Galaxy",
+      "store": "GOG",
+      "price": 6.49,
+      "regular_price": 64.99,
+      "discount": 90,
+      "url": "https://itad.link/018d9386-b6f8-7075-90a1-1822461e1604/?app=ze0jtd",
       "historical_low": false,
       "coupon": null
     },
@@ -4370,6 +4630,16 @@
       "regular_price": 17.45,
       "discount": 90,
       "url": "https://itad.link/018d9386-b261-70ad-9361-36efbfca537a/?app=ze0jtd",
+      "historical_low": false,
+      "coupon": null
+    },
+    {
+      "title": "PRO FISHING SIMULATOR",
+      "store": "Steam",
+      "price": 2.06,
+      "regular_price": 20.69,
+      "discount": 90,
+      "url": "https://itad.link/018d9386-b252-724a-967c-2008b7e0f97c/?app=ze0jtd",
       "historical_low": false,
       "coupon": null
     },
@@ -4604,16 +4874,6 @@
       "coupon": null
     },
     {
-      "title": "Overpass 2",
-      "store": "Steam",
-      "price": 7.99,
-      "regular_price": 79.99,
-      "discount": 90,
-      "url": "https://itad.link/018d9386-a7f9-7109-9343-fe34c75c7a52/?app=ze0jtd",
-      "historical_low": false,
-      "coupon": null
-    },
-    {
       "title": "Out of Reach: Treasure Royale",
       "store": "Steam",
       "price": 2.89,
@@ -4635,11 +4895,11 @@
     },
     {
       "title": "Outcast - Second Contact",
-      "store": "Steam",
+      "store": "GOG",
       "price": 2.89,
       "regular_price": 28.99,
       "discount": 90,
-      "url": "https://itad.link/018d9386-a7d6-72e9-b7e8-4a938d221894/?app=ze0jtd",
+      "url": "https://itad.link/018d9386-a7d5-71a3-b99a-d439ff01bcdf/?app=ze0jtd",
       "historical_low": false,
       "coupon": null
     },
@@ -4734,42 +4994,32 @@
       "coupon": null
     },
     {
-      "title": "ONE PUNCH MAN: A HERO NOBODY KNOWS",
+      "title": "ONE PUNCH MAN: A HERO NOBODY KNOWS Deluxe Edition",
       "store": "Steam",
-      "price": 15.99,
-      "regular_price": 159.9,
+      "price": 22.99,
+      "regular_price": 229.9,
       "discount": 90,
-      "url": "https://itad.link/018d9386-a6f2-72ee-a490-3e751c8274f2/?app=ze0jtd",
+      "url": "https://itad.link/018d9386-a6f2-72ee-a490-3e75319b1d89/?app=ze0jtd",
       "historical_low": false,
       "coupon": null
     },
     {
-      "title": "ONE PIECE World Seeker",
+      "title": "ONE PIECE World Seeker Deluxe Edition",
       "store": "Steam",
-      "price": 24.99,
-      "regular_price": 249.9,
+      "price": 34.99,
+      "regular_price": 349.9,
       "discount": 90,
-      "url": "https://itad.link/018d9386-a6f0-7302-aae2-a6be5be8f557/?app=ze0jtd",
+      "url": "https://itad.link/018d9386-a6f0-7302-aae2-a6be7616fb63/?app=ze0jtd",
       "historical_low": false,
       "coupon": null
     },
     {
-      "title": "ONE PIECE PIRATE WARRIORS 3 Gold Edition",
+      "title": "ONE PIECE PIRATE WARRIORS 3",
       "store": "Steam",
-      "price": 10.39,
-      "regular_price": 103.98,
+      "price": 7.99,
+      "regular_price": 79.99,
       "discount": 90,
-      "url": "https://itad.link/018d9386-a5f1-73bd-944b-c0c8f3bb09ff/?app=ze0jtd",
-      "historical_low": false,
-      "coupon": null
-    },
-    {
-      "title": "One Piece Burning Blood",
-      "store": "Steam",
-      "price": 12.99,
-      "regular_price": 129.99,
-      "discount": 90,
-      "url": "https://itad.link/018d9386-a5ee-7372-b705-7959847de22a/?app=ze0jtd",
+      "url": "https://itad.link/018d9386-a5f1-73bd-944b-c0c8d548bb88/?app=ze0jtd",
       "historical_low": false,
       "coupon": null
     },
@@ -4894,16 +5144,6 @@
       "coupon": null
     },
     {
-      "title": "Nova Strike",
-      "store": "Steam",
-      "price": 3.29,
-      "regular_price": 32.99,
-      "discount": 90,
-      "url": "https://itad.link/018d9386-a380-7251-be1a-da69c66e37b9/?app=ze0jtd",
-      "historical_low": false,
-      "coupon": null
-    },
-    {
       "title": "The Night of the Rabbit Premium Edition",
       "store": "Steam",
       "price": 7.49,
@@ -5024,6 +5264,16 @@
       "coupon": null
     },
     {
+      "title": "My Fantastic Ranch: Unicorns & Dragons",
+      "store": "Steam",
+      "price": 8.89,
+      "regular_price": 88.99,
+      "discount": 90,
+      "url": "https://itad.link/018d9386-9e06-703b-8bc6-c09274520a92/?app=ze0jtd",
+      "historical_low": false,
+      "coupon": null
+    },
+    {
       "title": "Murder Mystery Machine",
       "store": "Steam",
       "price": 3.79,
@@ -5084,12 +5334,32 @@
       "coupon": null
     },
     {
+      "title": "Moonfall Ultimate",
+      "store": "Steam",
+      "price": 2.68,
+      "regular_price": 26.89,
+      "discount": 90,
+      "url": "https://itad.link/018d9386-9a4c-7109-8797-cdd092ee1666/?app=ze0jtd",
+      "historical_low": false,
+      "coupon": null
+    },
+    {
       "title": "Mistwood Heroes",
       "store": "Steam",
       "price": 1.74,
       "regular_price": 17.45,
       "discount": 90,
       "url": "https://itad.link/018d9386-9961-7170-aa0a-5a28b271626d/?app=ze0jtd",
+      "historical_low": false,
+      "coupon": null
+    },
+    {
+      "title": "Monster Truck Championship",
+      "store": "Steam",
+      "price": 7.99,
+      "regular_price": 79.99,
+      "discount": 90,
+      "url": "https://itad.link/018d9386-9960-738d-bfb8-c447c5197440/?app=ze0jtd",
       "historical_low": false,
       "coupon": null
     },
@@ -5230,6 +5500,16 @@
       "regular_price": 17.45,
       "discount": 90,
       "url": "https://itad.link/018d9386-920f-7124-a8e7-31b156ab5135/?app=ze0jtd",
+      "historical_low": false,
+      "coupon": null
+    },
+    {
+      "title": "Mahjong",
+      "store": "Steam",
+      "price": 2.99,
+      "regular_price": 29.99,
+      "discount": 90,
+      "url": "https://itad.link/018d9386-9207-73cf-9217-0c15d17a92fc/?app=ze0jtd",
       "historical_low": false,
       "coupon": null
     },
@@ -5854,6 +6134,16 @@
       "coupon": null
     },
     {
+      "title": "9th Company: Roots Of Terror",
+      "store": "Steam",
+      "price": 1.99,
+      "regular_price": 19.99,
+      "discount": 90,
+      "url": "https://itad.link/018d9386-82ed-706d-b1f7-3223f6051a94/?app=ze0jtd",
+      "historical_low": false,
+      "coupon": null
+    },
+    {
       "title": "ITORAH Save the World Edition",
       "store": "GOG",
       "price": 7.09,
@@ -5900,16 +6190,6 @@
       "regular_price": 49.99,
       "discount": 90,
       "url": "https://itad.link/018d9386-81b7-7098-94dc-ad57e8f77111/?app=ze0jtd",
-      "historical_low": false,
-      "coupon": null
-    },
-    {
-      "title": "Invincible Presents: Atom Eve",
-      "store": "Steam",
-      "price": 3.29,
-      "regular_price": 32.99,
-      "discount": 90,
-      "url": "https://itad.link/018d9386-7f95-717c-9543-2734dccc2943/?app=ze0jtd",
       "historical_low": false,
       "coupon": null
     },
@@ -5974,6 +6254,16 @@
       "coupon": null
     },
     {
+      "title": "2Dark",
+      "store": "Steam",
+      "price": 7.9,
+      "regular_price": 79,
+      "discount": 90,
+      "url": "https://itad.link/018d9386-7c2a-7306-835a-2f77638e2915/?app=ze0jtd",
+      "historical_low": false,
+      "coupon": null
+    },
+    {
       "title": "ICY: Frostbite Edition",
       "store": "Steam",
       "price": 2.59,
@@ -6024,6 +6314,16 @@
       "coupon": null
     },
     {
+      "title": "Chromosome Evil 2",
+      "store": "Steam",
+      "price": 5.99,
+      "regular_price": 59.99,
+      "discount": 90,
+      "url": "https://itad.link/018d9386-7b0b-723c-8483-1f127d810f88/?app=ze0jtd",
+      "historical_low": false,
+      "coupon": null
+    },
+    {
       "title": "THE HOUSE OF THE DEAD: Remake",
       "store": "GOG",
       "price": 11.89,
@@ -6034,12 +6334,12 @@
       "coupon": null
     },
     {
-      "title": "Homestead Arcana",
+      "title": "Hotel: A Resort Simulator",
       "store": "Steam",
       "price": 5.99,
       "regular_price": 59.99,
       "discount": 90,
-      "url": "https://itad.link/018d9386-75af-71e9-851d-cb53c5dbbfb7/?app=ze0jtd",
+      "url": "https://itad.link/018d9386-76d4-718e-a132-07ac99b9c681/?app=ze0jtd",
       "historical_low": false,
       "coupon": null
     },
@@ -6104,6 +6404,16 @@
       "coupon": null
     },
     {
+      "title": "Hexes",
+      "store": "Steam",
+      "price": 2.64,
+      "regular_price": 26.49,
+      "discount": 90,
+      "url": "https://itad.link/018d9386-74c7-73ba-bfb7-ec9c8778e6f9/?app=ze0jtd",
+      "historical_low": false,
+      "coupon": null
+    },
+    {
       "title": "Hexarchy",
       "store": "Steam",
       "price": 5.99,
@@ -6134,6 +6444,36 @@
       "coupon": null
     },
     {
+      "title": "Hard West Collector's Pack",
+      "store": "GOG",
+      "price": 1.99,
+      "regular_price": 19.99,
+      "discount": 90,
+      "url": "https://itad.link/018d9386-714d-710a-99ec-ee5dc595154b/?app=ze0jtd",
+      "historical_low": false,
+      "coupon": null
+    },
+    {
+      "title": "Hard West Collector's Edition",
+      "store": "GOG",
+      "price": 4.59,
+      "regular_price": 45.99,
+      "discount": 90,
+      "url": "https://itad.link/018d9386-714d-710a-99ec-ee5db9c62520/?app=ze0jtd",
+      "historical_low": false,
+      "coupon": null
+    },
+    {
+      "title": "Hard West",
+      "store": "GOG",
+      "price": 3.69,
+      "regular_price": 36.99,
+      "discount": 90,
+      "url": "https://itad.link/018d9386-714c-71f4-b562-35631e833767/?app=ze0jtd",
+      "historical_low": false,
+      "coupon": null
+    },
+    {
       "title": "Hard Reset Redux",
       "store": "GOG",
       "price": 3.69,
@@ -6144,12 +6484,32 @@
       "coupon": null
     },
     {
+      "title": "Haimrik",
+      "store": "GOG",
+      "price": 3.75,
+      "regular_price": 37.49,
+      "discount": 90,
+      "url": "https://itad.link/018d9386-712e-7175-937e-83250db705ce/?app=ze0jtd",
+      "historical_low": false,
+      "coupon": null
+    },
+    {
       "title": "Haegemonia Gold Edition",
       "store": "GOG",
       "price": 1.99,
       "regular_price": 19.99,
       "discount": 90,
       "url": "https://itad.link/018d9386-712c-707d-bd4d-e232acbdd86b/?app=ze0jtd",
+      "historical_low": false,
+      "coupon": null
+    },
+    {
+      "title": "Hacker Evolution IMMERSION",
+      "store": "Steam",
+      "price": 5.99,
+      "regular_price": 59.99,
+      "discount": 90,
+      "url": "https://itad.link/018d9386-7128-7103-b69b-019986a574ef/?app=ze0jtd",
       "historical_low": false,
       "coupon": null
     },
@@ -6170,16 +6530,6 @@
       "regular_price": 41.99,
       "discount": 90,
       "url": "https://itad.link/018d9386-6f57-7121-a64f-99ca95b4a583/?app=ze0jtd",
-      "historical_low": false,
-      "coupon": null
-    },
-    {
-      "title": "Gray Cat",
-      "store": "Steam",
-      "price": 2.64,
-      "regular_price": 26.49,
-      "discount": 90,
-      "url": "https://itad.link/018d9386-6f32-73b8-a151-454dfb438004/?app=ze0jtd",
       "historical_low": false,
       "coupon": null
     },
@@ -6274,46 +6624,6 @@
       "coupon": null
     },
     {
-      "title": "GOD EATER TRILOGY",
-      "store": "Steam",
-      "price": 30.41,
-      "regular_price": 304.13,
-      "discount": 90,
-      "url": "https://itad.link/018d9386-6c91-7007-9ba5-858035fcb1ef/?app=ze0jtd",
-      "historical_low": false,
-      "coupon": null
-    },
-    {
-      "title": "GOD EATER 2 Rage Burst",
-      "store": "Steam",
-      "price": 19.25,
-      "regular_price": 192.5,
-      "discount": 90,
-      "url": "https://itad.link/018d9386-6c91-7007-9ba5-858026e2ab00/?app=ze0jtd",
-      "historical_low": false,
-      "coupon": null
-    },
-    {
-      "title": "GOD EATER 3",
-      "store": "Steam",
-      "price": 22.99,
-      "regular_price": 229.9,
-      "discount": 90,
-      "url": "https://itad.link/018d9386-6c90-72f5-95d7-371fe8f97a52/?app=ze0jtd",
-      "historical_low": false,
-      "coupon": null
-    },
-    {
-      "title": "Glitch Busters: Stuck on You",
-      "store": "Steam",
-      "price": 5.99,
-      "regular_price": 59.99,
-      "discount": 90,
-      "url": "https://itad.link/018d9386-6be0-717d-b0d3-95c9a90a78df/?app=ze0jtd",
-      "historical_low": false,
-      "coupon": null
-    },
-    {
       "title": "Ginga Force",
       "store": "Steam",
       "price": 5.99,
@@ -6370,16 +6680,6 @@
       "regular_price": 46.99,
       "discount": 90,
       "url": "https://itad.link/018d9386-69fe-70b1-b0d2-fbda031478e0/?app=ze0jtd",
-      "historical_low": false,
-      "coupon": null
-    },
-    {
-      "title": "Gangs of Sherwood",
-      "store": "Steam",
-      "price": 7.99,
-      "regular_price": 79.99,
-      "discount": 90,
-      "url": "https://itad.link/018d9386-69fa-71ec-ad67-14789382be23/?app=ze0jtd",
       "historical_low": false,
       "coupon": null
     },
@@ -6504,6 +6804,16 @@
       "coupon": null
     },
     {
+      "title": "For The King",
+      "store": "Steam",
+      "price": 3.79,
+      "regular_price": 37.99,
+      "discount": 90,
+      "url": "https://itad.link/018d9386-67e1-71ef-9b65-8f6f472df1f2/?app=ze0jtd",
+      "historical_low": false,
+      "coupon": null
+    },
+    {
       "title": "Forest Home",
       "store": "Steam",
       "price": 2.06,
@@ -6584,6 +6894,16 @@
       "coupon": null
     },
     {
+      "title": "FIA European Truck Racing Championship",
+      "store": "Steam",
+      "price": 6.99,
+      "regular_price": 69.99,
+      "discount": 90,
+      "url": "https://itad.link/018d9386-62bc-73bf-84d1-3f9db4bac38d/?app=ze0jtd",
+      "historical_low": false,
+      "coupon": null
+    },
+    {
       "title": "Feudal Alloy",
       "store": "GOG",
       "price": 3.29,
@@ -6624,6 +6944,16 @@
       "coupon": null
     },
     {
+      "title": "Farm Manager 2018",
+      "store": "Steam",
+      "price": 5.99,
+      "regular_price": 59.99,
+      "discount": 90,
+      "url": "https://itad.link/018d9386-619c-7350-803b-a3d50796c603/?app=ze0jtd",
+      "historical_low": false,
+      "coupon": null
+    },
+    {
       "title": "Fall of Porcupine",
       "store": "GOG",
       "price": 5.99,
@@ -6634,12 +6964,12 @@
       "coupon": null
     },
     {
-      "title": "Expedition Agartha - Mercenary Edition Upgrade",
+      "title": "Exodus From the Earth",
       "store": "Steam",
-      "price": 7.39,
-      "regular_price": 73.99,
+      "price": 2.49,
+      "regular_price": 24.99,
       "discount": 90,
-      "url": "https://itad.link/018d9386-5cee-736c-bb5a-fd11ede428d8/?app=ze0jtd",
+      "url": "https://itad.link/018d9386-5ce8-71f7-86b3-0f5c98ba15f7/?app=ze0jtd",
       "historical_low": false,
       "coupon": null
     },
@@ -6904,12 +7234,12 @@
       "coupon": null
     },
     {
-      "title": "DRAGONBALL XENOVERSE Bundle Edition",
+      "title": "DRAGON BALL XENOVERSE",
       "store": "Steam",
-      "price": 12.59,
-      "regular_price": 125.98,
+      "price": 7.99,
+      "regular_price": 79.99,
       "discount": 90,
-      "url": "https://itad.link/018d9386-518e-7184-ad58-ee92f3b275b8/?app=ze0jtd",
+      "url": "https://itad.link/018d9386-518e-7184-ad58-ee92d1cf8d2d/?app=ze0jtd",
       "historical_low": false,
       "coupon": null
     },
@@ -6960,6 +7290,16 @@
       "regular_price": 57.99,
       "discount": 90,
       "url": "https://itad.link/018d9386-4f7a-71da-9685-a442e454dac8/?app=ze0jtd",
+      "historical_low": false,
+      "coupon": null
+    },
+    {
+      "title": "Devil In The Capital",
+      "store": "Steam",
+      "price": 2.64,
+      "regular_price": 26.49,
+      "discount": 90,
+      "url": "https://itad.link/018d9386-4d11-73e6-8455-76af4769bef2/?app=ze0jtd",
       "historical_low": false,
       "coupon": null
     },
@@ -7254,6 +7594,16 @@
       "coupon": null
     },
     {
+      "title": "COVID: The Outbreak Soundtrack",
+      "store": "GOG",
+      "price": 1.99,
+      "regular_price": 19.99,
+      "discount": 90,
+      "url": "https://itad.link/018d9386-426e-70bb-8b55-b16a15c6aa02/?app=ze0jtd",
+      "historical_low": false,
+      "coupon": null
+    },
+    {
       "title": "Train Simulator: The Count of Monster Disco",
       "store": "Steam",
       "price": 1.99,
@@ -7280,6 +7630,26 @@
       "regular_price": 17.4,
       "discount": 90,
       "url": "https://itad.link/018d9386-3f83-712c-b38a-7b32971266aa/?app=ze0jtd",
+      "historical_low": false,
+      "coupon": null
+    },
+    {
+      "title": "Celestian Tales: Realms Beyond",
+      "store": "GOG",
+      "price": 2.89,
+      "regular_price": 28.99,
+      "discount": 90,
+      "url": "https://itad.link/018d9386-3c5e-7274-a61e-f706b37f893c/?app=ze0jtd",
+      "historical_low": false,
+      "coupon": null
+    },
+    {
+      "title": "Celestian Tales: Old North",
+      "store": "GOG",
+      "price": 2.59,
+      "regular_price": 25.99,
+      "discount": 90,
+      "url": "https://itad.link/018d9386-3c5d-7308-bcaf-15da06b76b7a/?app=ze0jtd",
       "historical_low": false,
       "coupon": null
     },
@@ -7360,6 +7730,16 @@
       "regular_price": 27.99,
       "discount": 90,
       "url": "https://itad.link/018d9386-37ba-7222-bba5-852f63fa3c3e/?app=ze0jtd",
+      "historical_low": false,
+      "coupon": null
+    },
+    {
+      "title": "Brick Breaker",
+      "store": "Steam",
+      "price": 2.99,
+      "regular_price": 29.99,
+      "discount": 90,
+      "url": "https://itad.link/018d9386-36bd-7334-8494-182a6525c964/?app=ze0jtd",
       "historical_low": false,
       "coupon": null
     },
@@ -7560,16 +7940,6 @@
       "regular_price": 37.99,
       "discount": 90,
       "url": "https://itad.link/018d9386-31f4-72e9-a1cf-64535adb3834/?app=ze0jtd",
-      "historical_low": false,
-      "coupon": null
-    },
-    {
-      "title": "BLACK CLOVER: QUARTET KNIGHTS",
-      "store": "Steam",
-      "price": 14.99,
-      "regular_price": 149.9,
-      "discount": 90,
-      "url": "https://itad.link/018d9386-31f1-729b-a68a-de47c9c7e81a/?app=ze0jtd",
       "historical_low": false,
       "coupon": null
     },
@@ -8194,16 +8564,6 @@
       "coupon": null
     },
     {
-      "title": "One Piece: Unlimited World Red - Deluxe Edition",
-      "store": "Steam",
-      "price": 23.98,
-      "regular_price": 199.9,
-      "discount": 88,
-      "url": "https://itad.link/018d9386-a6ef-7059-a862-cc394283ea56/?app=ze0jtd",
-      "historical_low": false,
-      "coupon": null
-    },
-    {
       "title": "Relicbound",
       "store": "Steam",
       "price": 2.91,
@@ -8310,6 +8670,16 @@
       "regular_price": 37.49,
       "discount": 89,
       "url": "https://itad.link/018d9386-e03a-738f-99e2-5a0a5ffe074e/?app=ze0jtd",
+      "historical_low": false,
+      "coupon": null
+    },
+    {
+      "title": "The Bridge",
+      "store": "GOG",
+      "price": 5.99,
+      "regular_price": 19.99,
+      "discount": 70,
+      "url": "https://itad.link/019547ba-6a54-7175-a27b-4f4e3b55f994/?app=ze0jtd",
       "historical_low": false,
       "coupon": null
     },
@@ -8554,16 +8924,6 @@
       "coupon": null
     },
     {
-      "title": "Assassin Of Spider 2: 2099",
-      "store": "Steam",
-      "price": 2.81,
-      "regular_price": 23.49,
-      "discount": 88,
-      "url": "https://itad.link/019ebaaf-dd75-71a9-b42f-3b1fb8fdf083/?app=ze0jtd",
-      "historical_low": false,
-      "coupon": null
-    },
-    {
       "title": "Temlegen: System Breakdown",
       "store": "Steam",
       "price": 2.81,
@@ -8614,12 +8974,32 @@
       "coupon": null
     },
     {
+      "title": "Keen Intuition",
+      "store": "Steam",
+      "price": 10.83,
+      "regular_price": 90.92,
+      "discount": 88,
+      "url": "https://itad.link/0193dfc1-6d0d-7232-943b-bde1f2a6c577/?app=ze0jtd",
+      "historical_low": false,
+      "coupon": null
+    },
+    {
       "title": "Nemezis III x Drug Dealer Simulator",
       "store": "Steam",
       "price": 8.06,
       "regular_price": 64.58,
       "discount": 88,
       "url": "https://itad.link/0193799e-0164-700b-b4f1-fc759d1dc0af/?app=ze0jtd",
+      "historical_low": false,
+      "coupon": null
+    },
+    {
+      "title": "Aeonic",
+      "store": "Steam",
+      "price": 3.29,
+      "regular_price": 27.49,
+      "discount": 88,
+      "url": "https://itad.link/0192fc24-e82c-7047-b2ed-1f1694480a5c/?app=ze0jtd",
       "historical_low": false,
       "coupon": null
     },
@@ -8764,22 +9144,12 @@
       "coupon": null
     },
     {
-      "title": "POSTAL Redux",
+      "title": "One Piece Burning Blood - Gold Edition",
       "store": "Steam",
-      "price": 3.59,
-      "regular_price": 29.99,
+      "price": 26.38,
+      "regular_price": 219.9,
       "discount": 88,
-      "url": "https://itad.link/018d9386-b056-73f3-85eb-22cf8b1c51c1/?app=ze0jtd",
-      "historical_low": false,
-      "coupon": null
-    },
-    {
-      "title": "The POSTAL 2 Collection",
-      "store": "Steam",
-      "price": 5.25,
-      "regular_price": 42.78,
-      "discount": 88,
-      "url": "https://itad.link/018d9386-b055-71fc-96b4-6379f1a72565/?app=ze0jtd",
+      "url": "https://itad.link/018d9386-a5ee-7372-b705-7959a3a939ca/?app=ze0jtd",
       "historical_low": false,
       "coupon": null
     },
@@ -8790,6 +9160,16 @@
       "regular_price": 120.58,
       "discount": 88,
       "url": "https://itad.link/018d9386-a50d-72a0-9429-3553826f63f9/?app=ze0jtd",
+      "historical_low": false,
+      "coupon": null
+    },
+    {
+      "title": "MY HERO ONE'S JUSTICE 2",
+      "store": "Steam",
+      "price": 18.58,
+      "regular_price": 154.9,
+      "discount": 88,
+      "url": "https://itad.link/018d9386-9e0b-735d-887b-da6b30427f10/?app=ze0jtd",
       "historical_low": false,
       "coupon": null
     },
@@ -8820,16 +9200,6 @@
       "regular_price": 39.98,
       "discount": 88,
       "url": "https://itad.link/018d9386-7e23-73e1-93df-a23481d413f9/?app=ze0jtd",
-      "historical_low": false,
-      "coupon": null
-    },
-    {
-      "title": "Glitch Busters: Deluxe Edition",
-      "store": "Steam",
-      "price": 7.75,
-      "regular_price": 63.43,
-      "discount": 88,
-      "url": "https://itad.link/018d9386-6bdf-734f-bcfa-879970150f1e/?app=ze0jtd",
       "historical_low": false,
       "coupon": null
     },
@@ -9004,6 +9374,16 @@
       "coupon": null
     },
     {
+      "title": "Observa",
+      "store": "Steam",
+      "price": 2.66,
+      "regular_price": 20.49,
+      "discount": 87,
+      "url": "https://itad.link/019bd8dd-1cdc-71ff-8fc4-93256277ddc4/?app=ze0jtd",
+      "historical_low": false,
+      "coupon": null
+    },
+    {
       "title": "Garlic Builder & Eggo",
       "store": "Steam",
       "price": 5.38,
@@ -9044,22 +9424,12 @@
       "coupon": null
     },
     {
-      "title": "Anamiks Indie Games #11",
+      "title": "Wayward Starter Pack",
       "store": "Steam",
-      "price": 7.69,
-      "regular_price": 57.16,
+      "price": 5.01,
+      "regular_price": 37.48,
       "discount": 87,
-      "url": "https://itad.link/0194e13f-7c65-72b9-943a-5e4588aab83e/?app=ze0jtd",
-      "historical_low": false,
-      "coupon": null
-    },
-    {
-      "title": "Anamiks Indie Games #10",
-      "store": "Steam",
-      "price": 7.7,
-      "regular_price": 57.16,
-      "discount": 87,
-      "url": "https://itad.link/0194e108-5d22-7241-b9ec-2f83be1c8b02/?app=ze0jtd",
+      "url": "https://itad.link/019a60d1-1b96-7054-b73d-8b7b34df7969/?app=ze0jtd",
       "historical_low": false,
       "coupon": null
     }
