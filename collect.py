@@ -12,11 +12,11 @@ if not key:
 
 STORE_NAMES = {
     "steam": "Steam",
-    "epic games store": "Epic Games",
-    "epic games": "Epic Games",
     "gog": "GOG",
     "nuuvem": "Nuuvem",
 }
+
+EPIC_SHOP_ID = 16  # Identificador da Epic Game Store no IsThereAnyDeal.
 
 def get_json(endpoint, **query):
     request = Request(
@@ -54,6 +54,8 @@ stores_by_id = {
     for shop in shops
     if shop["title"].strip().casefold() in STORE_NAMES
 }
+if any(shop["id"] == EPIC_SHOP_ID for shop in shops):
+    stores_by_id[EPIC_SHOP_ID] = "Epic Games"
 if not stores_by_id:
     raise SystemExit("Nenhuma das lojas configuradas foi encontrada para o Brasil.")
 
