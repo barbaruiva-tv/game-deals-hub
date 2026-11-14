@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-14T13:38:31.443320+00:00",
+  "updated_at": "2026-11-14T18:59:26.261463+00:00",
   "source": "IsThereAnyDeal",
   "country": "BR",
   "deals": [
@@ -452,23 +452,6 @@
       "release_year": null
     },
     {
-      "title": "ReRoad",
-      "store": "Steam",
-      "price": 3.2,
-      "regular_price": 53.49,
-      "discount": 94,
-      "url": "https://itad.link/018d9386-b7db-73f8-9a8d-f539012ddbd4/?app=ze0jtd",
-      "historical_low": false,
-      "coupon": null,
-      "genres": [
-        "Casual",
-        "Indie",
-        "Strategy"
-      ],
-      "release_year": null,
-      "metadata_source": "RAWG"
-    },
-    {
       "title": "Crystar",
       "store": "Steam",
       "price": 6.9,
@@ -490,6 +473,18 @@
       "regular_price": 37.49,
       "discount": 93,
       "url": "https://itad.link/019eb589-0d5f-70a5-a612-afe90cb5b11d/?app=ze0jtd",
+      "historical_low": false,
+      "coupon": null,
+      "genres": [],
+      "release_year": null
+    },
+    {
+      "title": "Battle Babes: Cyber, Wrath & Peace",
+      "store": "Steam",
+      "price": 2.93,
+      "regular_price": 41.99,
+      "discount": 93,
+      "url": "https://itad.link/0194c2ae-2e85-7039-af13-96cf4e144f8d/?app=ze0jtd",
       "historical_low": false,
       "coupon": null,
       "genres": [],
@@ -697,54 +692,6 @@
       "metadata_source": "RAWG"
     },
     {
-      "title": "Car Mechanic Simulator 2018",
-      "store": "Steam",
-      "price": 4.19,
-      "regular_price": 59.99,
-      "discount": 93,
-      "url": "https://itad.link/018d9386-3b92-7178-9b33-4c70ddf060b1/?app=ze0jtd",
-      "historical_low": false,
-      "coupon": null,
-      "genres": [
-        "Racing",
-        "Simulation"
-      ],
-      "release_year": 2017,
-      "metadata_source": "RAWG"
-    },
-    {
-      "title": "Car Mechanic Simulator 2015 Gold Edition",
-      "store": "Steam",
-      "price": 3.21,
-      "regular_price": 45.99,
-      "discount": 93,
-      "url": "https://itad.link/018d9386-3b92-7178-9b33-4c70cfff1af9/?app=ze0jtd",
-      "historical_low": false,
-      "coupon": null,
-      "genres": [
-        "Racing",
-        "Simulation"
-      ],
-      "release_year": 2016,
-      "metadata_source": "RAWG"
-    },
-    {
-      "title": "Car Mechanic Simulator 2015",
-      "store": "Steam",
-      "price": 4.19,
-      "regular_price": 59.99,
-      "discount": 93,
-      "url": "https://itad.link/018d9386-3b91-72db-857f-3fdb0db610ad/?app=ze0jtd",
-      "historical_low": false,
-      "coupon": null,
-      "genres": [
-        "Racing",
-        "Simulation"
-      ],
-      "release_year": 2015,
-      "metadata_source": "RAWG"
-    },
-    {
       "title": "Virus Lab",
       "store": "Steam",
       "price": 3.51,
@@ -779,30 +726,6 @@
       "regular_price": 35.79,
       "discount": 92,
       "url": "https://itad.link/01923401-bc47-7261-ad30-2d7a7139dee1/?app=ze0jtd",
-      "historical_low": false,
-      "coupon": null,
-      "genres": [],
-      "release_year": null
-    },
-    {
-      "title": "True Mechanic",
-      "store": "Steam",
-      "price": 8.14,
-      "regular_price": 95.98,
-      "discount": 92,
-      "url": "https://itad.link/018d9386-e9f2-72f8-9a28-729cd86bbb53/?app=ze0jtd",
-      "historical_low": false,
-      "coupon": null,
-      "genres": [],
-      "release_year": null
-    },
-    {
-      "title": "Thief Bundle",
-      "store": "Steam",
-      "price": 9.16,
-      "regular_price": 107.98,
-      "discount": 92,
-      "url": "https://itad.link/018d9386-de2a-70c2-abb6-f079705d0fe7/?app=ze0jtd",
       "historical_low": false,
       "coupon": null,
       "genres": [],
@@ -878,18 +801,6 @@
       "metadata_source": "RAWG"
     },
     {
-      "title": "CMS 2018 + CMS VR",
-      "store": "Steam",
-      "price": 9.16,
-      "regular_price": 107.98,
-      "discount": 92,
-      "url": "https://itad.link/018d9386-3e9b-72a3-8e07-2cb72d0f4ab3/?app=ze0jtd",
-      "historical_low": false,
-      "coupon": null,
-      "genres": [],
-      "release_year": null
-    },
-    {
       "title": "Attentat 1942",
       "store": "GOG",
       "price": 1.79,
@@ -904,24 +815,6 @@
         "Simulation"
       ],
       "release_year": 2017,
-      "metadata_source": "RAWG"
-    },
-    {
-      "title": "American Theft 80s",
-      "store": "Steam",
-      "price": 4.79,
-      "regular_price": 59.99,
-      "discount": 92,
-      "url": "https://itad.link/018d9386-2069-722a-ba51-d0e6bc9492bc/?app=ze0jtd",
-      "historical_low": false,
-      "coupon": null,
-      "genres": [
-        "Action",
-        "Adventure",
-        "Indie",
-        "Simulation"
-      ],
-      "release_year": 2022,
       "metadata_source": "RAWG"
     },
     {
@@ -954,18 +847,6 @@
       "release_year": null
     },
     {
-      "title": "Car Mechanic Simulator 2018 and Tank Mechanic Simulator",
-      "store": "Steam",
-      "price": 6.7,
-      "regular_price": 77.98,
-      "discount": 91,
-      "url": "https://itad.link/019e4466-2bbb-73be-af13-dd31d409fe2f/?app=ze0jtd",
-      "historical_low": false,
-      "coupon": null,
-      "genres": [],
-      "release_year": null
-    },
-    {
       "title": "The Fallow City",
       "store": "Steam",
       "price": 2.96,
@@ -981,18 +862,6 @@
       ],
       "release_year": 2025,
       "metadata_source": "RAWG"
-    },
-    {
-      "title": "Game Thief Tycoon",
-      "store": "Steam",
-      "price": 7.54,
-      "regular_price": 80.98,
-      "discount": 91,
-      "url": "https://itad.link/01924304-54ad-734c-92c5-1c771502cf61/?app=ze0jtd",
-      "historical_low": false,
-      "coupon": null,
-      "genres": [],
-      "release_year": null
     },
     {
       "title": "Tower Hunter:Erza's Trial",
@@ -1014,53 +883,6 @@
       "metadata_source": "RAWG"
     },
     {
-      "title": "Thief Simulator VR",
-      "store": "Steam",
-      "price": 3.41,
-      "regular_price": 37.99,
-      "discount": 91,
-      "url": "https://itad.link/018d9386-de2e-7358-abae-4b5164d4ef58/?app=ze0jtd",
-      "historical_low": false,
-      "coupon": null,
-      "genres": [
-        "Action",
-        "Indie",
-        "Simulation"
-      ],
-      "release_year": 2020,
-      "metadata_source": "RAWG"
-    },
-    {
-      "title": "Thief Simulator",
-      "store": "Steam",
-      "price": 5.39,
-      "regular_price": 59.99,
-      "discount": 91,
-      "url": "https://itad.link/018d9386-de2e-7358-abae-4b515ad0ca5f/?app=ze0jtd",
-      "historical_low": false,
-      "coupon": null,
-      "genres": [
-        "Action",
-        "Adventure",
-        "Indie",
-        "Simulation"
-      ],
-      "release_year": 2018,
-      "metadata_source": "RAWG"
-    },
-    {
-      "title": "SHIP MECHANIC",
-      "store": "Steam",
-      "price": 10.27,
-      "regular_price": 108.88,
-      "discount": 91,
-      "url": "https://itad.link/018d9386-c588-7068-8d95-215b018b984e/?app=ze0jtd",
-      "historical_low": false,
-      "coupon": null,
-      "genres": [],
-      "release_year": null
-    },
-    {
       "title": "Prodigal",
       "store": "Steam",
       "price": 2.6,
@@ -1076,18 +898,6 @@
       ],
       "release_year": 2020,
       "metadata_source": "RAWG"
-    },
-    {
-      "title": "Chop and steal - Timberman VR World Premiere bundle",
-      "store": "Steam",
-      "price": 5.45,
-      "regular_price": 58.03,
-      "discount": 91,
-      "url": "https://itad.link/018d9386-7b01-7106-a007-f5d97416b151/?app=ze0jtd",
-      "historical_low": false,
-      "coupon": null,
-      "genres": [],
-      "release_year": null
     },
     {
       "title": "Hogwarts Legacy: Digital Deluxe Edition",
@@ -1118,21 +928,6 @@
       "metadata_source": "RAWG"
     },
     {
-      "title": "Firefighting : Into The Flames",
-      "store": "Steam",
-      "price": 3.41,
-      "regular_price": 37.99,
-      "discount": 91,
-      "url": "https://itad.link/018d9386-63ec-7211-adde-956b136fd655/?app=ze0jtd",
-      "historical_low": false,
-      "coupon": null,
-      "genres": [
-        "Simulation"
-      ],
-      "release_year": 2018,
-      "metadata_source": "RAWG"
-    },
-    {
       "title": "DISTRAINT 2",
       "store": "GOG",
       "price": 2.69,
@@ -1149,18 +944,6 @@
       ],
       "release_year": 2018,
       "metadata_source": "RAWG"
-    },
-    {
-      "title": "CMS Bundle",
-      "store": "Steam",
-      "price": 11.09,
-      "regular_price": 120.58,
-      "discount": 91,
-      "url": "https://itad.link/018d9386-3e9b-72a3-8e07-2cb72c6d1c42/?app=ze0jtd",
-      "historical_low": false,
-      "coupon": null,
-      "genres": [],
-      "release_year": null
     },
     {
       "title": "Batman Arkham Collection",
@@ -1186,8 +969,13 @@
       "url": "https://itad.link/018d9386-2404-7374-8136-299a895a15d3/?app=ze0jtd",
       "historical_low": false,
       "coupon": null,
-      "genres": [],
-      "release_year": null
+      "genres": [
+        "Action",
+        "Indie",
+        "Strategy"
+      ],
+      "release_year": 2014,
+      "metadata_source": "RAWG"
     },
     {
       "title": "The Political Simulator",
@@ -1234,8 +1022,11 @@
       "url": "https://itad.link/019d97c5-ba19-718f-8803-93a89ae3bd0c/?app=ze0jtd",
       "historical_low": false,
       "coupon": null,
-      "genres": [],
-      "release_year": null
+      "genres": [
+        "Action"
+      ],
+      "release_year": 2020,
+      "metadata_source": "RAWG"
     },
     {
       "title": "Spleef Game",
@@ -1246,8 +1037,13 @@
       "url": "https://itad.link/019d9653-0421-7020-ad6d-0bc360de2dc9/?app=ze0jtd",
       "historical_low": false,
       "coupon": null,
-      "genres": [],
-      "release_year": null
+      "genres": [
+        "Action",
+        "Casual",
+        "Indie"
+      ],
+      "release_year": 2024,
+      "metadata_source": "RAWG"
     },
     {
       "title": "SURVIVAL",
@@ -1342,8 +1138,12 @@
       "url": "https://itad.link/019a7519-4f54-7224-9f37-e0acbdf38615/?app=ze0jtd",
       "historical_low": false,
       "coupon": null,
-      "genres": [],
-      "release_year": null
+      "genres": [
+        "Action",
+        "Sports"
+      ],
+      "release_year": null,
+      "metadata_source": "RAWG"
     },
     {
       "title": "Spudtoon - Born To Peel",
@@ -1354,8 +1154,13 @@
       "url": "https://itad.link/0199ab80-1575-7350-aee1-bf11869ac6f2/?app=ze0jtd",
       "historical_low": false,
       "coupon": null,
-      "genres": [],
-      "release_year": null
+      "genres": [
+        "Action",
+        "Adventure",
+        "Indie"
+      ],
+      "release_year": 2025,
+      "metadata_source": "RAWG"
     },
     {
       "title": "LEGO Batman Trilogy",
@@ -1378,8 +1183,11 @@
       "url": "https://itad.link/019889c7-20aa-70af-ad90-5dfceb3ba3e3/?app=ze0jtd",
       "historical_low": false,
       "coupon": null,
-      "genres": [],
-      "release_year": null
+      "genres": [
+        "RPG"
+      ],
+      "release_year": 2025,
+      "metadata_source": "RAWG"
     },
     {
       "title": "Tower Survivor",
@@ -1390,32 +1198,13 @@
       "url": "https://itad.link/019864a5-8428-72a2-9c8d-da75b50d58b6/?app=ze0jtd",
       "historical_low": false,
       "coupon": null,
-      "genres": [],
-      "release_year": null
-    },
-    {
-      "title": "Thief Simulator and Tank Mechanic Simulator",
-      "store": "Steam",
-      "price": 11.14,
-      "regular_price": 116.98,
-      "discount": 90,
-      "url": "https://itad.link/019720ad-6636-7283-919c-5d2a3a76d52e/?app=ze0jtd",
-      "historical_low": false,
-      "coupon": null,
-      "genres": [],
-      "release_year": null
-    },
-    {
-      "title": "Stone 4 Souls",
-      "store": "Steam",
-      "price": 1.9,
-      "regular_price": 19,
-      "discount": 90,
-      "url": "https://itad.link/0196dc43-dde2-71c5-be4d-bdf27e32be65/?app=ze0jtd",
-      "historical_low": false,
-      "coupon": null,
-      "genres": [],
-      "release_year": null
+      "genres": [
+        "Casual",
+        "Indie",
+        "RPG"
+      ],
+      "release_year": 2025,
+      "metadata_source": "RAWG"
     },
     {
       "title": "Phantom Breaker: Battle Grounds Ultimate Soundtrack",
@@ -1430,18 +1219,6 @@
       "release_year": null
     },
     {
-      "title": "LGV ARCADE BOX",
-      "store": "Steam",
-      "price": 15.81,
-      "regular_price": 156.6,
-      "discount": 90,
-      "url": "https://itad.link/0195e0b3-9cf4-736f-9422-61e8e5da2469/?app=ze0jtd",
-      "historical_low": false,
-      "coupon": null,
-      "genres": [],
-      "release_year": null
-    },
-    {
       "title": "Rise Eterna 2",
       "store": "GOG",
       "price": 5.99,
@@ -1450,8 +1227,15 @@
       "url": "https://itad.link/0195b3f6-676d-72a4-9d2f-167a8878d9ad/?app=ze0jtd",
       "historical_low": false,
       "coupon": null,
-      "genres": [],
-      "release_year": null
+      "genres": [
+        "Action",
+        "Adventure",
+        "Casual",
+        "RPG",
+        "Strategy"
+      ],
+      "release_year": 2025,
+      "metadata_source": "RAWG"
     },
     {
       "title": "Vessels of Decay",
@@ -1462,8 +1246,13 @@
       "url": "https://itad.link/0195a511-dba3-7282-ae09-51e2539c6b81/?app=ze0jtd",
       "historical_low": false,
       "coupon": null,
-      "genres": [],
-      "release_year": null
+      "genres": [
+        "Action",
+        "Adventure",
+        "RPG"
+      ],
+      "release_year": 2025,
+      "metadata_source": "RAWG"
     },
     {
       "title": "The Dawning Clocks of Time Remake",
@@ -1474,8 +1263,13 @@
       "url": "https://itad.link/01957fed-dd37-7045-84e4-9c67e011367c/?app=ze0jtd",
       "historical_low": false,
       "coupon": null,
-      "genres": [],
-      "release_year": null
+      "genres": [
+        "Action",
+        "Adventure",
+        "Indie"
+      ],
+      "release_year": 2024,
+      "metadata_source": "RAWG"
     },
     {
       "title": "Gungrave G.O.R.E",
@@ -1486,8 +1280,12 @@
       "url": "https://itad.link/01956ca6-74a5-7250-bd67-53390bd93d19/?app=ze0jtd",
       "historical_low": false,
       "coupon": null,
-      "genres": [],
-      "release_year": null
+      "genres": [
+        "Action",
+        "Adventure"
+      ],
+      "release_year": 2022,
+      "metadata_source": "RAWG"
     },
     {
       "title": "Bears In Space",
@@ -1498,8 +1296,13 @@
       "url": "https://itad.link/01956ca6-74a5-7250-bd67-53390b553289/?app=ze0jtd",
       "historical_low": false,
       "coupon": null,
-      "genres": [],
-      "release_year": null
+      "genres": [
+        "Action",
+        "Adventure",
+        "Indie"
+      ],
+      "release_year": 2024,
+      "metadata_source": "RAWG"
     },
     {
       "title": "Shadowgate 2",
@@ -1510,8 +1313,11 @@
       "url": "https://itad.link/01950539-d414-70f4-a5a7-232bbef32585/?app=ze0jtd",
       "historical_low": false,
       "coupon": null,
-      "genres": [],
-      "release_year": null
+      "genres": [
+        "Adventure"
+      ],
+      "release_year": 2025,
+      "metadata_source": "RAWG"
     },
     {
       "title": "DEMON GAZE EXTRA Digital Premium Edition",
@@ -1558,8 +1364,12 @@
       "url": "https://itad.link/0193e471-491c-73ee-bd58-0942c18af0ee/?app=ze0jtd",
       "historical_low": false,
       "coupon": null,
-      "genres": [],
-      "release_year": null
+      "genres": [
+        "Adventure",
+        "Indie"
+      ],
+      "release_year": 2021,
+      "metadata_source": "RAWG"
     },
     {
       "title": "MXGP 24: The Official Game",
@@ -1570,8 +1380,12 @@
       "url": "https://itad.link/01937210-3be5-7329-9f31-7e3128833f2b/?app=ze0jtd",
       "historical_low": false,
       "coupon": null,
-      "genres": [],
-      "release_year": null
+      "genres": [
+        "Racing",
+        "Sports"
+      ],
+      "release_year": 2024,
+      "metadata_source": "RAWG"
     },
     {
       "title": "Akimbot",
@@ -1582,8 +1396,12 @@
       "url": "https://itad.link/01936df0-a9ab-73ba-81e7-f3868a1d0378/?app=ze0jtd",
       "historical_low": false,
       "coupon": null,
-      "genres": [],
-      "release_year": null
+      "genres": [
+        "Action",
+        "Adventure"
+      ],
+      "release_year": 2024,
+      "metadata_source": "RAWG"
     },
     {
       "title": "Gold Mining Simulator & Giant Machines 2017",
@@ -1592,18 +1410,6 @@
       "regular_price": 107.98,
       "discount": 90,
       "url": "https://itad.link/01929ea7-2cc6-7273-aab7-78bb268d1de4/?app=ze0jtd",
-      "historical_low": false,
-      "coupon": null,
-      "genres": [],
-      "release_year": null
-    },
-    {
-      "title": "Game Builder Tycoon",
-      "store": "Steam",
-      "price": 2.99,
-      "regular_price": 29.99,
-      "discount": 90,
-      "url": "https://itad.link/01924306-f759-715e-b295-8f133cf85044/?app=ze0jtd",
       "historical_low": false,
       "coupon": null,
       "genres": [],
@@ -1630,20 +1436,12 @@
       "url": "https://itad.link/01920a5e-c54e-721f-916a-d29c36ec576d/?app=ze0jtd",
       "historical_low": false,
       "coupon": null,
-      "genres": [],
-      "release_year": null
-    },
-    {
-      "title": "NEON Squad Tactics",
-      "store": "Steam",
-      "price": 5.99,
-      "regular_price": 59.99,
-      "discount": 90,
-      "url": "https://itad.link/01920433-5f06-72c9-8a21-1dfb2dceea48/?app=ze0jtd",
-      "historical_low": false,
-      "coupon": null,
-      "genres": [],
-      "release_year": null
+      "genres": [
+        "Action",
+        "Adventure"
+      ],
+      "release_year": 2021,
+      "metadata_source": "RAWG"
     },
     {
       "title": "X4: Kingdom End Soundtrack",
@@ -1750,8 +1548,15 @@
       "url": "https://itad.link/01917987-aa0f-7059-a96d-ba13a0e100b7/?app=ze0jtd",
       "historical_low": false,
       "coupon": null,
-      "genres": [],
-      "release_year": null
+      "genres": [
+        "Adventure",
+        "Casual",
+        "Indie",
+        "RPG",
+        "Strategy"
+      ],
+      "release_year": 2024,
+      "metadata_source": "RAWG"
     },
     {
       "title": "Rise Eterna Bundle",
@@ -1763,7 +1568,8 @@
       "historical_low": false,
       "coupon": null,
       "genres": [],
-      "release_year": null
+      "release_year": 2024,
+      "metadata_source": "RAWG"
     },
     {
       "title": "Blocky Farm",
@@ -1774,20 +1580,14 @@
       "url": "https://itad.link/01912352-d4c9-717c-9c18-71a0415b1037/?app=ze0jtd",
       "historical_low": false,
       "coupon": null,
-      "genres": [],
-      "release_year": null
-    },
-    {
-      "title": "Thief Manager",
-      "store": "Steam",
-      "price": 8.08,
-      "regular_price": 80.98,
-      "discount": 90,
-      "url": "https://itad.link/019108e3-0f1f-723b-b532-121c398b749c/?app=ze0jtd",
-      "historical_low": false,
-      "coupon": null,
-      "genres": [],
-      "release_year": null
+      "genres": [
+        "Casual",
+        "Family",
+        "Simulation",
+        "Strategy"
+      ],
+      "release_year": 2017,
+      "metadata_source": "RAWG"
     },
     {
       "title": "Alien Outpost",
@@ -1798,8 +1598,13 @@
       "url": "https://itad.link/01906339-68a3-7286-9e1d-f1644feb08cd/?app=ze0jtd",
       "historical_low": false,
       "coupon": null,
-      "genres": [],
-      "release_year": null
+      "genres": [
+        "Action",
+        "Adventure",
+        "Indie"
+      ],
+      "release_year": 2024,
+      "metadata_source": "RAWG"
     },
     {
       "title": "Ingression",
@@ -1810,8 +1615,13 @@
       "url": "https://itad.link/018f3ec4-3e5b-73bb-b20f-5955eb0705d6/?app=ze0jtd",
       "historical_low": false,
       "coupon": null,
-      "genres": [],
-      "release_year": null
+      "genres": [
+        "Action",
+        "Adventure",
+        "Indie"
+      ],
+      "release_year": 2024,
+      "metadata_source": "RAWG"
     },
     {
       "title": "The Chant",
@@ -1822,8 +1632,12 @@
       "url": "https://itad.link/018ecd48-2678-719a-9e25-d7f8f65eae15/?app=ze0jtd",
       "historical_low": false,
       "coupon": null,
-      "genres": [],
-      "release_year": null
+      "genres": [
+        "Action",
+        "Adventure"
+      ],
+      "release_year": 2022,
+      "metadata_source": "RAWG"
     },
     {
       "title": "Scars Above",
@@ -1834,8 +1648,12 @@
       "url": "https://itad.link/018ecd48-255c-7327-9728-545383f4721a/?app=ze0jtd",
       "historical_low": false,
       "coupon": null,
-      "genres": [],
-      "release_year": null
+      "genres": [
+        "Action",
+        "Adventure"
+      ],
+      "release_year": 2023,
+      "metadata_source": "RAWG"
     },
     {
       "title": "Wildlands_Resurgence",
@@ -1870,8 +1688,13 @@
       "url": "https://itad.link/018df5dd-0949-71a8-a6eb-4e10857d4737/?app=ze0jtd",
       "historical_low": false,
       "coupon": null,
-      "genres": [],
-      "release_year": null
+      "genres": [
+        "Action",
+        "Adventure",
+        "RPG"
+      ],
+      "release_year": 2024,
+      "metadata_source": "RAWG"
     },
     {
       "title": "Roboplant",
@@ -1882,8 +1705,13 @@
       "url": "https://itad.link/018df566-1bfe-72c3-b40f-80aa5a77c57a/?app=ze0jtd",
       "historical_low": false,
       "coupon": null,
-      "genres": [],
-      "release_year": null
+      "genres": [
+        "Indie",
+        "Simulation",
+        "Strategy"
+      ],
+      "release_year": 2022,
+      "metadata_source": "RAWG"
     },
     {
       "title": "Ad Infinitum Supporter Edition",
@@ -1910,18 +1738,6 @@
       "release_year": null
     },
     {
-      "title": "Thief Mechanic",
-      "store": "Steam",
-      "price": 12.17,
-      "regular_price": 120.58,
-      "discount": 90,
-      "url": "https://itad.link/018d9610-fb27-72c4-abdb-00709c32c995/?app=ze0jtd",
-      "historical_low": false,
-      "coupon": null,
-      "genres": [],
-      "release_year": null
-    },
-    {
       "title": "POSTAL 2: Paradise Lost",
       "store": "GOG",
       "price": 3.29,
@@ -1930,8 +1746,14 @@
       "url": "https://itad.link/018d9386-b055-71fc-96b4-637a01543699/?app=ze0jtd",
       "historical_low": false,
       "coupon": null,
-      "genres": [],
-      "release_year": null
+      "genres": [
+        "Action",
+        "Adventure",
+        "Indie",
+        "Shooter"
+      ],
+      "release_year": 2015,
+      "metadata_source": "RAWG"
     },
     {
       "title": "Zombie Rollerz: Pinball Heroes",
@@ -1942,8 +1764,11 @@
       "url": "https://itad.link/018d9386-fd18-7069-bf60-bed568639cb1/?app=ze0jtd",
       "historical_low": false,
       "coupon": null,
-      "genres": [],
-      "release_year": null
+      "genres": [
+        "Arcade"
+      ],
+      "release_year": 2022,
+      "metadata_source": "RAWG"
     },
     {
       "title": "Zanki Zero: Last Beginning",
@@ -1954,20 +1779,11 @@
       "url": "https://itad.link/018d9386-fcf7-70fe-8f03-f58a85af950c/?app=ze0jtd",
       "historical_low": false,
       "coupon": null,
-      "genres": [],
-      "release_year": null
-    },
-    {
-      "title": "Yak & Co Puzzle Bundle",
-      "store": "Steam",
-      "price": 6.06,
-      "regular_price": 60.78,
-      "discount": 90,
-      "url": "https://itad.link/018d9386-fa5c-700b-a7ea-7ea9eaec0b6c/?app=ze0jtd",
-      "historical_low": false,
-      "coupon": null,
-      "genres": [],
-      "release_year": null
+      "genres": [
+        "RPG"
+      ],
+      "release_year": 2018,
+      "metadata_source": "RAWG"
     },
     {
       "title": "X Rebirth VR Edition",
@@ -2026,8 +1842,13 @@
       "url": "https://itad.link/018d9386-fa40-72df-bc1f-590cce6f719d/?app=ze0jtd",
       "historical_low": false,
       "coupon": null,
-      "genres": [],
-      "release_year": null
+      "genres": [
+        "Action",
+        "Indie",
+        "RPG"
+      ],
+      "release_year": 2022,
+      "metadata_source": "RAWG"
     },
     {
       "title": "WRC 8 FIA World Rally Championship",
@@ -2038,8 +1859,12 @@
       "url": "https://itad.link/018d9386-f966-7308-add8-95648dc23d43/?app=ze0jtd",
       "historical_low": false,
       "coupon": null,
-      "genres": [],
-      "release_year": null
+      "genres": [
+        "Arcade",
+        "Racing"
+      ],
+      "release_year": 2019,
+      "metadata_source": "RAWG"
     },
     {
       "title": "WRC 7 FIA World Rally Championship",
@@ -2050,8 +1875,12 @@
       "url": "https://itad.link/018d9386-f966-7308-add8-95645f78931b/?app=ze0jtd",
       "historical_low": false,
       "coupon": null,
-      "genres": [],
-      "release_year": null
+      "genres": [
+        "Racing",
+        "Sports"
+      ],
+      "release_year": 2017,
+      "metadata_source": "RAWG"
     },
     {
       "title": "WRC 6",
@@ -2098,8 +1927,13 @@
       "url": "https://itad.link/018d9386-f61a-712b-9283-95303e022800/?app=ze0jtd",
       "historical_low": false,
       "coupon": null,
-      "genres": [],
-      "release_year": null
+      "genres": [
+        "Adventure",
+        "Indie",
+        "RPG"
+      ],
+      "release_year": 2018,
+      "metadata_source": "RAWG"
     },
     {
       "title": "Wild Terra 2: New Lands",
@@ -2110,8 +1944,14 @@
       "url": "https://itad.link/018d9386-f614-7210-a32a-a1fdc7c6553b/?app=ze0jtd",
       "historical_low": false,
       "coupon": null,
-      "genres": [],
-      "release_year": null
+      "genres": [
+        "Action",
+        "Indie",
+        "Massively Multiplayer",
+        "RPG"
+      ],
+      "release_year": 2021,
+      "metadata_source": "RAWG"
     },
     {
       "title": "Wildcat Gun Machine",
@@ -2122,8 +1962,12 @@
       "url": "https://itad.link/018d9386-f60d-70d3-a334-2d145190af04/?app=ze0jtd",
       "historical_low": false,
       "coupon": null,
-      "genres": [],
-      "release_year": null
+      "genres": [
+        "Action",
+        "Indie"
+      ],
+      "release_year": 2022,
+      "metadata_source": "RAWG"
     },
     {
       "title": "The Whispering Valley | La vallée qui murmure",
@@ -2146,8 +1990,14 @@
       "url": "https://itad.link/018d9386-f5fe-7054-a1bf-4d103da0d4e1/?app=ze0jtd",
       "historical_low": false,
       "coupon": null,
-      "genres": [],
-      "release_year": null
+      "genres": [
+        "Adventure",
+        "Educational",
+        "Indie",
+        "Puzzle"
+      ],
+      "release_year": 2021,
+      "metadata_source": "RAWG"
     },
     {
       "title": "The Whispered World Special Edition",
@@ -2158,8 +2008,14 @@
       "url": "https://itad.link/018d9386-f5fd-73d3-a351-ef2b8db60040/?app=ze0jtd",
       "historical_low": false,
       "coupon": null,
-      "genres": [],
-      "release_year": null
+      "genres": [
+        "Adventure",
+        "Indie",
+        "Puzzle",
+        "RPG"
+      ],
+      "release_year": 2014,
+      "metadata_source": "RAWG"
     },
     {
       "title": "Werewolf: The Apocalypse - Heart of the Forest",
@@ -2170,8 +2026,13 @@
       "url": "https://itad.link/018d9386-f4db-7240-bbb3-3637ea14f359/?app=ze0jtd",
       "historical_low": false,
       "coupon": null,
-      "genres": [],
-      "release_year": null
+      "genres": [
+        "Adventure",
+        "Indie",
+        "RPG"
+      ],
+      "release_year": 2020,
+      "metadata_source": "RAWG"
     },
     {
       "title": "Werewolf: The Apocalypse - Earthblood - Champion of Gaia Pack",
@@ -2206,8 +2067,13 @@
       "url": "https://itad.link/018d9386-f4da-71ae-9a80-f6435a9638fd/?app=ze0jtd",
       "historical_low": false,
       "coupon": null,
-      "genres": [],
-      "release_year": null
+      "genres": [
+        "Action",
+        "Adventure",
+        "RPG"
+      ],
+      "release_year": 2021,
+      "metadata_source": "RAWG"
     },
     {
       "title": "Way of the Samurai 4",
@@ -2218,8 +2084,12 @@
       "url": "https://itad.link/018d9386-f4c8-7217-a07a-d1d9f9666a78/?app=ze0jtd",
       "historical_low": false,
       "coupon": null,
-      "genres": [],
-      "release_year": null
+      "genres": [
+        "Action",
+        "Adventure"
+      ],
+      "release_year": 2011,
+      "metadata_source": "RAWG"
     },
     {
       "title": "Way of the Samurai 3",
@@ -2558,18 +2428,6 @@
       "release_year": null
     },
     {
-      "title": "Train Simulator: Gatwick Express BR Class 460 'Juniper' EMU Add-On",
-      "store": "Steam",
-      "price": 3.79,
-      "regular_price": 37.99,
-      "discount": 90,
-      "url": "https://itad.link/018d9386-e510-70f7-9723-001bd85d71ba/?app=ze0jtd",
-      "historical_low": false,
-      "coupon": null,
-      "genres": [],
-      "release_year": null
-    },
-    {
       "title": "Tower 57 Two-pack",
       "store": "GOG",
       "price": 3.99,
@@ -2678,36 +2536,12 @@
       "release_year": null
     },
     {
-      "title": "Timberman VR",
-      "store": "Steam",
-      "price": 2.64,
-      "regular_price": 26.49,
-      "discount": 90,
-      "url": "https://itad.link/018d9386-df67-71c0-ae9f-cd0b4170516b/?app=ze0jtd",
-      "historical_low": false,
-      "coupon": null,
-      "genres": [],
-      "release_year": null
-    },
-    {
       "title": "Three Minutes To Eight",
       "store": "GOG",
       "price": 4.69,
       "regular_price": 46.99,
       "discount": 90,
       "url": "https://itad.link/018d9386-de3e-731e-8714-5561a8d519be/?app=ze0jtd",
-      "historical_low": false,
-      "coupon": null,
-      "genres": [],
-      "release_year": null
-    },
-    {
-      "title": "Thief Simulator VR + CMS VR",
-      "store": "Steam",
-      "price": 8.46,
-      "regular_price": 88.18,
-      "discount": 90,
-      "url": "https://itad.link/018d9386-de2e-7358-abae-4b51659485a1/?app=ze0jtd",
       "historical_low": false,
       "coupon": null,
       "genres": [],
@@ -2774,18 +2608,6 @@
       "release_year": null
     },
     {
-      "title": "Tank Mechanic Simulator",
-      "store": "Steam",
-      "price": 6.99,
-      "regular_price": 69.99,
-      "discount": 90,
-      "url": "https://itad.link/018d9386-dbd4-733b-895c-2ef1b2edd413/?app=ze0jtd",
-      "historical_low": false,
-      "coupon": null,
-      "genres": [],
-      "release_year": null
-    },
-    {
       "title": "Tales of the Tiny Planet",
       "store": "Steam",
       "price": 3.29,
@@ -2840,30 +2662,6 @@
       "regular_price": 39.99,
       "discount": 90,
       "url": "https://itad.link/018d9386-d975-72c2-ac34-0bffaab869fe/?app=ze0jtd",
-      "historical_low": false,
-      "coupon": null,
-      "genres": [],
-      "release_year": null
-    },
-    {
-      "title": "Surgeon Simulator 2",
-      "store": "Steam",
-      "price": 5.99,
-      "regular_price": 59.99,
-      "discount": 90,
-      "url": "https://itad.link/018d9386-d84e-72d7-8a5d-5a30e5de1487/?app=ze0jtd",
-      "historical_low": false,
-      "coupon": null,
-      "genres": [],
-      "release_year": null
-    },
-    {
-      "title": "Surgeon Simulator Anniversary Bundle",
-      "store": "Steam",
-      "price": 8.35,
-      "regular_price": 83.68,
-      "discount": 90,
-      "url": "https://itad.link/018d9386-d84d-7007-a7b5-5acb0ed7b33a/?app=ze0jtd",
       "historical_low": false,
       "coupon": null,
       "genres": [],
@@ -3098,48 +2896,12 @@
       "release_year": null
     },
     {
-      "title": "SPACECOM 4 Pack",
-      "store": "Steam",
-      "price": 4.59,
-      "regular_price": 45.99,
-      "discount": 90,
-      "url": "https://itad.link/018d9386-cf00-71fe-b839-0a8578335857/?app=ze0jtd",
-      "historical_low": false,
-      "coupon": null,
-      "genres": [],
-      "release_year": null
-    },
-    {
-      "title": "SPACECOM 2 Pack",
-      "store": "Steam",
-      "price": 3.19,
-      "regular_price": 31.99,
-      "discount": 90,
-      "url": "https://itad.link/018d9386-cf00-71fe-b839-0a8574d7f37d/?app=ze0jtd",
-      "historical_low": false,
-      "coupon": null,
-      "genres": [],
-      "release_year": null
-    },
-    {
       "title": "SPACECOM",
       "store": "Nuuvem",
       "price": 1.64,
       "regular_price": 16.99,
       "discount": 90,
       "url": "https://itad.link/018d9386-ceff-7016-88ac-014605ea19d1/?app=ze0jtd",
-      "historical_low": false,
-      "coupon": null,
-      "genres": [],
-      "release_year": null
-    },
-    {
-      "title": "Soviet Bear Uni Adventure",
-      "store": "Steam",
-      "price": 3.29,
-      "regular_price": 32.99,
-      "discount": 90,
-      "url": "https://itad.link/018d9386-cd52-7303-92c3-66d5721d4394/?app=ze0jtd",
       "historical_low": false,
       "coupon": null,
       "genres": [],
@@ -3362,18 +3124,6 @@
       "release_year": null
     },
     {
-      "title": "Skiing Frenzy",
-      "store": "Steam",
-      "price": 1.74,
-      "regular_price": 17.4,
-      "discount": 90,
-      "url": "https://itad.link/018d9386-ca60-7163-b52d-1a3f5215ffda/?app=ze0jtd",
-      "historical_low": false,
-      "coupon": null,
-      "genres": [],
-      "release_year": null
-    },
-    {
       "title": "Silence",
       "store": "GOG",
       "price": 3.79,
@@ -3572,18 +3322,6 @@
       "regular_price": 19.99,
       "discount": 90,
       "url": "https://itad.link/018d9386-c568-73c4-ad63-ff573ecb7f04/?app=ze0jtd",
-      "historical_low": false,
-      "coupon": null,
-      "genres": [],
-      "release_year": null
-    },
-    {
-      "title": "Shapeshooter",
-      "store": "Steam",
-      "price": 1.74,
-      "regular_price": 17.4,
-      "discount": 90,
-      "url": "https://itad.link/018d9386-c568-73c4-ad63-ff571f8e75cd/?app=ze0jtd",
       "historical_low": false,
       "coupon": null,
       "genres": [],
@@ -3818,18 +3556,6 @@
       "release_year": null
     },
     {
-      "title": "Runner Roy",
-      "store": "Steam",
-      "price": 1.74,
-      "regular_price": 17.4,
-      "discount": 90,
-      "url": "https://itad.link/018d9386-bf8a-73b7-a0c7-c05f9a74e925/?app=ze0jtd",
-      "historical_low": false,
-      "coupon": null,
-      "genres": [],
-      "release_year": null
-    },
-    {
       "title": "Royal Roads",
       "store": "Steam",
       "price": 4.69,
@@ -3872,30 +3598,6 @@
       "regular_price": 59.99,
       "discount": 90,
       "url": "https://itad.link/018d9386-bd72-7238-8860-b0cbd7b42160/?app=ze0jtd",
-      "historical_low": false,
-      "coupon": null,
-      "genres": [],
-      "release_year": null
-    },
-    {
-      "title": "Root Letter Last Answer",
-      "store": "Steam",
-      "price": 5.79,
-      "regular_price": 57.99,
-      "discount": 90,
-      "url": "https://itad.link/018d9386-bd6d-7173-89c3-90eee743b775/?app=ze0jtd",
-      "historical_low": false,
-      "coupon": null,
-      "genres": [],
-      "release_year": null
-    },
-    {
-      "title": "√Letter - Root Letter",
-      "store": "Steam",
-      "price": 3.69,
-      "regular_price": 36.99,
-      "discount": 90,
-      "url": "https://itad.link/018d9386-bd6d-7173-89c3-90eee457bfc6/?app=ze0jtd",
       "historical_low": false,
       "coupon": null,
       "genres": [],
@@ -4214,18 +3916,6 @@
       "release_year": null
     },
     {
-      "title": "Ranphon",
-      "store": "Steam",
-      "price": 1.74,
-      "regular_price": 17.4,
-      "discount": 90,
-      "url": "https://itad.link/018d9386-b5e7-737b-b81d-3c649717bcb1/?app=ze0jtd",
-      "historical_low": false,
-      "coupon": null,
-      "genres": [],
-      "release_year": null
-    },
-    {
       "title": "Quern - Undying Thoughts (Original Soundtrack)",
       "store": "Steam",
       "price": 1.99,
@@ -4268,18 +3958,6 @@
       "regular_price": 37.99,
       "discount": 90,
       "url": "https://itad.link/018d9386-b13a-7300-9147-de229ab4919c/?app=ze0jtd",
-      "historical_low": false,
-      "coupon": null,
-      "genres": [],
-      "release_year": null
-    },
-    {
-      "title": "Polygoneer",
-      "store": "Steam",
-      "price": 1.74,
-      "regular_price": 17.4,
-      "discount": 90,
-      "url": "https://itad.link/018d9386-b03e-733f-a67d-407563e43f30/?app=ze0jtd",
       "historical_low": false,
       "coupon": null,
       "genres": [],
@@ -4634,36 +4312,12 @@
       "release_year": null
     },
     {
-      "title": "Offroad & Car Mechanic Simulator 2018",
-      "store": "Steam",
-      "price": 10.78,
-      "regular_price": 107.98,
-      "discount": 90,
-      "url": "https://itad.link/018d9386-a50d-72a0-9429-355382a74d64/?app=ze0jtd",
-      "historical_low": false,
-      "coupon": null,
-      "genres": [],
-      "release_year": null
-    },
-    {
       "title": "NURTOPU",
       "store": "Steam",
       "price": 2.99,
       "regular_price": 29.99,
       "discount": 90,
       "url": "https://itad.link/018d9386-a4f6-718c-81c9-1818fab58c68/?app=ze0jtd",
-      "historical_low": false,
-      "coupon": null,
-      "genres": [],
-      "release_year": null
-    },
-    {
-      "title": "NukGames Pack",
-      "store": "Steam",
-      "price": 1.74,
-      "regular_price": 17.4,
-      "discount": 90,
-      "url": "https://itad.link/018d9386-a4f3-724e-8c5a-378c161fc268/?app=ze0jtd",
       "historical_low": false,
       "coupon": null,
       "genres": [],
@@ -4970,18 +4624,6 @@
       "release_year": null
     },
     {
-      "title": "Motorcycle Mechanic Simulator 2021",
-      "store": "Steam",
-      "price": 5.99,
-      "regular_price": 59.99,
-      "discount": 90,
-      "url": "https://itad.link/018d9386-9bcc-7270-8f22-368adf22928b/?app=ze0jtd",
-      "historical_low": false,
-      "coupon": null,
-      "genres": [],
-      "release_year": null
-    },
-    {
       "title": "Motorbike Garage Mechanic Simulator",
       "store": "Steam",
       "price": 3.79,
@@ -5048,18 +4690,6 @@
       "regular_price": 54.9,
       "discount": 90,
       "url": "https://itad.link/018d9386-9baf-72bb-8837-1a6213e062d4/?app=ze0jtd",
-      "historical_low": false,
-      "coupon": null,
-      "genres": [],
-      "release_year": null
-    },
-    {
-      "title": "Moonlighter",
-      "store": "Steam",
-      "price": 4.1,
-      "regular_price": 41,
-      "discount": 90,
-      "url": "https://itad.link/018d9386-9a4d-709d-b896-4d59aa2a99d4/?app=ze0jtd",
       "historical_low": false,
       "coupon": null,
       "genres": [],
@@ -5606,18 +5236,6 @@
       "release_year": null
     },
     {
-      "title": "Ladderway",
-      "store": "Steam",
-      "price": 1.74,
-      "regular_price": 17.4,
-      "discount": 90,
-      "url": "https://itad.link/018d9386-88fa-7146-b224-ba0497528485/?app=ze0jtd",
-      "historical_low": false,
-      "coupon": null,
-      "genres": [],
-      "release_year": null
-    },
-    {
       "title": "Lacuna Soundtrack",
       "store": "GOG",
       "price": 2.05,
@@ -5828,42 +5446,6 @@
       "regular_price": 26.99,
       "discount": 90,
       "url": "https://itad.link/018d9386-82f3-7222-8b1e-07706ab310e7/?app=ze0jtd",
-      "historical_low": false,
-      "coupon": null,
-      "genres": [],
-      "release_year": null
-    },
-    {
-      "title": "IZBOT 2",
-      "store": "Steam",
-      "price": 6.38,
-      "regular_price": 63.88,
-      "discount": 90,
-      "url": "https://itad.link/018d9386-82ee-72bd-8e66-d0b27ece2740/?app=ze0jtd",
-      "historical_low": false,
-      "coupon": null,
-      "genres": [],
-      "release_year": null
-    },
-    {
-      "title": "IZBOT Bundle",
-      "store": "Steam",
-      "price": 3.82,
-      "regular_price": 38.3,
-      "discount": 90,
-      "url": "https://itad.link/018d9386-82ee-72bd-8e66-d0b27e3ceac5/?app=ze0jtd",
-      "historical_low": false,
-      "coupon": null,
-      "genres": [],
-      "release_year": null
-    },
-    {
-      "title": "iZBOT",
-      "store": "Steam",
-      "price": 6.38,
-      "regular_price": 63.8,
-      "discount": 90,
-      "url": "https://itad.link/018d9386-82ee-72bd-8e66-d0b27d57298e/?app=ze0jtd",
       "historical_low": false,
       "coupon": null,
       "genres": [],
@@ -6398,18 +5980,6 @@
       "release_year": null
     },
     {
-      "title": "GOD WARS The Complete Legend - Art Book (In English)",
-      "store": "Steam",
-      "price": 3.49,
-      "regular_price": 34.99,
-      "discount": 90,
-      "url": "https://itad.link/018d9386-6c9b-728b-bb2b-02c877980530/?app=ze0jtd",
-      "historical_low": false,
-      "coupon": null,
-      "genres": [],
-      "release_year": null
-    },
-    {
       "title": "Gods Will Fall - Valiant Edition",
       "store": "GOG",
       "price": 9.89,
@@ -6470,48 +6040,24 @@
       "release_year": null
     },
     {
-      "title": "Frostpunk: On The Edge",
-      "store": "Steam",
-      "price": 4.19,
-      "regular_price": 41.99,
-      "discount": 90,
-      "url": "https://itad.link/018d9386-68bd-71a4-abba-2eff3699929c/?app=ze0jtd",
-      "historical_low": false,
-      "coupon": null,
-      "genres": [],
-      "release_year": null
-    },
-    {
-      "title": "Frostpunk: The Last Autumn",
-      "store": "Steam",
-      "price": 5.24,
-      "regular_price": 52.49,
-      "discount": 90,
-      "url": "https://itad.link/018d9386-68bc-73bf-8214-19b011f6da63/?app=ze0jtd",
-      "historical_low": false,
-      "coupon": null,
-      "genres": [],
-      "release_year": null
-    },
-    {
-      "title": "Frostpunk",
-      "store": "Steam",
-      "price": 8.89,
-      "regular_price": 88.99,
-      "discount": 90,
-      "url": "https://itad.link/018d9386-68bb-7338-9df4-7503cdad65b1/?app=ze0jtd",
-      "historical_low": false,
-      "coupon": null,
-      "genres": [],
-      "release_year": null
-    },
-    {
       "title": "Freedom Fighters",
       "store": "GOG",
       "price": 2.89,
       "regular_price": 28.99,
       "discount": 90,
       "url": "https://itad.link/018d9386-6803-7213-86b3-871097d652c6/?app=ze0jtd",
+      "historical_low": false,
+      "coupon": null,
+      "genres": [],
+      "release_year": null
+    },
+    {
+      "title": "Fragmented",
+      "store": "Steam",
+      "price": 1.99,
+      "regular_price": 19.99,
+      "discount": 90,
+      "url": "https://itad.link/018d9386-67fa-73f5-9c98-6529ce019199/?app=ze0jtd",
       "historical_low": false,
       "coupon": null,
       "genres": [],
@@ -6632,6 +6178,18 @@
       "regular_price": 26.99,
       "discount": 90,
       "url": "https://itad.link/018d9386-62b1-70b8-8fe9-24d7c19268ba/?app=ze0jtd",
+      "historical_low": false,
+      "coupon": null,
+      "genres": [],
+      "release_year": null
+    },
+    {
+      "title": "Feel The Snow",
+      "store": "Steam",
+      "price": 4.19,
+      "regular_price": 41.99,
+      "discount": 90,
+      "url": "https://itad.link/018d9386-62b0-711b-a947-3ad316e0e464/?app=ze0jtd",
       "historical_low": false,
       "coupon": null,
       "genres": [],
@@ -6908,18 +6466,6 @@
       "regular_price": 19.99,
       "discount": 90,
       "url": "https://itad.link/018d9386-52d7-7127-90bb-efd54500648f/?app=ze0jtd",
-      "historical_low": false,
-      "coupon": null,
-      "genres": [],
-      "release_year": null
-    },
-    {
-      "title": "DROPSOL",
-      "store": "Steam",
-      "price": 1.74,
-      "regular_price": 17.4,
-      "discount": 90,
-      "url": "https://itad.link/018d9386-52d7-7127-90bb-efd53a8870a1/?app=ze0jtd",
       "historical_low": false,
       "coupon": null,
       "genres": [],
@@ -7358,36 +6904,12 @@
       "release_year": null
     },
     {
-      "title": "Train Simulator: The Count of Monster Disco",
-      "store": "Steam",
-      "price": 1.99,
-      "regular_price": 19.99,
-      "discount": 90,
-      "url": "https://itad.link/018d9386-426c-73d8-b2f7-83ec564b4698/?app=ze0jtd",
-      "historical_low": false,
-      "coupon": null,
-      "genres": [],
-      "release_year": null
-    },
-    {
       "title": "Cooking Trip New Challenge",
       "store": "Steam",
       "price": 4.69,
       "regular_price": 46.99,
       "discount": 90,
       "url": "https://itad.link/018d9386-4256-7323-88d3-65614313a84b/?app=ze0jtd",
-      "historical_low": false,
-      "coupon": null,
-      "genres": [],
-      "release_year": null
-    },
-    {
-      "title": "Collecstar",
-      "store": "Steam",
-      "price": 1.74,
-      "regular_price": 17.4,
-      "discount": 90,
-      "url": "https://itad.link/018d9386-3f83-712c-b38a-7b32971266aa/?app=ze0jtd",
       "historical_low": false,
       "coupon": null,
       "genres": [],
@@ -7448,42 +6970,6 @@
       "regular_price": 28.99,
       "discount": 90,
       "url": "https://itad.link/018d9386-3ba6-72c7-a7ba-6497ae333862/?app=ze0jtd",
-      "historical_low": false,
-      "coupon": null,
-      "genres": [],
-      "release_year": null
-    },
-    {
-      "title": "Car Mechanic Simulator 2018 - VR",
-      "store": "Steam",
-      "price": 5.99,
-      "regular_price": 59.99,
-      "discount": 90,
-      "url": "https://itad.link/018d9386-3b92-7178-9b33-4c70f6bf7ce7/?app=ze0jtd",
-      "historical_low": false,
-      "coupon": null,
-      "genres": [],
-      "release_year": null
-    },
-    {
-      "title": "Car Mechanic Simulator 2018 - Silver Plus Edition",
-      "store": "Steam",
-      "price": 11.33,
-      "regular_price": 108.74,
-      "discount": 90,
-      "url": "https://itad.link/018d9386-3b92-7178-9b33-4c70f387ee76/?app=ze0jtd",
-      "historical_low": false,
-      "coupon": null,
-      "genres": [],
-      "release_year": null
-    },
-    {
-      "title": "Car Mechanic Simulator 2018 - Silver Edition",
-      "store": "Steam",
-      "price": 8.8,
-      "regular_price": 89.27,
-      "discount": 90,
-      "url": "https://itad.link/018d9386-3b92-7178-9b33-4c70f3527d7d/?app=ze0jtd",
       "historical_low": false,
       "coupon": null,
       "genres": [],
@@ -7730,36 +7216,12 @@
       "release_year": null
     },
     {
-      "title": "Bellboy Boris",
-      "store": "Steam",
-      "price": 1.74,
-      "regular_price": 17.4,
-      "discount": 90,
-      "url": "https://itad.link/018d9386-2f9e-7096-8e6b-3cb6689e1b25/?app=ze0jtd",
-      "historical_low": false,
-      "coupon": null,
-      "genres": [],
-      "release_year": null
-    },
-    {
       "title": "Beholder",
       "store": "Steam",
       "price": 4.44,
       "regular_price": 44.49,
       "discount": 90,
       "url": "https://itad.link/018d9386-2f99-7031-891d-3e447ae96857/?app=ze0jtd",
-      "historical_low": false,
-      "coupon": null,
-      "genres": [],
-      "release_year": null
-    },
-    {
-      "title": "Beat Cop",
-      "store": "Steam",
-      "price": 2.79,
-      "regular_price": 27.99,
-      "discount": 90,
-      "url": "https://itad.link/018d9386-2f89-73aa-8bbf-5c7c7a95ce5b/?app=ze0jtd",
       "historical_low": false,
       "coupon": null,
       "genres": [],
@@ -7832,6 +7294,18 @@
       "regular_price": 87,
       "discount": 90,
       "url": "https://itad.link/018d9386-2d91-7326-b2a9-2d04eae404e5/?app=ze0jtd",
+      "historical_low": false,
+      "coupon": null,
+      "genres": [],
+      "release_year": null
+    },
+    {
+      "title": "Barro 2020",
+      "store": "Steam",
+      "price": 1.74,
+      "regular_price": 17.4,
+      "discount": 90,
+      "url": "https://itad.link/018d9386-2d91-7326-b2a9-2d04e845e8b6/?app=ze0jtd",
       "historical_low": false,
       "coupon": null,
       "genres": [],
@@ -8018,18 +7492,6 @@
       "release_year": null
     },
     {
-      "title": "Anomaly 2 2Pack",
-      "store": "Steam",
-      "price": 4.74,
-      "regular_price": 47.49,
-      "discount": 90,
-      "url": "https://itad.link/018d9386-2405-7127-b45d-6c8a2d7cb3a2/?app=ze0jtd",
-      "historical_low": false,
-      "coupon": null,
-      "genres": [],
-      "release_year": null
-    },
-    {
       "title": "Anomaly 2",
       "store": "GOG",
       "price": 2.79,
@@ -8138,18 +7600,6 @@
       "release_year": null
     },
     {
-      "title": "Alfredo's Sneaky Meal",
-      "store": "Steam",
-      "price": 1.74,
-      "regular_price": 17.4,
-      "discount": 90,
-      "url": "https://itad.link/018d9386-1f0d-71d6-b6b8-23767bec4020/?app=ze0jtd",
-      "historical_low": false,
-      "coupon": null,
-      "genres": [],
-      "release_year": null
-    },
-    {
       "title": "Alan Wake's American Nightmare",
       "store": "GOG",
       "price": 1.85,
@@ -8187,11 +7637,11 @@
     },
     {
       "title": "Agent A: A puzzle in disguise",
-      "store": "Steam",
+      "store": "GOG",
       "price": 3.79,
       "regular_price": 37.99,
       "discount": 90,
-      "url": "https://itad.link/018d9386-1724-73ce-9c6a-713bea24dfce/?app=ze0jtd",
+      "url": "https://itad.link/018d9386-1724-73ce-9c6a-713bea017776/?app=ze0jtd",
       "historical_low": false,
       "coupon": null,
       "genres": [],
@@ -8228,18 +7678,6 @@
       "regular_price": 39.99,
       "discount": 90,
       "url": "https://itad.link/018d9386-1720-73d6-a6fe-a15d8cb66dce/?app=ze0jtd",
-      "historical_low": false,
-      "coupon": null,
-      "genres": [],
-      "release_year": null
-    },
-    {
-      "title": "A Fixer Pack - Timberman VR World Premiere bundle",
-      "store": "Steam",
-      "price": 7.77,
-      "regular_price": 77.83,
-      "discount": 90,
-      "url": "https://itad.link/018d9386-1715-7323-b26a-c01c4bd57a87/?app=ze0jtd",
       "historical_low": false,
       "coupon": null,
       "genres": [],
@@ -8306,36 +7744,12 @@
       "release_year": null
     },
     {
-      "title": "Tank Mechanic Simulator and Car Mechanic Simulator 2021",
-      "store": "Steam",
-      "price": 13.61,
-      "regular_price": 129.58,
-      "discount": 89,
-      "url": "https://itad.link/019720ad-6636-7283-919c-5d2a3b2a1a84/?app=ze0jtd",
-      "historical_low": false,
-      "coupon": null,
-      "genres": [],
-      "release_year": null
-    },
-    {
       "title": "Gisselle's Adventure",
       "store": "Steam",
       "price": 2.91,
       "regular_price": 26.49,
       "discount": 89,
       "url": "https://itad.link/01931f03-4b0f-7195-8dc1-ff6e23d14f6c/?app=ze0jtd",
-      "historical_low": false,
-      "coupon": null,
-      "genres": [],
-      "release_year": null
-    },
-    {
-      "title": "Thieves keep together",
-      "store": "Steam",
-      "price": 15.25,
-      "regular_price": 134.08,
-      "discount": 89,
-      "url": "https://itad.link/018df538-4328-715c-98b8-337a3e8faa46/?app=ze0jtd",
       "historical_low": false,
       "coupon": null,
       "genres": [],
@@ -8438,48 +7852,12 @@
       "release_year": null
     },
     {
-      "title": "Rafting Frenzy",
-      "store": "Steam",
-      "price": 1.89,
-      "regular_price": 17.4,
-      "discount": 89,
-      "url": "https://itad.link/018d9386-b472-700e-ada8-0bbce87025d9/?app=ze0jtd",
-      "historical_low": false,
-      "coupon": null,
-      "genres": [],
-      "release_year": null
-    },
-    {
       "title": "One Piece: Unlimited World Red - Deluxe Edition",
       "store": "Nuuvem",
       "price": 23.98,
       "regular_price": 199.9,
       "discount": 88,
       "url": "https://itad.link/018d9386-a6ef-7059-a862-cc393c133b0c/?app=ze0jtd",
-      "historical_low": false,
-      "coupon": null,
-      "genres": [],
-      "release_year": null
-    },
-    {
-      "title": "Offroad & Motorcycle Mechanic",
-      "store": "Steam",
-      "price": 12.4,
-      "regular_price": 107.98,
-      "discount": 89,
-      "url": "https://itad.link/018d9386-a50e-7026-b3a5-d75f81d43bba/?app=ze0jtd",
-      "historical_low": false,
-      "coupon": null,
-      "genres": [],
-      "release_year": null
-    },
-    {
-      "title": "Moonlighter: Complete Edition",
-      "store": "Steam",
-      "price": 5.64,
-      "regular_price": 49.94,
-      "discount": 89,
-      "url": "https://itad.link/018d9386-9ba8-7309-9c15-a3c0923daced/?app=ze0jtd",
       "historical_low": false,
       "coupon": null,
       "genres": [],
@@ -8510,42 +7888,6 @@
       "release_year": null
     },
     {
-      "title": "Garlic Builder",
-      "store": "Steam",
-      "price": 2.91,
-      "regular_price": 26.49,
-      "discount": 89,
-      "url": "https://itad.link/018d9386-6aa4-731f-851a-0c106d7f3ec3/?app=ze0jtd",
-      "historical_low": false,
-      "coupon": null,
-      "genres": [],
-      "release_year": null
-    },
-    {
-      "title": "Frostpunk: Season Pass",
-      "store": "Steam",
-      "price": 8.97,
-      "regular_price": 78.02,
-      "discount": 89,
-      "url": "https://itad.link/018d9386-68be-72b2-a457-97c883917a8f/?app=ze0jtd",
-      "historical_low": false,
-      "coupon": null,
-      "genres": [],
-      "release_year": null
-    },
-    {
-      "title": "Frostpunk: Game of the Year edition",
-      "store": "Steam",
-      "price": 19.54,
-      "regular_price": 180.41,
-      "discount": 89,
-      "url": "https://itad.link/018d9386-68bc-73bf-8214-19afe333a458/?app=ze0jtd",
-      "historical_low": false,
-      "coupon": null,
-      "genres": [],
-      "release_year": null
-    },
-    {
       "title": "FEVER: FIGHT THE FEVER",
       "store": "Steam",
       "price": 2.04,
@@ -8570,108 +7912,12 @@
       "release_year": null
     },
     {
-      "title": "Car Mechanic Simulator 2021",
-      "store": "Steam",
-      "price": 8.13,
-      "regular_price": 73.99,
-      "discount": 89,
-      "url": "https://itad.link/018d9386-3a06-735c-8394-84ba4000d02c/?app=ze0jtd",
-      "historical_low": false,
-      "coupon": null,
-      "genres": [],
-      "release_year": null
-    },
-    {
-      "title": "Garlic Builder & Tiny Birdtopia",
-      "store": "Steam",
-      "price": 6.28,
-      "regular_price": 54.43,
-      "discount": 88,
-      "url": "https://itad.link/01a1ca89-512b-701d-8c1f-5e3d1f0e223f/?app=ze0jtd",
-      "historical_low": false,
-      "coupon": null,
-      "genres": [],
-      "release_year": null
-    },
-    {
-      "title": "PuzzleTwist",
-      "store": "Steam",
-      "price": 2.45,
-      "regular_price": 20.49,
-      "discount": 88,
-      "url": "https://itad.link/01a076dc-0ee5-723e-ae46-2956fdc7a3a4/?app=ze0jtd",
-      "historical_low": false,
-      "coupon": null,
-      "genres": [],
-      "release_year": null
-    },
-    {
-      "title": "Tiny Birdtopia & Fluffy Kitchen Saga",
-      "store": "Steam",
-      "price": 6.2,
-      "regular_price": 51.74,
-      "discount": 88,
-      "url": "https://itad.link/019fa15a-eb54-70ff-84d6-e23e6a9d1b4a/?app=ze0jtd",
-      "historical_low": false,
-      "coupon": null,
-      "genres": [],
-      "release_year": null
-    },
-    {
       "title": "Bird Game 3: Birdtopia",
       "store": "Steam",
       "price": 4.07,
       "regular_price": 33.99,
       "discount": 88,
       "url": "https://itad.link/019fa15a-eb40-7151-a5b5-82444d2a30f2/?app=ze0jtd",
-      "historical_low": false,
-      "coupon": null,
-      "genres": [],
-      "release_year": null
-    },
-    {
-      "title": "Temlegen: System Breakdown",
-      "store": "Steam",
-      "price": 2.81,
-      "regular_price": 23.49,
-      "discount": 88,
-      "url": "https://itad.link/019d499d-1eb2-737d-932d-16ea5d2d0426/?app=ze0jtd",
-      "historical_low": false,
-      "coupon": null,
-      "genres": [],
-      "release_year": null
-    },
-    {
-      "title": "Fluffy Kitchen Saga",
-      "store": "Steam",
-      "price": 2.82,
-      "regular_price": 23.5,
-      "discount": 88,
-      "url": "https://itad.link/019aa431-f738-7258-af92-89775adb85d1/?app=ze0jtd",
-      "historical_low": false,
-      "coupon": null,
-      "genres": [],
-      "release_year": null
-    },
-    {
-      "title": "Food Fight",
-      "store": "Steam",
-      "price": 3.95,
-      "regular_price": 32.99,
-      "discount": 88,
-      "url": "https://itad.link/019842b3-6147-7109-9eca-d5d4a90573d7/?app=ze0jtd",
-      "historical_low": false,
-      "coupon": null,
-      "genres": [],
-      "release_year": null
-    },
-    {
-      "title": "Gym Manager",
-      "store": "Steam",
-      "price": 3.59,
-      "regular_price": 29.99,
-      "discount": 88,
-      "url": "https://itad.link/019108e3-0f1e-71ba-8c1d-4dfe3973d1f8/?app=ze0jtd",
       "historical_low": false,
       "coupon": null,
       "genres": [],
@@ -8714,42 +7960,6 @@
       "release_year": null
     },
     {
-      "title": "Gold Mechanic",
-      "store": "Steam",
-      "price": 14.87,
-      "regular_price": 120.58,
-      "discount": 88,
-      "url": "https://itad.link/018e9875-7685-7388-9ad0-5e3a56d6e24d/?app=ze0jtd",
-      "historical_low": false,
-      "coupon": null,
-      "genres": [],
-      "release_year": null
-    },
-    {
-      "title": "Robin Hood and Car Mechanic Simulator 2021",
-      "store": "Steam",
-      "price": 17.72,
-      "regular_price": 146.68,
-      "discount": 88,
-      "url": "https://itad.link/018df538-4329-7038-94c4-14989b67ec18/?app=ze0jtd",
-      "historical_low": false,
-      "coupon": null,
-      "genres": [],
-      "release_year": null
-    },
-    {
-      "title": "Thief Simulator - Luxury Houses",
-      "store": "Steam",
-      "price": 2.82,
-      "regular_price": 23.5,
-      "discount": 88,
-      "url": "https://itad.link/018d9386-de2e-7358-abae-4b516218405c/?app=ze0jtd",
-      "historical_low": false,
-      "coupon": null,
-      "genres": [],
-      "release_year": null
-    },
-    {
       "title": "Stranded Sails - Explorers of the Cursed Islands",
       "store": "GOG",
       "price": 5.35,
@@ -8768,18 +7978,6 @@
       "regular_price": 79,
       "discount": 75,
       "url": "https://itad.link/018d9386-c6e4-73eb-b03c-09159973049d/?app=ze0jtd",
-      "historical_low": false,
-      "coupon": null,
-      "genres": [],
-      "release_year": null
-    },
-    {
-      "title": "RootLetter - Deluxe Pack",
-      "store": "Steam",
-      "price": 5.61,
-      "regular_price": 48.58,
-      "discount": 88,
-      "url": "https://itad.link/018d9386-bd6d-7173-89c3-90eee5e9b3b0/?app=ze0jtd",
       "historical_low": false,
       "coupon": null,
       "genres": [],
@@ -8816,18 +8014,6 @@
       "regular_price": 219.9,
       "discount": 88,
       "url": "https://itad.link/018d9386-a5ee-7372-b705-7959a0259ac7/?app=ze0jtd",
-      "historical_low": false,
-      "coupon": null,
-      "genres": [],
-      "release_year": null
-    },
-    {
-      "title": "Offroad & Car Mechanic Simulator 2021",
-      "store": "Steam",
-      "price": 14.33,
-      "regular_price": 120.58,
-      "discount": 88,
-      "url": "https://itad.link/018d9386-a50d-72a0-9429-3553826f63f9/?app=ze0jtd",
       "historical_low": false,
       "coupon": null,
       "genres": [],
@@ -8894,84 +8080,12 @@
       "release_year": null
     },
     {
-      "title": "Construction Machines 2014",
-      "store": "Steam",
-      "price": 2.39,
-      "regular_price": 19.99,
-      "discount": 88,
-      "url": "https://itad.link/018d9386-40f6-73b0-8f84-519e85cc665a/?app=ze0jtd",
-      "historical_low": false,
-      "coupon": null,
-      "genres": [],
-      "release_year": null
-    },
-    {
       "title": "Colt Canyon",
       "store": "GOG",
       "price": 3.49,
       "regular_price": 28.99,
       "discount": 88,
       "url": "https://itad.link/018d9386-3f8e-73c0-9224-338df009e9f9/?app=ze0jtd",
-      "historical_low": false,
-      "coupon": null,
-      "genres": [],
-      "release_year": null
-    },
-    {
-      "title": "Car Mechanic Simulator 2018 - Mercedes-Benz",
-      "store": "Steam",
-      "price": 2.82,
-      "regular_price": 23.5,
-      "discount": 88,
-      "url": "https://itad.link/018d9386-3b92-7178-9b33-4c70ec82ccad/?app=ze0jtd",
-      "historical_low": false,
-      "coupon": null,
-      "genres": [],
-      "release_year": null
-    },
-    {
-      "title": "Car Mechanic Simulator 2021 - Starter Bundle",
-      "store": "Steam",
-      "price": 12.28,
-      "regular_price": 100.41,
-      "discount": 88,
-      "url": "https://itad.link/018d9386-3a06-735c-8394-84ba52816a96/?app=ze0jtd",
-      "historical_low": false,
-      "coupon": null,
-      "genres": [],
-      "release_year": null
-    },
-    {
-      "title": "Car Mechanic Simulator 2021 & Drag Racing DLC Bundle",
-      "store": "Steam",
-      "price": 13.23,
-      "regular_price": 108.88,
-      "discount": 88,
-      "url": "https://itad.link/018d9386-3a06-735c-8394-84ba44be226f/?app=ze0jtd",
-      "historical_low": false,
-      "coupon": null,
-      "genres": [],
-      "release_year": null
-    },
-    {
-      "title": "Car Mechanic Simulator",
-      "store": "Steam",
-      "price": 2.82,
-      "regular_price": 23.5,
-      "discount": 88,
-      "url": "https://itad.link/018d9386-3a06-735c-8394-84ba3ace6ecc/?app=ze0jtd",
-      "historical_low": false,
-      "coupon": null,
-      "genres": [],
-      "release_year": null
-    },
-    {
-      "title": "Fantasy Aquarium & Tiny Birdtopia",
-      "store": "Steam",
-      "price": 6.83,
-      "regular_price": 51.74,
-      "discount": 87,
-      "url": "https://itad.link/01a1cbd2-ca42-7023-b2d2-bcf97801b996/?app=ze0jtd",
       "historical_low": false,
       "coupon": null,
       "genres": [],
@@ -9026,48 +8140,12 @@
       "release_year": null
     },
     {
-      "title": "Fluffy Kitchen Saga & Fantasy Aquarium",
-      "store": "Steam",
-      "price": 5.71,
-      "regular_price": 42.3,
-      "discount": 87,
-      "url": "https://itad.link/019aa431-f744-737d-b546-3e93fb83830d/?app=ze0jtd",
-      "historical_low": false,
-      "coupon": null,
-      "genres": [],
-      "release_year": null
-    },
-    {
       "title": "The LEGO Games Bundle",
       "store": "GOG",
       "price": 62.39,
       "regular_price": 479.99,
       "discount": 87,
       "url": "https://itad.link/019547f9-c399-7274-832b-e0b975e2c210/?app=ze0jtd",
-      "historical_low": false,
-      "coupon": null,
-      "genres": [],
-      "release_year": null
-    },
-    {
-      "title": "Builders of Egypt and Farm Manager 2018",
-      "store": "Steam",
-      "price": 10.78,
-      "regular_price": 80.98,
-      "discount": 87,
-      "url": "https://itad.link/019464eb-fa3e-721a-9f29-4e2243fb53cf/?app=ze0jtd",
-      "historical_low": false,
-      "coupon": null,
-      "genres": [],
-      "release_year": null
-    },
-    {
-      "title": "Builders of Egypt and Thief Simulator",
-      "store": "Steam",
-      "price": 10.24,
-      "regular_price": 80.98,
-      "discount": 87,
-      "url": "https://itad.link/01944749-e169-7321-8117-b60d8fe18e16/?app=ze0jtd",
       "historical_low": false,
       "coupon": null,
       "genres": [],
@@ -9086,18 +8164,6 @@
       "release_year": null
     },
     {
-      "title": "Demonic Puppet",
-      "store": "Steam",
-      "price": 14.74,
-      "regular_price": 116.08,
-      "discount": 87,
-      "url": "https://itad.link/0192bed6-8e73-7282-8d7d-3b2ee1464697/?app=ze0jtd",
-      "historical_low": false,
-      "coupon": null,
-      "genres": [],
-      "release_year": null
-    },
-    {
       "title": "SteamWorld Heist II x Crown Wars",
       "store": "Steam",
       "price": 16.33,
@@ -9110,24 +8176,12 @@
       "release_year": null
     },
     {
-      "title": "Robin's Gold Rush",
+      "title": "Tavern Master",
       "store": "Steam",
-      "price": 17.95,
-      "regular_price": 134.08,
+      "price": 3.76,
+      "regular_price": 28.99,
       "discount": 87,
-      "url": "https://itad.link/018df538-4329-7038-94c4-14989b32395b/?app=ze0jtd",
-      "historical_low": false,
-      "coupon": null,
-      "genres": [],
-      "release_year": null
-    },
-    {
-      "title": "Robin Hood - Sherwood Builders",
-      "store": "Steam",
-      "price": 11.56,
-      "regular_price": 88.99,
-      "discount": 87,
-      "url": "https://itad.link/018df538-4042-72cf-9f73-d508182149ae/?app=ze0jtd",
+      "url": "https://itad.link/018d9386-dbdf-7336-b5a5-371a0e5fbeba/?app=ze0jtd",
       "historical_low": false,
       "coupon": null,
       "genres": [],
@@ -9158,36 +8212,12 @@
       "release_year": null
     },
     {
-      "title": "Ram it down - Tank Mechanic Simulator VR World Premiere",
-      "store": "Steam",
-      "price": 14.56,
-      "regular_price": 107.98,
-      "discount": 87,
-      "url": "https://itad.link/018d9386-b5e3-72fb-b858-260390b5f2ee/?app=ze0jtd",
-      "historical_low": false,
-      "coupon": null,
-      "genres": [],
-      "release_year": null
-    },
-    {
       "title": "破东荒",
       "store": "Steam",
       "price": 2.83,
       "regular_price": 21.8,
       "discount": 87,
       "url": "https://itad.link/018d9386-af8d-737f-a1a8-734630f46528/?app=ze0jtd",
-      "historical_low": false,
-      "coupon": null,
-      "genres": [],
-      "release_year": null
-    },
-    {
-      "title": "Offroad Mechanic Simulator",
-      "store": "Steam",
-      "price": 7.79,
-      "regular_price": 59.99,
-      "discount": 87,
-      "url": "https://itad.link/018d9386-a50e-7026-b3a5-d75f7c9c36bf/?app=ze0jtd",
       "historical_low": false,
       "coupon": null,
       "genres": [],
@@ -9326,18 +8356,6 @@
       "release_year": null
     },
     {
-      "title": "VR Collection",
-      "store": "Steam",
-      "price": 13.17,
-      "regular_price": 102.52,
-      "discount": 87,
-      "url": "https://itad.link/018d9386-69ed-70b2-8cc2-97a341860a1a/?app=ze0jtd",
-      "historical_low": false,
-      "coupon": null,
-      "genres": [],
-      "release_year": null
-    },
-    {
       "title": "EVERSPACE™ - Ultimate Edition",
       "store": "Steam",
       "price": 11.89,
@@ -9368,114 +8386,6 @@
       "regular_price": 29.99,
       "discount": 87,
       "url": "https://itad.link/018d9386-4a31-71eb-a61b-db0ecec81aab/?app=ze0jtd",
-      "historical_low": false,
-      "coupon": null,
-      "genres": [],
-      "release_year": null
-    },
-    {
-      "title": "Car Mechanic Simulator 2015 - Mercedes-Benz",
-      "store": "Steam",
-      "price": 2.66,
-      "regular_price": 20.49,
-      "discount": 87,
-      "url": "https://itad.link/018d9386-3b93-72d2-aa65-44d1f79ac888/?app=ze0jtd",
-      "historical_low": false,
-      "coupon": null,
-      "genres": [],
-      "release_year": null
-    },
-    {
-      "title": "Car Mechanic Simulator 2018 - Porsche",
-      "store": "Steam",
-      "price": 2.66,
-      "regular_price": 20.49,
-      "discount": 87,
-      "url": "https://itad.link/018d9386-3b92-7178-9b33-4c70f0a11fbe/?app=ze0jtd",
-      "historical_low": false,
-      "coupon": null,
-      "genres": [],
-      "release_year": null
-    },
-    {
-      "title": "Car Mechanic Simulator 2018 - Pagani",
-      "store": "Steam",
-      "price": 2.66,
-      "regular_price": 20.49,
-      "discount": 87,
-      "url": "https://itad.link/018d9386-3b92-7178-9b33-4c70ede25055/?app=ze0jtd",
-      "historical_low": false,
-      "coupon": null,
-      "genres": [],
-      "release_year": null
-    },
-    {
-      "title": "Car Mechanic Simulator 2018 - Jeep",
-      "store": "Steam",
-      "price": 2.66,
-      "regular_price": 20.49,
-      "discount": 87,
-      "url": "https://itad.link/018d9386-3b92-7178-9b33-4c70e8b00e9b/?app=ze0jtd",
-      "historical_low": false,
-      "coupon": null,
-      "genres": [],
-      "release_year": null
-    },
-    {
-      "title": "Car Mechanic Simulator 2018 - Ford",
-      "store": "Steam",
-      "price": 2.66,
-      "regular_price": 20.49,
-      "discount": 87,
-      "url": "https://itad.link/018d9386-3b92-7178-9b33-4c70e4d70bf6/?app=ze0jtd",
-      "historical_low": false,
-      "coupon": null,
-      "genres": [],
-      "release_year": null
-    },
-    {
-      "title": "Car Mechanic Simulator 2021 - Silver Bundle",
-      "store": "Steam",
-      "price": 19.07,
-      "regular_price": 152.49,
-      "discount": 87,
-      "url": "https://itad.link/018d9386-3a06-735c-8394-84ba524355c1/?app=ze0jtd",
-      "historical_low": false,
-      "coupon": null,
-      "genres": [],
-      "release_year": null
-    },
-    {
-      "title": "Car Mechanic Simulator 2021 - Porsche Remastered",
-      "store": "Steam",
-      "price": 2.66,
-      "regular_price": 20.49,
-      "discount": 87,
-      "url": "https://itad.link/018d9386-3a06-735c-8394-84ba509ccd2b/?app=ze0jtd",
-      "historical_low": false,
-      "coupon": null,
-      "genres": [],
-      "release_year": null
-    },
-    {
-      "title": "Car Mechanic Simulator 2021 - Pagani Remastered",
-      "store": "Steam",
-      "price": 2.66,
-      "regular_price": 20.49,
-      "discount": 87,
-      "url": "https://itad.link/018d9386-3a06-735c-8394-84ba4ee93295/?app=ze0jtd",
-      "historical_low": false,
-      "coupon": null,
-      "genres": [],
-      "release_year": null
-    },
-    {
-      "title": "Car Mechanic Simulator 2021 - Jaguar",
-      "store": "Steam",
-      "price": 2.66,
-      "regular_price": 20.49,
-      "discount": 87,
-      "url": "https://itad.link/018d9386-3a06-735c-8394-84ba48dc8ee0/?app=ze0jtd",
       "historical_low": false,
       "coupon": null,
       "genres": [],
@@ -9530,30 +8440,6 @@
       "release_year": null
     },
     {
-      "title": "American Thief",
-      "store": "Steam",
-      "price": 14.56,
-      "regular_price": 107.98,
-      "discount": 87,
-      "url": "https://itad.link/018d9386-2069-722a-ba51-d0e6bd7aefec/?app=ze0jtd",
-      "historical_low": false,
-      "coupon": null,
-      "genres": [],
-      "release_year": null
-    },
-    {
-      "title": "ADVERSE",
-      "store": "Steam",
-      "price": 2.66,
-      "regular_price": 20.49,
-      "discount": 87,
-      "url": "https://itad.link/018d9386-170b-7178-b56b-74001b6ae6f5/?app=ze0jtd",
-      "historical_low": false,
-      "coupon": null,
-      "genres": [],
-      "release_year": null
-    },
-    {
       "title": "Thread the Wall",
       "store": "Steam",
       "price": 2.72,
@@ -9584,18 +8470,6 @@
       "regular_price": 19.49,
       "discount": 86,
       "url": "https://itad.link/019f19f5-3833-738f-8427-4832ddb46292/?app=ze0jtd",
-      "historical_low": false,
-      "coupon": null,
-      "genres": [],
-      "release_year": null
-    },
-    {
-      "title": "Thief - The Full Story",
-      "store": "Steam",
-      "price": 22.32,
-      "regular_price": 158.87,
-      "discount": 86,
-      "url": "https://itad.link/019d0108-52b7-717b-a094-c073c4f8dce6/?app=ze0jtd",
       "historical_low": false,
       "coupon": null,
       "genres": [],
@@ -9674,36 +8548,12 @@
       "release_year": null
     },
     {
-      "title": "Thief Simulator collection",
-      "store": "Steam",
-      "price": 15.1,
-      "regular_price": 107.98,
-      "discount": 86,
-      "url": "https://itad.link/018d9386-de2e-7358-abae-4b515d9a7365/?app=ze0jtd",
-      "historical_low": false,
-      "coupon": null,
-      "genres": [],
-      "release_year": null
-    },
-    {
       "title": "Svoboda 1945: Liberation",
       "store": "GOG",
       "price": 4.35,
       "regular_price": 30.99,
       "discount": 86,
       "url": "https://itad.link/018d9386-d95a-724f-a436-3a38f63389b9/?app=ze0jtd",
-      "historical_low": false,
-      "coupon": null,
-      "genres": [],
-      "release_year": null
-    },
-    {
-      "title": "Steel in dark light - Tank Mechanic Simulator VR World Premiere",
-      "store": "Steam",
-      "price": 12.24,
-      "regular_price": 88.18,
-      "discount": 86,
-      "url": "https://itad.link/018d9386-d3a6-7153-8a25-4c8331e9397d/?app=ze0jtd",
       "historical_low": false,
       "coupon": null,
       "genres": [],
@@ -9842,66 +8692,6 @@
       "release_year": null
     },
     {
-      "title": "Car Mechanic Simulator 2018 - Platinum Edition",
-      "store": "Steam",
-      "price": 36.61,
-      "regular_price": 266.44,
-      "discount": 86,
-      "url": "https://itad.link/018d9386-3b92-7178-9b33-4c70ee9f7815/?app=ze0jtd",
-      "historical_low": false,
-      "coupon": null,
-      "genres": [],
-      "release_year": null
-    },
-    {
-      "title": "Car Mechanic Simulator 2021 - Platinum Edition",
-      "store": "Steam",
-      "price": 36.25,
-      "regular_price": 262.59,
-      "discount": 86,
-      "url": "https://itad.link/018d9386-3a06-735c-8394-84ba4fd9a394/?app=ze0jtd",
-      "historical_low": false,
-      "coupon": null,
-      "genres": [],
-      "release_year": null
-    },
-    {
-      "title": "Car Mechanic Simulator 2021 - Mercedes-Benz Remastered",
-      "store": "Steam",
-      "price": 2.86,
-      "regular_price": 20.49,
-      "discount": 86,
-      "url": "https://itad.link/018d9386-3a06-735c-8394-84ba4deb9cef/?app=ze0jtd",
-      "historical_low": false,
-      "coupon": null,
-      "genres": [],
-      "release_year": null
-    },
-    {
-      "title": "Car Mechanic Simulator 2021 - Gold Bundle",
-      "store": "Steam",
-      "price": 28.05,
-      "regular_price": 205.01,
-      "discount": 86,
-      "url": "https://itad.link/018d9386-3a06-735c-8394-84ba46faa8fd/?app=ze0jtd",
-      "historical_low": false,
-      "coupon": null,
-      "genres": [],
-      "release_year": null
-    },
-    {
-      "title": "Car Mechanic Simulator 2021 - Drag Racing",
-      "store": "Steam",
-      "price": 6.57,
-      "regular_price": 46.99,
-      "discount": 86,
-      "url": "https://itad.link/018d9386-3a06-735c-8394-84ba43e170da/?app=ze0jtd",
-      "historical_low": false,
-      "coupon": null,
-      "genres": [],
-      "release_year": null
-    },
-    {
       "title": "Anomaly Warzone Earth Mobile Campaign",
       "store": "GOG",
       "price": 1.19,
@@ -9938,30 +8728,6 @@
       "release_year": null
     },
     {
-      "title": "Dice Assassin & Tiny Birdtopia",
-      "store": "Steam",
-      "price": 5.92,
-      "regular_price": 40.03,
-      "discount": 85,
-      "url": "https://itad.link/01a0631e-cb34-701a-8643-2402d4659542/?app=ze0jtd",
-      "historical_low": false,
-      "coupon": null,
-      "genres": [],
-      "release_year": null
-    },
-    {
-      "title": "Dice Assassin & Garlic Builder",
-      "store": "Steam",
-      "price": 4.88,
-      "regular_price": 33.28,
-      "discount": 85,
-      "url": "https://itad.link/01a0631e-cb29-70d0-a3b4-4e669240c787/?app=ze0jtd",
-      "historical_low": false,
-      "coupon": null,
-      "genres": [],
-      "release_year": null
-    },
-    {
       "title": "Maneater: Truth Quest",
       "store": "GOG",
       "price": 4.35,
@@ -9980,18 +8746,6 @@
       "regular_price": 75.49,
       "discount": 85,
       "url": "https://itad.link/019ff5ef-9065-71b4-8610-02b1e486a2c0/?app=ze0jtd",
-      "historical_low": false,
-      "coupon": null,
-      "genres": [],
-      "release_year": null
-    },
-    {
-      "title": "Tiny Birdtopia & Let's Minesweeper",
-      "store": "Steam",
-      "price": 6.71,
-      "regular_price": 45.88,
-      "discount": 85,
-      "url": "https://itad.link/019fa15a-eb56-72b2-9622-7d14dda8831c/?app=ze0jtd",
       "historical_low": false,
       "coupon": null,
       "genres": [],
@@ -10028,6 +8782,570 @@
       "regular_price": 17.93,
       "discount": 85,
       "url": "https://itad.link/019f2855-8765-71e7-bfdf-5155a720f624/?app=ze0jtd",
+      "historical_low": false,
+      "coupon": null,
+      "genres": [],
+      "release_year": null
+    },
+    {
+      "title": "Extreme Cycling Championship",
+      "store": "Steam",
+      "price": 5.62,
+      "regular_price": 37.49,
+      "discount": 85,
+      "url": "https://itad.link/019f1e68-e886-70c7-a7a0-73f929bb4451/?app=ze0jtd",
+      "historical_low": false,
+      "coupon": null,
+      "genres": [],
+      "release_year": null
+    },
+    {
+      "title": "The Curse 404",
+      "store": "Steam",
+      "price": 5.62,
+      "regular_price": 37.49,
+      "discount": 85,
+      "url": "https://itad.link/019de204-55d6-7248-9979-a06156d5520d/?app=ze0jtd",
+      "historical_low": false,
+      "coupon": null,
+      "genres": [],
+      "release_year": null
+    },
+    {
+      "title": "Turbo Rivals",
+      "store": "Steam",
+      "price": 4.94,
+      "regular_price": 32.99,
+      "discount": 85,
+      "url": "https://itad.link/019d763e-f5c4-71f4-aca1-d4f2b8665b78/?app=ze0jtd",
+      "historical_low": false,
+      "coupon": null,
+      "genres": [],
+      "release_year": null
+    },
+    {
+      "title": "Talisman: The Horus Heresy (Classic)",
+      "store": "Steam",
+      "price": 3.52,
+      "regular_price": 23.5,
+      "discount": 85,
+      "url": "https://itad.link/019d732f-d732-71cc-90ff-4f4b8cc49022/?app=ze0jtd",
+      "historical_low": false,
+      "coupon": null,
+      "genres": [],
+      "release_year": null
+    },
+    {
+      "title": "Neo Cab",
+      "store": "GOG",
+      "price": 7.05,
+      "regular_price": 46.99,
+      "discount": 85,
+      "url": "https://itad.link/019d2fab-69c4-7141-b495-d6136b19d33b/?app=ze0jtd",
+      "historical_low": false,
+      "coupon": null,
+      "genres": [],
+      "release_year": null
+    },
+    {
+      "title": "Neo Cab Original Soundtrack",
+      "store": "GOG",
+      "price": 4.95,
+      "regular_price": 32.99,
+      "discount": 85,
+      "url": "https://itad.link/019d2fab-6839-706c-8cdc-8a6b05a0695f/?app=ze0jtd",
+      "historical_low": false,
+      "coupon": null,
+      "genres": [],
+      "release_year": null
+    },
+    {
+      "title": "Neo Cab Deluxe Bundle",
+      "store": "GOG",
+      "price": 8.99,
+      "regular_price": 59.98,
+      "discount": 85,
+      "url": "https://itad.link/019d2fab-6837-72ec-91d3-77e6ce696584/?app=ze0jtd",
+      "historical_low": false,
+      "coupon": null,
+      "genres": [],
+      "release_year": null
+    },
+    {
+      "title": "Mega Carrier Simulator",
+      "store": "Steam",
+      "price": 4.94,
+      "regular_price": 32.99,
+      "discount": 85,
+      "url": "https://itad.link/019c722d-c647-709a-b22e-89f274f8df62/?app=ze0jtd",
+      "historical_low": false,
+      "coupon": null,
+      "genres": [],
+      "release_year": null
+    },
+    {
+      "title": "IL-2 Sturmovik: Ram Squadron Campaign",
+      "store": "Steam",
+      "price": 4.94,
+      "regular_price": 32.99,
+      "discount": 85,
+      "url": "https://itad.link/019bff9a-be2e-728b-9b24-96e98eb38771/?app=ze0jtd",
+      "historical_low": false,
+      "coupon": null,
+      "genres": [],
+      "release_year": null
+    },
+    {
+      "title": "Tractor Racers",
+      "store": "Steam",
+      "price": 4.94,
+      "regular_price": 32.99,
+      "discount": 85,
+      "url": "https://itad.link/019bfaab-4649-715e-95c8-acd8c681a548/?app=ze0jtd",
+      "historical_low": false,
+      "coupon": null,
+      "genres": [],
+      "release_year": null
+    },
+    {
+      "title": "Nilawanti: A Cursed Story",
+      "store": "Steam",
+      "price": 2.54,
+      "regular_price": 16.99,
+      "discount": 85,
+      "url": "https://itad.link/019aa547-1251-7111-bb6f-fc2f5d29805c/?app=ze0jtd",
+      "historical_low": false,
+      "coupon": null,
+      "genres": [],
+      "release_year": null
+    },
+    {
+      "title": "Dungeons of Uhr",
+      "store": "Steam",
+      "price": 2.54,
+      "regular_price": 16.99,
+      "discount": 85,
+      "url": "https://itad.link/019a9299-9b94-7081-a70f-c6d32d665b31/?app=ze0jtd",
+      "historical_low": false,
+      "coupon": null,
+      "genres": [],
+      "release_year": null
+    },
+    {
+      "title": "The Girl In White",
+      "store": "Steam",
+      "price": 3.97,
+      "regular_price": 26.49,
+      "discount": 85,
+      "url": "https://itad.link/019a7895-2b65-7130-a2b4-81872072a4c7/?app=ze0jtd",
+      "historical_low": false,
+      "coupon": null,
+      "genres": [],
+      "release_year": null
+    },
+    {
+      "title": "Possessor(s)",
+      "store": "Steam",
+      "price": 5.62,
+      "regular_price": 37.49,
+      "discount": 85,
+      "url": "https://itad.link/019a73dc-a463-7369-a67c-6829e67e90d7/?app=ze0jtd",
+      "historical_low": false,
+      "coupon": null,
+      "genres": [],
+      "release_year": null
+    },
+    {
+      "title": "Flying Circus Deluxe Edition",
+      "store": "Steam",
+      "price": 125.38,
+      "regular_price": 836.18,
+      "discount": 85,
+      "url": "https://itad.link/019a7397-c217-7373-9669-a59b2a7f8bc2/?app=ze0jtd",
+      "historical_low": false,
+      "coupon": null,
+      "genres": [],
+      "release_year": null
+    },
+    {
+      "title": "Fortiori",
+      "store": "Steam",
+      "price": 4.49,
+      "regular_price": 29.99,
+      "discount": 85,
+      "url": "https://itad.link/019a1206-8246-71c4-a39c-260df171a834/?app=ze0jtd",
+      "historical_low": false,
+      "coupon": null,
+      "genres": [],
+      "release_year": null
+    },
+    {
+      "title": "Alpine Skater",
+      "store": "Steam",
+      "price": 4.94,
+      "regular_price": 32.99,
+      "discount": 85,
+      "url": "https://itad.link/0199f1c6-52df-714d-b371-99fc1a4de197/?app=ze0jtd",
+      "historical_low": false,
+      "coupon": null,
+      "genres": [],
+      "release_year": null
+    },
+    {
+      "title": "We Only Come Out at Night",
+      "store": "Steam",
+      "price": 2.54,
+      "regular_price": 16.99,
+      "discount": 85,
+      "url": "https://itad.link/0199a986-7e1c-7334-8fdd-68f1f5577d24/?app=ze0jtd",
+      "historical_low": false,
+      "coupon": null,
+      "genres": [],
+      "release_year": null
+    },
+    {
+      "title": "King's Bounty Classic Collection",
+      "store": "GOG",
+      "price": 34.25,
+      "regular_price": 228.49,
+      "discount": 85,
+      "url": "https://itad.link/01999ff2-c58a-7399-994c-15acbd3f291f/?app=ze0jtd",
+      "historical_low": false,
+      "coupon": null,
+      "genres": [],
+      "release_year": null
+    },
+    {
+      "title": "IL-2 Sturmovik: Hornet's Nest Campaign",
+      "store": "Steam",
+      "price": 6.29,
+      "regular_price": 41.99,
+      "discount": 85,
+      "url": "https://itad.link/01999aaa-7784-7162-8dcc-44cca32ffda5/?app=ze0jtd",
+      "historical_low": false,
+      "coupon": null,
+      "genres": [],
+      "release_year": null
+    },
+    {
+      "title": "Shadow of the Tomb Raider - Definitive Edition",
+      "store": "GOG",
+      "price": 24.75,
+      "regular_price": 165.09,
+      "discount": 85,
+      "url": "https://itad.link/01998629-cefb-73ac-be8d-660f00e2d116/?app=ze0jtd",
+      "historical_low": false,
+      "coupon": null,
+      "genres": [],
+      "release_year": null
+    },
+    {
+      "title": "Rise of the Tomb Raider™ 20 Year Celebration",
+      "store": "GOG",
+      "price": 18.75,
+      "regular_price": 124.99,
+      "discount": 85,
+      "url": "https://itad.link/01998629-cefa-71fe-a4c8-b99ff3a98943/?app=ze0jtd",
+      "historical_low": false,
+      "coupon": null,
+      "genres": [],
+      "release_year": null
+    },
+    {
+      "title": "Going To High School With Lira",
+      "store": "Steam",
+      "price": 2.69,
+      "regular_price": 17.99,
+      "discount": 85,
+      "url": "https://itad.link/019962ee-703e-70c4-947f-de4d7c1d3bd4/?app=ze0jtd",
+      "historical_low": false,
+      "coupon": null,
+      "genres": [],
+      "release_year": null
+    },
+    {
+      "title": "UNEXTINCTION",
+      "store": "Steam",
+      "price": 2.54,
+      "regular_price": 16.99,
+      "discount": 85,
+      "url": "https://itad.link/01991352-4ae0-7268-b2d4-6ed04449fbc0/?app=ze0jtd",
+      "historical_low": false,
+      "coupon": null,
+      "genres": [],
+      "release_year": null
+    },
+    {
+      "title": "Final Gear",
+      "store": "Steam",
+      "price": 6.29,
+      "regular_price": 41.99,
+      "discount": 85,
+      "url": "https://itad.link/01986686-259d-7392-898e-849ebed1e111/?app=ze0jtd",
+      "historical_low": false,
+      "coupon": null,
+      "genres": [],
+      "release_year": null
+    },
+    {
+      "title": "Snakes and Ladders Championship",
+      "store": "Steam",
+      "price": 4.94,
+      "regular_price": 32.99,
+      "discount": 85,
+      "url": "https://itad.link/0197c073-8e19-7078-97e0-c577574ee670/?app=ze0jtd",
+      "historical_low": false,
+      "coupon": null,
+      "genres": [],
+      "release_year": null
+    },
+    {
+      "title": "KABUKI FIRE",
+      "store": "Steam",
+      "price": 3.52,
+      "regular_price": 23.49,
+      "discount": 85,
+      "url": "https://itad.link/01979cad-a0aa-707f-a381-c4965a9a1955/?app=ze0jtd",
+      "historical_low": false,
+      "coupon": null,
+      "genres": [],
+      "release_year": null
+    },
+    {
+      "title": "Velocity Riders",
+      "store": "Steam",
+      "price": 6.29,
+      "regular_price": 41.99,
+      "discount": 85,
+      "url": "https://itad.link/01978eb9-1aa0-709f-8bf6-a6303af0a978/?app=ze0jtd",
+      "historical_low": false,
+      "coupon": null,
+      "genres": [],
+      "release_year": null
+    },
+    {
+      "title": "Airplane Racing Championship",
+      "store": "Steam",
+      "price": 4.94,
+      "regular_price": 32.99,
+      "discount": 85,
+      "url": "https://itad.link/0197076e-2f5e-700b-b6ec-b9868c5d698a/?app=ze0jtd",
+      "historical_low": false,
+      "coupon": null,
+      "genres": [],
+      "release_year": null
+    },
+    {
+      "title": "The Sinking City Remastered - Deluxe Edition",
+      "store": "GOG",
+      "price": 40.19,
+      "regular_price": 268.09,
+      "discount": 85,
+      "url": "https://itad.link/0196c8e4-6a35-716a-968d-ee0620dd019d/?app=ze0jtd",
+      "historical_low": false,
+      "coupon": null,
+      "genres": [],
+      "release_year": null
+    },
+    {
+      "title": "The Sinking City Remastered",
+      "store": "GOG",
+      "price": 26.09,
+      "regular_price": 174.09,
+      "discount": 85,
+      "url": "https://itad.link/0196c8e4-6a35-716a-968d-ee061ffdb4d1/?app=ze0jtd",
+      "historical_low": false,
+      "coupon": null,
+      "genres": [],
+      "release_year": null
+    },
+    {
+      "title": "I Am Busy Digging A Hole",
+      "store": "Steam",
+      "price": 2.54,
+      "regular_price": 16.99,
+      "discount": 85,
+      "url": "https://itad.link/0196c072-5164-70f4-a54b-ede173eb11c9/?app=ze0jtd",
+      "historical_low": false,
+      "coupon": null,
+      "genres": [],
+      "release_year": null
+    },
+    {
+      "title": "KeyWe",
+      "store": "Nuuvem",
+      "price": 7.12,
+      "regular_price": 47.49,
+      "discount": 85,
+      "url": "https://itad.link/01968882-ce51-7390-9534-8e051226d2f7/?app=ze0jtd",
+      "historical_low": false,
+      "coupon": null,
+      "genres": [],
+      "release_year": null
+    },
+    {
+      "title": "Extreme Offroad Racing VR",
+      "store": "Steam",
+      "price": 4.94,
+      "regular_price": 32.99,
+      "discount": 85,
+      "url": "https://itad.link/019644f8-ec30-7328-8152-6e3f55ee4c58/?app=ze0jtd",
+      "historical_low": false,
+      "coupon": null,
+      "genres": [],
+      "release_year": null
+    },
+    {
+      "title": "Fantasy Quest Starter Bundle",
+      "store": "Steam",
+      "price": 39.04,
+      "regular_price": 260.38,
+      "discount": 85,
+      "url": "https://itad.link/01962107-d65d-715d-9fd3-3bb0af4a0d60/?app=ze0jtd",
+      "historical_low": false,
+      "coupon": null,
+      "genres": [],
+      "release_year": null
+    },
+    {
+      "title": "Fantasy Quest Realm Survival",
+      "store": "Steam",
+      "price": 18.74,
+      "regular_price": 124.99,
+      "discount": 85,
+      "url": "https://itad.link/01962107-d65c-73bb-8b5e-02d03fbda74e/?app=ze0jtd",
+      "historical_low": false,
+      "coupon": null,
+      "genres": [],
+      "release_year": null
+    },
+    {
+      "title": "Legacy of Sin the father sacrifice",
+      "store": "Nuuvem",
+      "price": 2.48,
+      "regular_price": 16.59,
+      "discount": 85,
+      "url": "https://itad.link/0195b9eb-e792-7326-bd73-849e10728a57/?app=ze0jtd",
+      "historical_low": false,
+      "coupon": null,
+      "genres": [],
+      "release_year": null
+    },
+    {
+      "title": "LEGO® Movies Game Bundle",
+      "store": "GOG",
+      "price": 34.49,
+      "regular_price": 229.99,
+      "discount": 85,
+      "url": "https://itad.link/019547ba-6931-728a-8150-5577bf2faa38/?app=ze0jtd",
+      "historical_low": false,
+      "coupon": null,
+      "genres": [],
+      "release_year": null
+    },
+    {
+      "title": "LEGO Movie Videogame Bundle",
+      "store": "GOG",
+      "price": 34.49,
+      "regular_price": 229.99,
+      "discount": 85,
+      "url": "https://itad.link/019547ba-692e-7375-ae7d-1d74bc63577b/?app=ze0jtd",
+      "historical_low": false,
+      "coupon": null,
+      "genres": [],
+      "release_year": null
+    },
+    {
+      "title": "IL-2 Sturmovik: Iron Wind Campaign",
+      "store": "Steam",
+      "price": 4.94,
+      "regular_price": 32.99,
+      "discount": 85,
+      "url": "https://itad.link/0194f5db-6110-7284-976c-019561992360/?app=ze0jtd",
+      "historical_low": false,
+      "coupon": null,
+      "genres": [],
+      "release_year": null
+    },
+    {
+      "title": "Extreme Cycling",
+      "store": "Steam",
+      "price": 4.94,
+      "regular_price": 32.99,
+      "discount": 85,
+      "url": "https://itad.link/0194a428-27da-73d0-8b10-cf5fec0577df/?app=ze0jtd",
+      "historical_low": false,
+      "coupon": null,
+      "genres": [],
+      "release_year": null
+    },
+    {
+      "title": "Horror Adventure : Zombie Edition",
+      "store": "Steam",
+      "price": 4.94,
+      "regular_price": 32.99,
+      "discount": 85,
+      "url": "https://itad.link/01941d20-0218-70d7-98bb-6634ea7adb83/?app=ze0jtd",
+      "historical_low": false,
+      "coupon": null,
+      "genres": [],
+      "release_year": null
+    },
+    {
+      "title": "IL-2 Sturmovik: Gestapo Hunters Campaign",
+      "store": "Steam",
+      "price": 6.29,
+      "regular_price": 41.99,
+      "discount": 85,
+      "url": "https://itad.link/0193d574-ea4b-73df-a0e8-0d1bb04c40d0/?app=ze0jtd",
+      "historical_low": false,
+      "coupon": null,
+      "genres": [],
+      "release_year": null
+    },
+    {
+      "title": "Fantasy Quest",
+      "store": "Steam",
+      "price": 23.24,
+      "regular_price": 154.99,
+      "discount": 85,
+      "url": "https://itad.link/019392c6-f1de-7073-ae7b-2a464df750b2/?app=ze0jtd",
+      "historical_low": false,
+      "coupon": null,
+      "genres": [],
+      "release_year": null
+    },
+    {
+      "title": "Snowboard Legends",
+      "store": "Steam",
+      "price": 4.94,
+      "regular_price": 32.99,
+      "discount": 85,
+      "url": "https://itad.link/01936bb9-5432-71b0-b787-882431b97a28/?app=ze0jtd",
+      "historical_low": false,
+      "coupon": null,
+      "genres": [],
+      "release_year": null
+    },
+    {
+      "title": "IL-2 Sturmovik: Flying Circus - Volume IV",
+      "store": "Steam",
+      "price": 32.24,
+      "regular_price": 214.99,
+      "discount": 85,
+      "url": "https://itad.link/0193696d-4aab-7153-af00-1398b36d6e8c/?app=ze0jtd",
+      "historical_low": false,
+      "coupon": null,
+      "genres": [],
+      "release_year": null
+    },
+    {
+      "title": "Escape From Infection Zone",
+      "store": "Steam",
+      "price": 18.74,
+      "regular_price": 124.99,
+      "discount": 85,
+      "url": "https://itad.link/01930b9a-50d8-7233-8733-5934ff6c4221/?app=ze0jtd",
       "historical_low": false,
       "coupon": null,
       "genres": [],

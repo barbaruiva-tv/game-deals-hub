@@ -612,5 +612,588 @@
     "release_year": 2019,
     "status": "matched",
     "rawg_url": "https://rawg.io/games/batman-arkham-collection"
+  },
+  "Battle Babes: Cyber, Wrath & Peace": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "Anomaly Defenders": {
+    "genres": [
+      "Action",
+      "Indie",
+      "Strategy"
+    ],
+    "release_year": 2014,
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/anomaly-defenders"
+  },
+  "The Political Simulator": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "Free MP3 Cutter Joiner": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "2026 U.S. Election Simulator": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "Space Avengers": {
+    "genres": [
+      "Action"
+    ],
+    "release_year": 2020,
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/space-avengers"
+  },
+  "Spleef Game": {
+    "genres": [
+      "Action",
+      "Casual",
+      "Indie"
+    ],
+    "release_year": 2024,
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/spleef-game"
+  },
+  "SURVIVAL": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "Project: AFTERSHOCK": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "OVERDEAD": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "Put One In for Johnny Minn": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "Dicedus": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "UNKNOWN FACES": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "Rembrunir 2": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "Fort Boyard": {
+    "genres": [
+      "Action",
+      "Sports"
+    ],
+    "release_year": null,
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/fort-boyard"
+  },
+  "Spudtoon - Born To Peel": {
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie"
+    ],
+    "release_year": 2025,
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/spudtoon-born-to-peel"
+  },
+  "LEGO Batman Trilogy": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "Quiz Kingdom: Elementary Math Kids RPG": {
+    "genres": [
+      "RPG"
+    ],
+    "release_year": 2025,
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/quiz-kingdom-elementary-math-kids-rpg"
+  },
+  "Tower Survivor": {
+    "genres": [
+      "Casual",
+      "Indie",
+      "RPG"
+    ],
+    "release_year": 2025,
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/tower-survivor"
+  },
+  "Phantom Breaker: Battle Grounds Ultimate Soundtrack": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "Rise Eterna 2": {
+    "genres": [
+      "Action",
+      "Adventure",
+      "Casual",
+      "RPG",
+      "Strategy"
+    ],
+    "release_year": 2025,
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/rise-eterna-2"
+  },
+  "Vessels of Decay": {
+    "genres": [
+      "Action",
+      "Adventure",
+      "RPG"
+    ],
+    "release_year": 2025,
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/vessels-of-decay"
+  },
+  "The Dawning Clocks of Time Remake": {
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie"
+    ],
+    "release_year": 2024,
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/the-dawning-clocks-of-time-remake"
+  },
+  "Gungrave G.O.R.E": {
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "release_year": 2022,
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/gungrave-gore"
+  },
+  "Bears In Space": {
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie"
+    ],
+    "release_year": 2024,
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/bears-in-space"
+  },
+  "Shadowgate 2": {
+    "genres": [
+      "Adventure"
+    ],
+    "release_year": 2025,
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/shadowgate-2"
+  },
+  "DEMON GAZE EXTRA Digital Premium Edition": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "DEMON GAZE EXTRA Ultimate Dungeon Master Set": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "祛魅·化始（祛魅4） - Disenchantment Initializtion - 豪华礼包": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "Slice of Sea": {
+    "genres": [
+      "Adventure",
+      "Indie"
+    ],
+    "release_year": 2021,
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/slice-of-sea"
+  },
+  "MXGP 24: The Official Game": {
+    "genres": [
+      "Racing",
+      "Sports"
+    ],
+    "release_year": 2024,
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/mxgp-24-the-official-game"
+  },
+  "Akimbot": {
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "release_year": 2024,
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/akimbot-2"
+  },
+  "Gold Mining Simulator & Giant Machines 2017": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "Beyond the Edge of Owlsgard Deluxe Edition": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "The Gunk": {
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "release_year": 2021,
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/the-gunk"
+  },
+  "X4: Kingdom End Soundtrack": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "Phantom Breaker: Omnia (LOFI Remix) Soundtrack": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "X4: Tides of Avarice Soundtrack": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "Phantom Breaker: Omnia Original Game Soundtrack": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "Severed Steel Soundtrack": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "X4: Cradle of Humanity Soundtrack": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "X4: Split Vendetta Soundtrack": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "X4: Foundations Soundtrack": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "Rise Eterna War": {
+    "genres": [
+      "Adventure",
+      "Casual",
+      "Indie",
+      "RPG",
+      "Strategy"
+    ],
+    "release_year": 2024,
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/rise-eterna-war"
+  },
+  "Rise Eterna Bundle": {
+    "genres": [],
+    "release_year": 2024,
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/rise-eterna-bundle"
+  },
+  "Blocky Farm": {
+    "genres": [
+      "Casual",
+      "Family",
+      "Simulation",
+      "Strategy"
+    ],
+    "release_year": 2017,
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/blocky-farm"
+  },
+  "Alien Outpost": {
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie"
+    ],
+    "release_year": 2024,
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/alien-outpost-2"
+  },
+  "Ingression": {
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie"
+    ],
+    "release_year": 2024,
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/ingression"
+  },
+  "The Chant": {
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "release_year": 2022,
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/the-chant"
+  },
+  "Scars Above": {
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "release_year": 2023,
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/scars-above"
+  },
+  "Wildlands_Resurgence": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "Tchia: Oléti Edition": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "Welcome to ParadiZe": {
+    "genres": [
+      "Action",
+      "Adventure",
+      "RPG"
+    ],
+    "release_year": 2024,
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/welcome-to-paradize"
+  },
+  "Roboplant": {
+    "genres": [
+      "Indie",
+      "Simulation",
+      "Strategy"
+    ],
+    "release_year": 2022,
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/roboplant"
+  },
+  "Ad Infinitum Supporter Edition": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "Mythical Concept STARNAUT": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "POSTAL 2: Paradise Lost": {
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie",
+      "Shooter"
+    ],
+    "release_year": 2015,
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/postal-2-paradise-lost"
+  },
+  "Zombie Rollerz: Pinball Heroes": {
+    "genres": [
+      "Arcade"
+    ],
+    "release_year": 2022,
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/zombie-rollerz-pinball-heroes-2"
+  },
+  "Zanki Zero: Last Beginning": {
+    "genres": [
+      "RPG"
+    ],
+    "release_year": 2018,
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/zanki-zero-last-beginning"
+  },
+  "X Rebirth VR Edition": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "XIII - Remake": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "XEL Save the World Edition": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "XEL - Complete Edition": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "XEL": {
+    "genres": [
+      "Action",
+      "Indie",
+      "RPG"
+    ],
+    "release_year": 2022,
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/xel"
+  },
+  "WRC 8 FIA World Rally Championship": {
+    "genres": [
+      "Arcade",
+      "Racing"
+    ],
+    "release_year": 2019,
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/wrc-8-fia-world-rally-championship"
+  },
+  "WRC 7 FIA World Rally Championship": {
+    "genres": [
+      "Racing",
+      "Sports"
+    ],
+    "release_year": 2017,
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/wrc-7-fia-world-rally-championship"
+  },
+  "WRC 6": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "Winds of Change - Original Soundtrack": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "Winds of Change - Deluxe Edition": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "Winds of Change": {
+    "genres": [
+      "Adventure",
+      "Indie",
+      "RPG"
+    ],
+    "release_year": 2018,
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/winds-of-change"
+  },
+  "Wild Terra 2: New Lands": {
+    "genres": [
+      "Action",
+      "Indie",
+      "Massively Multiplayer",
+      "RPG"
+    ],
+    "release_year": 2021,
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/wild-terra-2-new-lands"
+  },
+  "Wildcat Gun Machine": {
+    "genres": [
+      "Action",
+      "Indie"
+    ],
+    "release_year": 2022,
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/wildcat-gun-machine"
+  },
+  "The Whispering Valley | La vallée qui murmure": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "The Whisperer | Le murmureur": {
+    "genres": [
+      "Adventure",
+      "Educational",
+      "Indie",
+      "Puzzle"
+    ],
+    "release_year": 2021,
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/the-whisperer-le-murmureur"
+  },
+  "The Whispered World Special Edition": {
+    "genres": [
+      "Adventure",
+      "Indie",
+      "Puzzle",
+      "RPG"
+    ],
+    "release_year": 2014,
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/the-whispered-world-special-edition"
+  },
+  "Werewolf: The Apocalypse - Heart of the Forest": {
+    "genres": [
+      "Adventure",
+      "Indie",
+      "RPG"
+    ],
+    "release_year": 2020,
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/werewolf-the-apocalypse-heart-of-the-forest"
+  },
+  "Werewolf: The Apocalypse - Earthblood - Champion of Gaia Pack": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "Werewolf: The Apocalypse - Earthblood Champion Of Gaia Edition": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "Werewolf: The Apocalypse - Earthblood": {
+    "genres": [
+      "Action",
+      "Adventure",
+      "RPG"
+    ],
+    "release_year": 2021,
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/werewolf-the-apocalypse-earthblood"
+  },
+  "Way of the Samurai 4": {
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "release_year": 2011,
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/way-of-the-samurai-4"
   }
 }
