@@ -93,6 +93,7 @@ for shop_ids in (other_stores, epic_stores):
         )
         deals.append({
             "title": entry.get("title") or "Sem título",
+            "game_type": entry.get("type"),
             "store": store,
             "price": amount,
             "regular_price": (deal.get("regular") or {}).get("amount"),

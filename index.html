@@ -138,6 +138,12 @@ label { display: inline-flex; align-items: center; gap: 6px; }
   .quick-links a:hover { transform: translateY(-2px); }
   .quick-links a:active { transform: translateY(1px); }
 }
+.game-art.bundle-cover {
+  background: linear-gradient(135deg, #231712 0%, #231712 69%, #ff721f 69%, #ff721f 72%, #120f0d 72%);
+  color: #fff8f1;
+  font: 800 clamp(1.8rem, 5vw, 3rem) var(--headings);
+  letter-spacing: .12em;
+}
 </style>
 </head>
 <body>
@@ -368,7 +374,11 @@ function createArt(deal) {
             image.src = url;
             art.replaceChildren(image);
         } else {
-            art.textContent = 'Imagem indisponível';
+            // Older catalog entries may only identify packages in the title.
+            const isBundle = deal.game_type === 'package' ||
+                (!deal.game_type && /\bbundles?\b/i.test(deal.title));
+            art.classList.toggle('bundle-cover', isBundle);
+            art.textContent = isBundle ? 'BUNDLE' : 'Imagem indisponível';
         }
     }
     image.addEventListener('error', loadNextImage);
