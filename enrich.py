@@ -13,7 +13,13 @@ if not key:
     raise SystemExit(0)
 
 data=json.loads(data_path.read_text(encoding="utf-8"))
-cache=json.loads(cache_path.read_text(encoding="utf-8")) if cache_path.exists() else {}
+try:
+    cache=json.loads(cache_path.read_text(encoding="utf-8")) if cache_path.exists() else {}
+    if not isinstance(cache,dict):
+        raise ValueError("Cache deve ser um objeto JSON")
+except (ValueError, OSError) as exc:
+    print("Cache inválido; reconstruindo:", type(exc).__name__)
+    cache={}
 def normalize(s):
     s=unicodedata.normalize("NFKD",s).casefold()
     return re.sub(r"[^a-z0-9]+"," ", "".join(c for c in s if not unicodedata.combining(c))).strip()
