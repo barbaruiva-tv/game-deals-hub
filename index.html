@@ -120,6 +120,24 @@ label { display: inline-flex; align-items: center; gap: 6px; }
 .page-options { justify-content: space-between; margin-block: 14px; }
 .pagination { justify-content: center; margin: 18px 0; }
 .pagination button:disabled { opacity: .5; cursor: default; }
+#ofertas:focus, #favoritos:focus { outline: none; }
+.quick-links a:hover {
+  background-color: #3b2419;
+}
+.quick-links .primary:hover {
+  background-color: var(--gold);
+}
+.quick-links a:active {
+  transform: translateY(1px);
+}
+@media (prefers-reduced-motion: no-preference) {
+  html { scroll-behavior: smooth; }
+  .quick-links a {
+    transition: background-color 180ms ease, border-color 180ms ease, transform 180ms ease;
+  }
+  .quick-links a:hover { transform: translateY(-2px); }
+  .quick-links a:active { transform: translateY(1px); }
+}
 </style>
 </head>
 <body>
@@ -148,7 +166,7 @@ label { display: inline-flex; align-items: center; gap: 6px; }
   <p id="editorial-message">A primeira seleção do quadro <strong>Vale a Oferta?</strong> será publicada aqui junto com o episódio.</p>
   <div id="editorial-picks" class="grid" hidden></div>
 </section>
-<section id="ofertas" aria-labelledby="ofertas-heading">
+<section id="ofertas" tabindex="-1" aria-labelledby="ofertas-heading">
 <h2 id="ofertas-heading">Ofertas de PC</h2>
 <div class="stats"><div class="stat"><strong id="total">—</strong><span>Ofertas coletadas</span></div><div class="stat"><strong id="free">—</strong><span>Jogos gratuitos</span></div><div class="stat"><strong id="best">—</strong><span>Maior desconto</span></div></div>
 <section class="panel"><div class="filters"><input id="search" type="search" aria-label="Pesquisar jogo" placeholder="Pesquisar jogo…"><select id="store" aria-label="Loja"><option value="">Todas as lojas</option><option>Steam</option><option>Epic Games</option><option>GOG</option><option>Nuuvem</option></select><select id="filter" aria-label="Tipo de oferta"><option value="">Todas as ofertas</option><option value="free">Grátis</option><option value="budget">Até R$ 30</option><option value="discount">70% ou mais</option><option value="historical">Menor preço histórico</option><option value="coupon">Com cupom</option></select><select id="genre" aria-label="Gênero"><option value="">Todos os gêneros</option></select><select id="year" aria-label="Ano de lançamento"><option value="">Todos os anos</option></select><select id="sort" aria-label="Ordenação"><option value="discount">Maior desconto</option><option value="price">Menor preço</option></select></div><p class="notice" id="updated">Carregando dados…</p></section>
@@ -165,7 +183,7 @@ label { display: inline-flex; align-items: center; gap: 6px; }
   <button id="page-next" type="button">Próxima</button>
 </nav>
 </section>
-<section id="favoritos" class="panel" style="margin-top:24px" aria-labelledby="favorites-heading">
+<section id="favoritos" tabindex="-1" class="panel" style="margin-top:24px" aria-labelledby="favorites-heading">
   <h2 id="favorites-heading">Meus favoritos</h2>
   <p class="notice">Salvos neste navegador. Os alertas aparecem aqui quando o painel detecta uma nova promoção.</p>
   <form id="favorite-form" class="favorite-actions">
@@ -508,12 +526,34 @@ fetch('./weekly-picks.json', {cache: 'no-cache'})
     })
     .catch(() => { /* A seção mostra a mensagem inicial enquanto a edição não carrega. */ });
 
-for (const shortcut of document.querySelectorAll('[data-filter]')) {
-    shortcut.addEventListener('click', () => {
-        for (const id of ['search', 'store', 'genre', 'year']) document.getElementById(id).value = '';
-        document.querySelector('#favorites-only').checked = false;
-        document.querySelector('#filter').value = shortcut.dataset.filter;
-        resetPage();
+const reduceMotion = window.matchMedia('(prefers-reduced-motion: reduce)');
+let shortcutHighlight;
+
+for (const shortcut of document.querySelectorAll('.quick-links a[href^="#"]')) {
+    shortcut.addEventListener('click', event => {
+        if (event.button !== 0 || event.metaKey || event.ctrlKey || event.shiftKey || event.altKey) return;
+        const target = document.querySelector(shortcut.hash);
+        if (!target) return;
+        event.preventDefault();
+
+        if (shortcut.dataset.filter) {
+            for (const id of ['search', 'store', 'genre', 'year']) document.getElementById(id).value = '';
+            document.querySelector('#favorites-only').checked = false;
+            document.querySelector('#filter').value = shortcut.dataset.filter;
+            resetPage();
+        }
+        if (location.hash !== shortcut.hash) history.pushState(null, '', shortcut.hash);
+        target.focus({preventScroll: true});
+        target.scrollIntoView({behavior: reduceMotion.matches ? 'instant' : 'smooth', block: 'start'});
+
+        shortcutHighlight?.cancel();
+        if (!reduceMotion.matches && typeof target.animate === 'function') {
+            shortcutHighlight = target.animate([
+                {outline: '2px solid transparent', outlineOffset: '4px'},
+                {outline: '2px solid #ff721f', outlineOffset: '5px', offset: .35},
+                {outline: '2px solid transparent', outlineOffset: '9px'},
+            ], {duration: 1250, easing: 'ease-out'});
+        }
     });
 }
 
