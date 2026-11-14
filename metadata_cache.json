@@ -1275,5 +1275,693 @@
     "release_year": 2011,
     "status": "matched",
     "rawg_url": "https://rawg.io/games/way-of-the-samurai-4"
+  },
+  "Middle-earth™: The Shadow Bundle": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "Cybernetic Fault": {
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie",
+      "Simulation"
+    ],
+    "release_year": 2020,
+    "image_url": "https://media.rawg.io/media/screenshots/7e7/7e7d300e7fa6d7eb8504edca2cbe8dc9.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/cybernetic-fault"
+  },
+  "Lights On My Screen": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "Clash: Artifacts of Chaos": {
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie"
+    ],
+    "release_year": 2023,
+    "image_url": "https://media.rawg.io/media/games/05c/05c744ab46b5629ee9fbefa42321fc70.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/clash-artifacts-of-chaos"
+  },
+  "Ad Infinitum": {
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "release_year": 2023,
+    "image_url": "https://media.rawg.io/media/screenshots/d9b/d9b676027a253474e281ff405bfecf4b.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/ad-infinitum-2"
+  },
+  "Robocop: Rogue City Alex Murphy Edition": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "RoboCop: Rogue City": {
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "release_year": 2023,
+    "image_url": "https://media.rawg.io/media/games/2ae/2ae4150474a27f90595c9092917ab2d3.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/robocop-rogue-city"
+  },
+  "Way of the Samurai 3": {
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "release_year": 2009,
+    "image_url": "https://media.rawg.io/media/games/0ef/0ef62451f5ec5d66b057282b4f5ec83a.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/way-of-the-samurai-3"
+  },
+  "Way of the Samurai Bundle": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "War Hospital - Supporter Edition": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "Warhammer 40,000: Mechanicus - Omnissiah Edition": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "Warhammer 40,000: Mechanicus": {
+    "genres": [
+      "Strategy"
+    ],
+    "release_year": 2018,
+    "image_url": "https://media.rawg.io/media/games/511/511659166b4ecf074d77ff129ac41731.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/warhammer-40000-mechanicus"
+  },
+  "Wanderlust Travel Stories Soundtrack": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "The Wanderer: Frankenstein's Creature": {
+    "genres": [
+      "Adventure",
+      "Casual",
+      "Indie"
+    ],
+    "release_year": null,
+    "image_url": "https://media.rawg.io/media/screenshots/4b8/4b886b60bac32b1be5862a5bb936f30a.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/the-wanderer-frankensteins-creature"
+  },
+  "The Walking Dead Season One": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "Voodolls": {
+    "genres": [
+      "Action",
+      "Strategy"
+    ],
+    "release_year": 2023,
+    "image_url": "https://media.rawg.io/media/screenshots/328/3280071684d0dec3eae44157c32d7427.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/voodolls"
+  },
+  "VELONE": {
+    "genres": [
+      "Indie"
+    ],
+    "release_year": 2022,
+    "image_url": "https://media.rawg.io/media/screenshots/34e/34e1c48cf9f5f94defcf42d5b906e3d5.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/velone"
+  },
+  "Vampire's Fall: Origins": {
+    "genres": [
+      "Adventure",
+      "Indie",
+      "RPG"
+    ],
+    "release_year": 2018,
+    "image_url": "https://media.rawg.io/media/screenshots/81e/81ecb2aaf666c6e898daad028f61abc4_wvCSu7W.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/vampires-fall-origins"
+  },
+  "Vampire: The Masquerade - Swansong PRIMOGEN Edition": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "Vampire: The Masquerade - Swansong": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "Valhalla Hills: Two-Horned Helmet Edition Upgrade": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "Valhalla Hills: Two-Horned Helmet Edition": {
+    "genres": [
+      "Simulation",
+      "Strategy"
+    ],
+    "release_year": 2016,
+    "image_url": "https://media.rawg.io/media/screenshots/930/9300f9b323a9b0a6548a73fb6f7b1b7c.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/valhalla-hills-two-horned-helmet-edition"
+  },
+  "Valhalla Hills": {
+    "genres": [
+      "Indie",
+      "Simulation",
+      "Strategy"
+    ],
+    "release_year": 2015,
+    "image_url": "https://media.rawg.io/media/screenshots/b0e/b0e3154a0d4f36376050bd2afb6ef6b6_nfv5rBs.jpeg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/valhalla-hills"
+  },
+  "Urban Trial Tricky™ Deluxe Edition": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "Urban Trial Freestyle": {
+    "genres": [
+      "Action",
+      "Racing",
+      "Simulation",
+      "Sports"
+    ],
+    "release_year": 2013,
+    "image_url": "https://media.rawg.io/media/screenshots/02f/02fd24f02555f6e4c419b3d02d926bb4.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/urban-trial-freestyle"
+  },
+  "URAGUN": {
+    "genres": [
+      "Action"
+    ],
+    "release_year": 2022,
+    "image_url": "https://media.rawg.io/media/screenshots/df7/df70c31587201e521681d9d81e37e67a.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/uragun"
+  },
+  "Ultimate Ski Jumping 2020": {
+    "genres": [
+      "Action",
+      "Casual",
+      "Indie",
+      "Simulation",
+      "Sports"
+    ],
+    "release_year": 2020,
+    "image_url": "https://media.rawg.io/media/screenshots/b87/b871d10739adc43c4c4dd20ce3c5090a.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/ultimate-ski-jumping-2020"
+  },
+  "Ultimate Fishing Simulator": {
+    "genres": [
+      "Simulation"
+    ],
+    "release_year": 2017,
+    "image_url": "https://media.rawg.io/media/screenshots/942/942177edf13062e19d71b76a0ccf2e77.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/ultimate-fishing-simulator"
+  },
+  "Ultimate ADOM: Caverns of Chaos | Save the World Edition": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "Ultimate ADOM - Caverns of Chaos": {
+    "genres": [
+      "Indie",
+      "RPG",
+      "Strategy"
+    ],
+    "release_year": 2021,
+    "image_url": "https://media.rawg.io/media/screenshots/35b/35b0a6a4aad4686245b38fe697181be8.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/ultimate-adom-caverns-of-chaos"
+  },
+  "EDGE&TRIGGER": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "TWELVE CONTAINERS": {
+    "genres": [
+      "Casual",
+      "Indie",
+      "Simulation"
+    ],
+    "release_year": 2020,
+    "image_url": "https://media.rawg.io/media/screenshots/584/584430c374b527d3c17a9862b67d3a29.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/twelve-containers"
+  },
+  "The Trasamire Campaigns": {
+    "genres": [
+      "Casual",
+      "Strategy"
+    ],
+    "release_year": 2023,
+    "image_url": "https://media.rawg.io/media/screenshots/da3/da3abb36ffd7ed3f11ffa2094b72ea81.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/the-trasamire-campaigns"
+  },
+  "Transport Fever": {
+    "genres": [
+      "Simulation",
+      "Strategy"
+    ],
+    "release_year": 2016,
+    "image_url": "https://media.rawg.io/media/screenshots/148/148c6b22a6cb6b274cd00ab4d43a7e83.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/transport-fever"
+  },
+  "Tower 57 Two-pack": {
+    "genres": [],
+    "release_year": 2017,
+    "image_url": "https://media.rawg.io/media/screenshots/8dd/8dd2fe94d92a8880acc6456cd1ee64b9.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/tower-57-two-pack"
+  },
+  "Tower 57 2-Pack": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "Tower 57": {
+    "genres": [
+      "Action",
+      "Indie"
+    ],
+    "release_year": 2016,
+    "image_url": "https://media.rawg.io/media/screenshots/3e0/3e0bed150fdd09bc7a0471f245628827.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/tower-57"
+  },
+  "Tower of Time": {
+    "genres": [
+      "RPG",
+      "Strategy"
+    ],
+    "release_year": 2017,
+    "image_url": "https://media.rawg.io/media/screenshots/997/99739f37c098a1dee511d2501e41204e.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/tower-of-time"
+  },
+  "Titan Souls: Digital Special Edition": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "Titan Souls Collector's Edition": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "Titan Souls": {
+    "genres": [
+      "Action",
+      "Indie"
+    ],
+    "release_year": 2015,
+    "image_url": "https://media.rawg.io/media/screenshots/2fc/2fc6994425146f9dba3133400b414e29.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/titan-souls"
+  },
+  "Time Loader and Biped Bundle": {
+    "genres": [],
+    "release_year": 2021,
+    "image_url": null,
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/time-loader-and-biped-bundle"
+  },
+  "Time Carnage": {
+    "genres": [
+      "Action",
+      "Indie",
+      "Shooter"
+    ],
+    "release_year": 2017,
+    "image_url": "https://media.rawg.io/media/screenshots/daf/daf8f0b54e8180116313903c2128e0be.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/time-carnage"
+  },
+  "Three Minutes To Eight": {
+    "genres": [
+      "Adventure",
+      "Indie"
+    ],
+    "release_year": 2023,
+    "image_url": "https://media.rawg.io/media/screenshots/82b/82b416754387c94b10996c051f4eba06.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/three-minutes-to-eight"
+  },
+  "Tetraminos": {
+    "genres": [
+      "Casual",
+      "Puzzle"
+    ],
+    "release_year": 2011,
+    "image_url": "https://media.rawg.io/media/screenshots/56c/56cb05b3a62ae3993f371660b868b25d.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/tetraminos"
+  },
+  "The Testament of Sherlock Holmes": {
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "release_year": 2012,
+    "image_url": "https://media.rawg.io/media/games/22e/22e75ceb294e7822f028a3ec2e92eb3e.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/the-testament-of-sherlock-holmes"
+  },
+  "Technicity + Scrapnaut": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "Technicity": {
+    "genres": [
+      "Indie",
+      "Simulation",
+      "Strategy"
+    ],
+    "release_year": 2022,
+    "image_url": "https://media.rawg.io/media/screenshots/329/32986e790bcc4b02084b998ca6a8ce59.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/technicity"
+  },
+  "Tasty Jigsaw Happy Hour 2": {
+    "genres": [
+      "Casual"
+    ],
+    "release_year": 2021,
+    "image_url": "https://media.rawg.io/media/screenshots/64d/64df4bc14555b3def1d43555f63c2476.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/tasty-jigsaw-happy-hour-2"
+  },
+  "Tales of the Tiny Planet": {
+    "genres": [
+      "Casual",
+      "Indie",
+      "Puzzle"
+    ],
+    "release_year": 2017,
+    "image_url": "https://media.rawg.io/media/screenshots/f46/f46bdf82e500d045a68de9ce81f0e1a0.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/tales-of-the-tiny-planet"
+  },
+  "Tale of Fallen Dragons": {
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie"
+    ],
+    "release_year": 2017,
+    "image_url": "https://media.rawg.io/media/screenshots/8e6/8e680b2fd6479661992d65a8425849f6.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/tale-of-fallen-dragons"
+  },
+  "Symmetry": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "Sym.BIOS: Torn Asunder": {
+    "genres": [
+      "Indie"
+    ],
+    "release_year": 2023,
+    "image_url": "https://media.rawg.io/media/screenshots/14a/14a715342f048d66d8a3860e7ea6305b.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/symbios-torn-asunder"
+  },
+  "Syberia 3: The Complete Journey": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "Surgeon Simulator": {
+    "genres": [
+      "Action",
+      "Educational",
+      "Indie",
+      "Simulation"
+    ],
+    "release_year": 2013,
+    "image_url": "https://media.rawg.io/media/screenshots/ca8/ca840f2a8ebfc74aac1688367dc1f903.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/surgeon-simulator-cpr"
+  },
+  "Supreme Ruler 2010": {
+    "genres": [
+      "Strategy"
+    ],
+    "release_year": 2005,
+    "image_url": "https://media.rawg.io/media/screenshots/846/846067f85053b1a793a35db8b893bc8b.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/supreme-ruler-2010"
+  },
+  "Summer in Mara": {
+    "genres": [
+      "Adventure",
+      "Indie",
+      "Simulation"
+    ],
+    "release_year": 2020,
+    "image_url": "https://media.rawg.io/media/screenshots/03a/03ac699aea96dec52bd92300a3f9c0ee.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/summer-in-mara"
+  },
+  "Styx: Shards of Darkness": {
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "release_year": 2017,
+    "image_url": "https://media.rawg.io/media/games/b43/b43c8d475172bf6cbeeba1153ea569d5.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/styx-shards-of-darkness"
+  },
+  "Styx: Master of Shadows": {
+    "genres": [
+      "Action",
+      "RPG"
+    ],
+    "release_year": 2014,
+    "image_url": "https://media.rawg.io/media/games/cd7/cd78e63236e86f97f4b2e45f3843eb3d.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/styx-master-of-shadows"
+  },
+  "Stronghold Crusader 2 Special Edition": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "Stronghold Crusader 2": {
+    "genres": [
+      "Simulation",
+      "Strategy"
+    ],
+    "release_year": 2014,
+    "image_url": "https://media.rawg.io/media/screenshots/21a/21a0dacefc6b20dc81c8aad0625eb9a8.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/stronghold-crusader-2"
+  },
+  "Strategy & Tactics: Wargame Collection": {
+    "genres": [
+      "Strategy"
+    ],
+    "release_year": 2016,
+    "image_url": "https://media.rawg.io/media/screenshots/2e8/2e860feb84d1ebceee5a911ceb83e7ed.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/strategy-tactics-wargame-collection"
+  },
+  "Strategic Command: European Theater": {
+    "genres": [
+      "Strategy"
+    ],
+    "release_year": 2002,
+    "image_url": "https://media.rawg.io/media/screenshots/83e/83ebf4e02f827895b1208b51be58d55e.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/strategic-command-european-theater"
+  },
+  "Still Joking": {
+    "genres": [
+      "Adventure"
+    ],
+    "release_year": 2024,
+    "image_url": "https://media.rawg.io/media/screenshots/f8e/f8e6986bd8bfb82a278c160f450e25dc.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/still-joking"
+  },
+  "Steelrising - Bastille Edition": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "Steelrising": {
+    "genres": [
+      "Action",
+      "Adventure",
+      "RPG"
+    ],
+    "release_year": 2022,
+    "image_url": "https://media.rawg.io/media/games/3b0/3b0f57d0fbb23854f300fb203c18889b.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/steelrising"
+  },
+  "SteamWorld Quest: Hand of Gilgamech": {
+    "genres": [
+      "Action",
+      "Adventure",
+      "Card",
+      "RPG"
+    ],
+    "release_year": 2019,
+    "image_url": "https://media.rawg.io/media/games/697/697a3eb39ddc26bdaa3e0447c0855f2b.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/steamworld-quest"
+  },
+  "Stealth Inc. 2: A Game of Clones Deluxe": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "Stealth Inc. 2: A Game of Clones": {
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie",
+      "Puzzle"
+    ],
+    "release_year": 2014,
+    "image_url": "https://media.rawg.io/media/screenshots/2ff/2ffe731b3388bd795f94c38e9afed60f.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/stealth-inc-2-game-of-clones"
+  },
+  "Stealth Bastard Deluxe Complete Edition": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "State of Mind": {
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie",
+      "Puzzle"
+    ],
+    "release_year": 2018,
+    "image_url": "https://media.rawg.io/media/games/d75/d75b6636526da53fada8a2b49910e41d.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/state-of-mind"
+  },
+  "Spooky Mahjong": {
+    "genres": [
+      "Casual",
+      "Indie"
+    ],
+    "release_year": 2021,
+    "image_url": "https://media.rawg.io/media/screenshots/775/775ce1c758e6587601e2092ac7643781.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/spooky-mahjong"
+  },
+  "Spirited Thief": {
+    "genres": [
+      "Adventure",
+      "RPG",
+      "Strategy"
+    ],
+    "release_year": 2023,
+    "image_url": "https://media.rawg.io/media/screenshots/e60/e60d8e511b7fabead1d35f668eee8665.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/spirited-thief"
+  },
+  "Space Robinson": {
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie",
+      "RPG"
+    ],
+    "release_year": 2021,
+    "image_url": "https://media.rawg.io/media/screenshots/e93/e934be7ec317e2d1c5671a07d2f3cc75.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/space-robinson"
+  },
+  "SPACECOM": {
+    "genres": [
+      "Action",
+      "Indie",
+      "Strategy"
+    ],
+    "release_year": 2014,
+    "image_url": "https://media.rawg.io/media/screenshots/724/7245c2892abf31759e3b01ae583516a8.jpeg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/spacecom"
+  },
+  "Soul Axiom Rebooted": {
+    "genres": [
+      "Adventure",
+      "Indie"
+    ],
+    "release_year": 2020,
+    "image_url": "https://media.rawg.io/media/screenshots/804/804dd2c7969b9676febc83539e567d25.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/soul-axiom-rebooted"
+  },
+  "Soul Axiom": {
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie"
+    ],
+    "release_year": 2016,
+    "image_url": "https://media.rawg.io/media/screenshots/c2f/c2fed76b6866bc74d6ad24d5d1a62168.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/soul-axiom"
+  },
+  "SOS OPS!": {
+    "genres": [
+      "Action",
+      "Adventure",
+      "Casual",
+      "Indie"
+    ],
+    "release_year": 2023,
+    "image_url": "https://media.rawg.io/media/screenshots/e42/e421cd99d3242bafaf5e24d2e09c6c99.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/sos-ops"
+  },
+  "Solitaire": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "Sniper: Ghost Warrior 3 Gold Edition": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
   }
 }
