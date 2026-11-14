@@ -1963,5 +1963,676 @@
     "genres": [],
     "release_year": null,
     "status": "unmatched"
+  },
+  "Sniper Ghost Warrior 3 - Compound Bow": {
+    "genres": [
+      "Action"
+    ],
+    "release_year": 2017,
+    "image_url": "https://media.rawg.io/media/screenshots/530/530946ffaab6233bbfa9b0cdc4a4eb38.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/sniper-ghost-warrior-3-compound-bow"
+  },
+  "Sniper Ghost Warrior 3 - All-terrain vehicle": {
+    "genres": [
+      "Action"
+    ],
+    "release_year": 2017,
+    "image_url": "https://media.rawg.io/media/screenshots/17c/17c5c872bc0251ca9312a2f6524d652f.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/sniper-ghost-warrior-3-all-terrain-vehicle"
+  },
+  "Sniper Ghost Warrior 3": {
+    "genres": [
+      "Action",
+      "Shooter"
+    ],
+    "release_year": 2017,
+    "image_url": "https://media.rawg.io/media/screenshots/aaf/aaf1f1968d7197819d4199bcbc8747ba.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/sniper-ghost-warrior-3"
+  },
+  "Sniper Ghost Warrior 2": {
+    "genres": [
+      "Action",
+      "Shooter"
+    ],
+    "release_year": 2013,
+    "image_url": "https://media.rawg.io/media/screenshots/50e/50e2785bd341c8c3a01b4fdac011b2e0.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/sniper-ghost-warrior-2-2"
+  },
+  "Sniper Ghost Warrior Contracts": {
+    "genres": [
+      "Action",
+      "Shooter"
+    ],
+    "release_year": 2019,
+    "image_url": "https://media.rawg.io/media/games/370/3708f3ab10645b8eaf0236abc30d8437.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/sniper-ghost-warrior-contracts"
+  },
+  "Sniper Ghost Warrior": {
+    "genres": [
+      "Action",
+      "Shooter"
+    ],
+    "release_year": 2010,
+    "image_url": "https://media.rawg.io/media/games/61d/61d15dad7a5c58f58e6f182759fdeb5b.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/sniper-ghost-warrior"
+  },
+  "Sniper Elite 5": {
+    "genres": [
+      "Action",
+      "Adventure",
+      "Shooter"
+    ],
+    "release_year": 2022,
+    "image_url": "https://media.rawg.io/media/games/3e0/3e09bb71ce82dad515df4982a2466e67.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/sniper-elite-5"
+  },
+  "Sniper Elite 4 Deluxe Edition": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "Sniper Elite 4": {
+    "genres": [
+      "Action",
+      "Adventure",
+      "Shooter"
+    ],
+    "release_year": 2017,
+    "image_url": "https://media.rawg.io/media/games/2fe/2feec1ba840f467a2280061b9e665c6e.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/sniper-elite-4"
+  },
+  "Sniper Elite 3 + Season Pass": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "The Smurfs - Mission Vileaf": {
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "release_year": 2021,
+    "image_url": "https://media.rawg.io/media/games/f86/f86c3c3d6eabaeee5bbe1393430fc1c8.jpeg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/the-smurfs-mission-vileaf"
+  },
+  "Slime-san: Superslime Edition": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "Sky Cannoneer": {
+    "genres": [
+      "Action",
+      "Indie",
+      "Strategy"
+    ],
+    "release_year": 2020,
+    "image_url": "https://media.rawg.io/media/screenshots/c47/c4710e341487db171f0ea1f182e8dee4.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/sky-cannoneer"
+  },
+  "Silence": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "Signal Ops": {
+    "genres": [
+      "Action",
+      "Indie",
+      "Strategy"
+    ],
+    "release_year": 2013,
+    "image_url": "https://media.rawg.io/media/screenshots/b44/b44ede890bbe534e4be743cce67dd047.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/signal-ops"
+  },
+  "Siege Survival: Gloria Victis": {
+    "genres": [
+      "Strategy"
+    ],
+    "release_year": 2021,
+    "image_url": "https://media.rawg.io/media/screenshots/455/455972d83b546b3809f7c6cbd12be562.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/siege-survival-gloria-victis"
+  },
+  "SHIP & SUBMARINES BUNDLE": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "Sherlock Holmes versus Jack the Ripper": {
+    "genres": [
+      "Adventure",
+      "RPG"
+    ],
+    "release_year": 2009,
+    "image_url": "https://media.rawg.io/media/games/666/666db1574d99861bcd1dc94dd15edb6b.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/sherlock-holmes-versus-jack-the-ripper"
+  },
+  "Sherlock Holmes: The Silver Earring": {
+    "genres": [
+      "Adventure"
+    ],
+    "release_year": 2004,
+    "image_url": "https://media.rawg.io/media/screenshots/18e/18e2099432c937034331609b49b5e42f.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/secret-of-the-silver-earring"
+  },
+  "Sherlock Holmes - Nemesis": {
+    "genres": [
+      "Adventure",
+      "RPG"
+    ],
+    "release_year": 2007,
+    "image_url": "https://media.rawg.io/media/games/117/117a5c17ceab4baa19313a3af412f9c5.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/sherlock-holmes-nemesis"
+  },
+  "Sherlock Holmes Chapter One Deluxe Edition": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "Sherlock Holmes: Chapter One": {
+    "genres": [
+      "Action",
+      "Adventure",
+      "Puzzle"
+    ],
+    "release_year": 2021,
+    "image_url": "https://media.rawg.io/media/games/60c/60ca6f84551e6f5435d97b603a77d551.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/sherlock-holmes-chapter-one"
+  },
+  "Sherlock Holmes: The Devil's Daughter": {
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "release_year": 2016,
+    "image_url": "https://media.rawg.io/media/games/8c3/8c33e956567aae5cfa839e8b4bb1fb39.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/sherlock-holmes-the-devils-daughter"
+  },
+  "Sherlock Holmes: Crimes and Punishments": {
+    "genres": [
+      "Adventure"
+    ],
+    "release_year": 2014,
+    "image_url": "https://media.rawg.io/media/games/9b8/9b86078de72fce4c535153e805b8c01d.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/sherlock-holmes"
+  },
+  "Sherlock Holmes: The Awakened (2008)": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "Sherlock Holmes The Awakened Premium Edition": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "Sherlock Holmes The Awakened Deluxe Edition": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "Sherlock Holmes - The Awakened": {
+    "genres": [
+      "Adventure"
+    ],
+    "release_year": 2023,
+    "image_url": "https://media.rawg.io/media/games/ced/cede44bc5df6d77540f585f24bc4ecda.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/sherlock-holmes-the-awakened-2"
+  },
+  "Sherlock Holmes and The Hound of The Baskervilles": {
+    "genres": [
+      "Adventure",
+      "Casual",
+      "Puzzle"
+    ],
+    "release_year": 2010,
+    "image_url": "https://media.rawg.io/media/screenshots/dff/dff1b37f59349a41867eea9a81d710e2.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/sherlock-holmes-and-the-hound-of-the-baskervilles"
+  },
+  "shapez": {
+    "genres": [
+      "Puzzle"
+    ],
+    "release_year": 2020,
+    "image_url": "https://media.rawg.io/media/screenshots/b5b/b5bffc6e51615e9347e35e7d2e7bb23b.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/shapez-2"
+  },
+  "Shadow Warrior 3: Deluxe Definitive Edition": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "Shadow Warrior 2 Deluxe Upgrade": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "Shadow Warrior 2 Deluxe": {
+    "genres": [
+      "Shooter"
+    ],
+    "release_year": 2016,
+    "image_url": "https://media.rawg.io/media/screenshots/b41/b4106dbe2fd577957d5b50c0a14dfa23.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/shadow-warrior-2-deluxe"
+  },
+  "Shadow Warrior": {
+    "genres": [
+      "Action",
+      "Shooter"
+    ],
+    "release_year": 1997,
+    "image_url": "https://media.rawg.io/media/screenshots/f7e/f7e70957c14ead1fa187a616dfa83e09.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/shadow-warrior-classic-redux"
+  },
+  "Shadow Warrior 2": {
+    "genres": [
+      "Action",
+      "Adventure",
+      "Shooter"
+    ],
+    "release_year": 2016,
+    "image_url": "https://media.rawg.io/media/games/0b2/0b240149610b8b20eac098b8071f575a.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/shadow-warrior-2"
+  },
+  "Shadow Tactics: Blades of the Shogun": {
+    "genres": [
+      "Indie",
+      "Strategy"
+    ],
+    "release_year": 2016,
+    "image_url": "https://media.rawg.io/media/games/c35/c354856af9151dc63844be4f9843d2c2.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/shadow-tactics"
+  },
+  "Shadows: Awakening": {
+    "genres": [
+      "Action",
+      "RPG"
+    ],
+    "release_year": 2018,
+    "image_url": "https://media.rawg.io/media/games/998/9988525895232b81618aa7eb2b844002.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/shadows-awakening"
+  },
+  "Shadowgrounds Survivor": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "Semblance": {
+    "genres": [
+      "Action",
+      "Adventure",
+      "Casual",
+      "Indie",
+      "Platformer"
+    ],
+    "release_year": 2018,
+    "image_url": "https://media.rawg.io/media/games/911/911f39fc82767d8cfe84a266c10cf68d.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/semblance"
+  },
+  "Secret Files: Tunguska": {
+    "genres": [
+      "Adventure",
+      "Family"
+    ],
+    "release_year": 2006,
+    "image_url": "https://media.rawg.io/media/games/d3c/d3cbe235f6c433c9f8d10163db54af71.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/secret-files-tunguska"
+  },
+  "Secret Files: Sam Peters": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "Secret Files 2 Puritas Cordis": {
+    "genres": [
+      "Adventure",
+      "Family"
+    ],
+    "release_year": 2009,
+    "image_url": "https://media.rawg.io/media/games/a8a/a8afe3b83528ef33d2acc8060da4e38a.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/secret-files-2-puritas-cordis"
+  },
+  "Secret Files 3": {
+    "genres": [
+      "Adventure"
+    ],
+    "release_year": 2012,
+    "image_url": "https://media.rawg.io/media/games/a16/a167113842092e444d9c2ce59e20920c.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/secret-files-3"
+  },
+  "Scrapnaut Among Debris": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "Scrapnaut": {
+    "genres": [
+      "Adventure",
+      "Indie",
+      "Strategy"
+    ],
+    "release_year": 2021,
+    "image_url": "https://media.rawg.io/media/screenshots/9d9/9d967216128f8df5b4c895015efab2cd.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/scrapnaut"
+  },
+  "SAVED": {
+    "genres": [
+      "Action",
+      "Casual",
+      "Indie",
+      "Shooter"
+    ],
+    "release_year": 2021,
+    "image_url": "https://media.rawg.io/media/screenshots/167/1675f18a575058fd526c439cf977f190.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/saved"
+  },
+  "Sakura Day Mahjong": {
+    "genres": [
+      "Casual"
+    ],
+    "release_year": 2018,
+    "image_url": "https://media.rawg.io/media/screenshots/95f/95ffa658942e307dbdec914afb575c15.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/sakura-day-mahjong"
+  },
+  "Saint's Row The Third Remastered": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "The Saboteur": {
+    "genres": [
+      "Action",
+      "Adventure",
+      "Shooter"
+    ],
+    "release_year": 2009,
+    "image_url": "https://media.rawg.io/media/games/e3c/e3ce1e24d0ee02dfbb75b5692042127d.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/the-saboteur"
+  },
+  "Royal Roads": {
+    "genres": [
+      "Casual",
+      "Strategy"
+    ],
+    "release_year": 2018,
+    "image_url": "https://media.rawg.io/media/screenshots/c69/c691273b1503547542c975666b31abab.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/royal-roads"
+  },
+  "Royal Jigsaw 3": {
+    "genres": [
+      "Casual"
+    ],
+    "release_year": 2023,
+    "image_url": "https://media.rawg.io/media/screenshots/ed1/ed185f408f2c5a64c16e7f7b336413ea.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/royal-jigsaw-3"
+  },
+  "Royal Jigsaw": {
+    "genres": [
+      "Casual"
+    ],
+    "release_year": 2022,
+    "image_url": "https://media.rawg.io/media/screenshots/c0b/c0b2ba01acd7c1d41abbbd64f5cd073d.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/royal-jigsaw"
+  },
+  "Rough Justice: '84": {
+    "genres": [
+      "Adventure",
+      "Casual",
+      "Indie",
+      "Simulation",
+      "Strategy"
+    ],
+    "release_year": 2023,
+    "image_url": "https://media.rawg.io/media/screenshots/4b2/4b2c414e527f3a26804a8110d5c6ebf9.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/rough-justice-84"
+  },
+  "Röki": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "RO2 with Rising Storm - RO 2 Digital Deluxe Edition": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "RO2 with Rising Storm": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "Rogue Lords: Blood Moon Edition": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "Rogue Lords": {
+    "genres": [
+      "RPG",
+      "Strategy"
+    ],
+    "release_year": 2021,
+    "image_url": "https://media.rawg.io/media/screenshots/169/1693b9b1654442c33483183f53b63c6a.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/rogue-lords"
+  },
+  "Roguebook - Deluxe Edition": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "Roguebook": {
+    "genres": [
+      "Adventure",
+      "Card",
+      "Indie",
+      "RPG",
+      "Strategy"
+    ],
+    "release_year": 2021,
+    "image_url": "https://media.rawg.io/media/games/021/021e9b567a8f65c3c5adf37282564047.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/roguebook"
+  },
+  "ROAD HOMEWARD: Open world": {
+    "genres": [
+      "Adventure"
+    ],
+    "release_year": 2019,
+    "image_url": "https://media.rawg.io/media/screenshots/160/16031197e6d4792721d0916aab06c493.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/road-homeward-open-world"
+  },
+  "Rising Storm 2: Vietnam - Digital Deluxe Edition": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "Rising Storm 2: Vietnam": {
+    "genres": [
+      "Action",
+      "Indie",
+      "Massively Multiplayer",
+      "Simulation",
+      "Strategy"
+    ],
+    "release_year": 2017,
+    "image_url": "https://media.rawg.io/media/screenshots/e49/e49218a5fe469df9ae3aaa4438599f67.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/rising-storm-2-vietnam"
+  },
+  "Rising Storm - Digital Deluxe": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "Rising Storm Game of the Year Edition": {
+    "genres": [
+      "Action"
+    ],
+    "release_year": 2013,
+    "image_url": "https://media.rawg.io/media/screenshots/55e/55ee5c478e2afcad419e8362179eb883.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/rising-storm-game-of-the-year-edition"
+  },
+  "Rise of the Triad": {
+    "genres": [
+      "Action",
+      "Shooter"
+    ],
+    "release_year": 2013,
+    "image_url": "https://media.rawg.io/media/screenshots/667/6672f1b8b4624d7beed05d8de6a8ce71.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/rise-of-the-triad"
+  },
+  "Rise Eterna": {
+    "genres": [
+      "Adventure",
+      "Indie",
+      "RPG",
+      "Strategy"
+    ],
+    "release_year": 2021,
+    "image_url": "https://media.rawg.io/media/screenshots/d49/d49cde5b371fd9cc788f0630b28fc9d0.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/rise-eterna"
+  },
+  "Ride 2 Rising Sun Bikes Pack": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "Ride 2 Limited Edition Bikes Pack": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "Ride 2 2017 Top Bikes Pack": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "Ride 2 Exotic Bikes Pack": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "Ride 2 Ducati Bikes Pack": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "Ride 2 Competition Bikes Pack": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "Ride 2 Collector Bikes Pack": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "Ride 2": {
+    "genres": [
+      "Racing",
+      "Simulation",
+      "Sports"
+    ],
+    "release_year": 2016,
+    "image_url": "https://media.rawg.io/media/games/ca1/ca170595113c2ad70da3463b3542b622.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/ride-2"
+  },
+  "Rezrog": {
+    "genres": [
+      "Adventure",
+      "Indie",
+      "RPG"
+    ],
+    "release_year": 2017,
+    "image_url": "https://media.rawg.io/media/screenshots/81e/81e0ed40e6dcc9ee872f5379c95416fd.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/rezrog"
+  },
+  "Re:ZERO -Starting Life in Another World- The Prophecy of the Throne": {
+    "genres": [
+      "Adventure",
+      "Strategy"
+    ],
+    "release_year": 2021,
+    "image_url": "https://media.rawg.io/media/screenshots/416/416e48356bb6f514c19b25825251b2b5.jpeg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/rezero-starting-life-in-another-world-the-prophecy"
+  },
+  "Restaurant Solitaire Delicious Lunch": {
+    "genres": [
+      "Casual"
+    ],
+    "release_year": 2021,
+    "image_url": "https://media.rawg.io/media/screenshots/c1f/c1f384ac6a3ced79c7a4eef3761190ac.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/restaurant-solitaire-delicious-lunch"
+  },
+  "Red Faction: Armageddon": {
+    "genres": [
+      "Action",
+      "Shooter"
+    ],
+    "release_year": 2011,
+    "image_url": "https://media.rawg.io/media/games/395/395ad028483d6cd9076b746a3eec993d.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/red-faction-armageddon"
+  },
+  "Rebel Galaxy": {
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie",
+      "RPG",
+      "Simulation",
+      "Strategy"
+    ],
+    "release_year": 2015,
+    "image_url": "https://media.rawg.io/media/games/59f/59f8ff56cde745ceb56029f229ad4e43.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/rebel-galaxy"
   }
 }
