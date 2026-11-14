@@ -19,3 +19,9 @@ A integração é opcional e requer uma chave RAWG própria. Obtenha em https://
 O coletor `enrich.py` consulta até 80 títulos novos por execução, guarda resultados em `metadata_cache.json` e só aceita correspondência exata normalizada e única. DLCs, bundles e jogos sem correspondência podem ficar sem gênero/ano. Os filtros ficam desabilitados enquanto não existirem metadados confirmados.
 
 Confira os termos de licença RAWG para seu uso: o plano gratuito é indicado para projetos pessoais/não comerciais e exige atribuição com link. Projetos comerciais precisam de autorização/plano apropriado. Fonte: https://rawg.io/apidocs
+
+## Escolhas do Barba Ruiva
+
+Para publicar uma edição de **Vale a Oferta?**, atualize `weekly-picks.json` com o título da edição em `title`, o link HTTPS do vídeo em `video_url` e até três jogos em `picks`. Cada jogo recebe um `title` igual ao título no catálogo e uma frase de recomendação em `reason`.
+
+O site usa o menor preço ativo disponível no catálogo. Se a oferta acabar, a recomendação continua visível com a indicação de que o jogo está sem oferta ativa. Use o endereço do site com `#escolhas` na descrição do episódio.
