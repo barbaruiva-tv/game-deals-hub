@@ -5,8 +5,9 @@
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <title>Game Deals Hub — Ofertas de PC</title>
 <style>
-:root{color-scheme:dark;font-family:Inter,system-ui,Arial,sans-serif;background:#0b1020;color:#e8edf8}*{box-sizing:border-box}body{margin:0}header{background:#151c31;border-bottom:1px solid #29344e;padding:24px max(24px,calc((100vw - 1100px)/2))}h1{margin:0;font-size:28px}p{color:#9daac2}main{max-width:1100px;margin:32px auto;padding:0 20px}.stats{display:grid;grid-template-columns:repeat(3,1fr);gap:12px}.stat,.panel,.deal{background:#161f35;border:1px solid #2a3652;border-radius:14px;padding:18px}.stat strong{font-size:26px;display:block}.stat span,.meta{color:#aab6ce;font-size:13px}.panel{margin:20px 0}.filters{display:flex;flex-wrap:wrap;gap:12px}input,select{background:#0c1428;border:1px solid #3b4866;border-radius:9px;padding:11px;color:white;min-width:160px}input[type=search]{flex:1}.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(270px,1fr));gap:14px}.deal h3{margin:0 0 14px;font-size:17px}.price{font-size:23px;font-weight:750}.old{text-decoration:line-through;color:#8997b2}.cut{color:#6ee7a5;font-weight:700}.tag{font-size:12px;background:#263753;padding:5px 9px;border-radius:6px}a{color:#7eb6ff}.deal a{display:inline-block;margin-top:16px}.empty{padding:28px;text-align:center;background:#161f35;border-radius:14px;color:#aab6ce}.notice{font-size:13px}label{display:flex;align-items:center;gap:6px}@media(max-width:600px){.stats{grid-template-columns:1fr}header{padding:20px}}
+:root{color-scheme:dark;font-family:Inter,system-ui,Arial,sans-serif;background:#0b1020;color:#e8edf8}*{box-sizing:border-box}body{margin:0}header{background:#151c31;border-bottom:1px solid #29344e;padding:24px max(24px,calc((100vw - 1100px)/2))}h1{margin:0;font-size:28px}p{color:#9daac2}main{max-width:1100px;margin:32px auto;padding:0 20px}.stats{display:grid;grid-template-columns:repeat(3,1fr);gap:12px}.stat,.panel,.deal{background:#161f35;border:1px solid #2a3652;border-radius:14px;padding:18px}.stat strong{font-size:26px;display:block}.stat span,.meta{color:#aab6ce;font-size:13px}.panel{margin:20px 0}.filters{display:flex;flex-wrap:wrap;gap:12px}input,select{background:#0c1428;border:1px solid #3b4866;border-radius:9px;padding:11px;color:white;min-width:160px}input[type=search]{flex:1}.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(270px,1fr));gap:14px}.deal h3{margin:0 0 14px;font-size:17px}.price{font-size:23px;font-weight:750}.old{text-decoration:line-through;color:#8997b2}.cut{color:#6ee7a5;font-weight:700}.tag{font-size:12px;background:#263753;padding:5px 9px;border-radius:6px}a{color:#7eb6ff}.deal a{display:inline-block;margin-top:16px}.empty{padding:28px;text-align:center;background:#161f35;border-radius:14px;color:#aab6ce}.notice{font-size:13px}input[type=checkbox]{min-width:0}label{display:flex;align-items:center;gap:6px}@media(max-width:600px){.stats{grid-template-columns:1fr}header{padding:20px}}
 .game-art{aspect-ratio:16/9;width:100%;overflow:hidden;border-radius:9px;background:#0c1428;display:grid;place-items:center;margin-bottom:14px;color:#8997b2;font-size:13px}.game-art img{width:100%;height:100%;object-fit:cover;display:block}
+.favorite-actions{display:flex;flex-wrap:wrap;align-items:center;gap:10px}.favorite-actions input{flex:1}.favorite-list{padding-left:20px}.favorite-list li{margin:10px 0}.favorite-list button{margin-left:10px}.favorite-button{display:block;margin:12px 0 0}button{font:inherit;color:#e8edf8;background:#243555;border:1px solid #50668c;border-radius:8px;padding:7px 10px;cursor:pointer}button[aria-pressed="true"]{color:#ffda84;border-color:#b69149}.favorite-alert{color:#6ee7a5}
 </style>
 </head>
 <body>
@@ -14,6 +15,20 @@
 <main>
 <div class="stats"><div class="stat"><strong id="total">—</strong><span>Ofertas coletadas</span></div><div class="stat"><strong id="free">—</strong><span>Jogos gratuitos</span></div><div class="stat"><strong id="best">—</strong><span>Maior desconto</span></div></div>
 <section class="panel"><div class="filters"><input id="search" type="search" placeholder="Pesquisar jogo..."><select id="store"><option value="">Todas as lojas</option><option>Steam</option><option>Epic Games</option><option>GOG</option><option>Nuuvem</option></select><select id="filter"><option value="">Todas as ofertas</option><option value="free">Grátis</option><option value="discount">70% ou mais</option><option value="historical">Menor preço histórico</option><option value="coupon">Com cupom</option></select><select id="genre"><option value="">Todos os gêneros</option></select><select id="year"><option value="">Todos os anos</option></select><select id="sort"><option value="discount">Maior desconto</option><option value="price">Menor preço</option></select></div><p class="notice" id="updated">Carregando dados…</p></section>
+<section class="panel" aria-labelledby="favorites-heading">
+  <h2 id="favorites-heading">Meus favoritos</h2>
+  <p class="notice">Salvos neste navegador. Os alertas aparecem aqui quando o painel detecta uma nova promoção.</p>
+  <form id="favorite-form" class="favorite-actions">
+    <input id="favorite-title" type="text" aria-label="Título do jogo" placeholder="Título exato do jogo" maxlength="200" required>
+    <button type="submit">Adicionar aos favoritos</button>
+  </form>
+  <p id="favorite-status" class="notice" role="status"></p>
+  <ul id="favorite-list" class="favorite-list"></ul>
+  <div class="favorite-actions">
+    <label><input id="favorites-only" type="checkbox"> Mostrar só ofertas dos favoritos</label>
+    <button id="clear-alerts" type="button" hidden>Marcar alertas como lidos</button>
+  </div>
+</section>
 <div id="results" class="grid"></div>
 <p class="notice">Ofertas e capas: IsThereAnyDeal. Capas complementares, gêneros e anos: <a href="https://rawg.io/" target="_blank" rel="noopener noreferrer">RAWG</a>. Preços em BRL quando fornecidos para a região BR. Confirme valor e disponibilidade na loja. Cupons e mínimos históricos só aparecem quando verificados.</p>
 </main>
@@ -25,6 +40,146 @@ const expiryFormat = new Intl.DateTimeFormat('pt-BR', {
     timeZone: 'America/Sao_Paulo',
 });
 let deals=[];
+let catalogLoaded = false;
+const favoritesKey = 'game-deals-hub:favorites:v1';
+const favoriteStatus = document.querySelector('#favorite-status');
+const gameKey = title => title.trim().normalize('NFC').toLocaleLowerCase('pt-BR').replace(/\s+/g, ' ');
+
+function readFavorites() {
+    try {
+        const saved = JSON.parse(localStorage.getItem(favoritesKey) || '[]');
+        return Array.isArray(saved) ? saved.filter(item => item &&
+            typeof item.key === 'string' && typeof item.title === 'string' &&
+            Array.isArray(item.active) && Array.isArray(item.unread)) : [];
+    } catch {
+        favoriteStatus.textContent = 'Não foi possível carregar os favoritos salvos.';
+        return [];
+    }
+}
+
+let favorites = readFavorites();
+
+function saveFavorites() {
+    try {
+        localStorage.setItem(favoritesKey, JSON.stringify(favorites));
+    } catch {
+        favoriteStatus.textContent = 'Os favoritos desta sessão não puderam ser salvos no navegador.';
+    }
+}
+
+function activePromotions(rows, now = Date.now()) {
+    const promotions = new Map();
+    for (const deal of rows) {
+        const expires = Date.parse(deal.expires_at);
+        if (!(deal.discount > 0 || deal.price === 0) || expires <= now) continue;
+        const key = gameKey(deal.title);
+        if (!promotions.has(key)) promotions.set(key, new Map());
+        const stores = promotions.get(key);
+        if (!stores.has(deal.store) || deal.price < stores.get(deal.store).price) {
+            stores.set(deal.store, deal);
+        }
+    }
+    return promotions;
+}
+
+function checkAlerts(saved, promotions) {
+    for (const favorite of saved) {
+        const active = [...(promotions.get(favorite.key)?.keys() || [])];
+        const previous = favorite.active;
+        const unread = favorite.unread.filter(store => active.includes(store));
+        for (const store of active) {
+            if (!previous.includes(store) && !unread.includes(store)) unread.push(store);
+        }
+        favorite.active = active;
+        favorite.unread = unread;
+    }
+}
+
+function toggleFavorite(title) {
+    const key = gameKey(title);
+    if (!key) return;
+    favoriteStatus.textContent = '';
+    if (favorites.some(favorite => favorite.key === key)) {
+        favorites = favorites.filter(favorite => favorite.key !== key);
+    } else {
+        const active = activePromotions(deals).get(key);
+        favorites.push({
+            key,
+            title: title.trim(),
+            active: catalogLoaded ? [...(active?.keys() || [])] : [],
+            unread: [],
+        });
+    }
+    saveFavorites();
+    renderFavorites();
+    render();
+}
+
+function renderFavorites() {
+    const list = document.querySelector('#favorite-list');
+    const promotions = activePromotions(deals);
+    list.replaceChildren();
+    let unreadCount = 0;
+    for (const favorite of favorites) {
+        const row = document.createElement('li');
+        const offers = [...(promotions.get(favorite.key)?.values() || [])];
+        const unread = offers.filter(offer => favorite.unread.includes(offer.store));
+        unreadCount += unread.length;
+        const best = offers.sort((a, b) => a.price - b.price)[0];
+        row.append(favorite.title);
+        if (unread.length) {
+            const alert = document.createElement('strong');
+            alert.className = 'favorite-alert';
+            alert.textContent = ' · Nova promoção em ' + unread.map(offer => offer.store).join(', ');
+            row.append(alert);
+        }
+        if (best) {
+            row.append(' · ' + (best.price === 0 ? 'Grátis' : fmt(best.price)) + ' na ' + best.store);
+            if (typeof best.url === 'string' && best.url.startsWith('https://')) {
+                const link = document.createElement('a');
+                link.href = best.url;
+                link.textContent = 'Ver oferta';
+                link.target = '_blank';
+                link.rel = 'noopener noreferrer';
+                row.append(' · ', link);
+            }
+        } else if (catalogLoaded) {
+            row.append(' · Sem promoção no catálogo');
+        }
+        const remove = document.createElement('button');
+        remove.type = 'button';
+        remove.textContent = 'Remover';
+        remove.setAttribute('aria-label', 'Remover ' + favorite.title + ' dos favoritos');
+        remove.addEventListener('click', () => {
+            toggleFavorite(favorite.title);
+            document.querySelector('#favorite-title').focus();
+        });
+        row.append(remove);
+        list.append(row);
+    }
+    list.hidden = favorites.length === 0;
+    document.querySelector('#clear-alerts').hidden = unreadCount === 0;
+}
+
+function favoriteButton(title) {
+    const button = document.createElement('button');
+    button.type = 'button';
+    button.className = 'favorite-button';
+    button.textContent = 'Favorito';
+    button.setAttribute('aria-label', 'Favorito: ' + title);
+    button.setAttribute('aria-pressed', favorites.some(favorite => favorite.key === gameKey(title)));
+    button.addEventListener('click', () => {
+        const card = button.closest('.deal');
+        const index = [...card.parentElement.children].indexOf(card);
+        toggleFavorite(title);
+        const replacement = document.querySelectorAll('#results .favorite-button')[index];
+        const filtered = document.querySelector('#favorites-only');
+        (filtered.checked && !favorites.some(favorite => favorite.key === gameKey(title))
+            ? filtered : replacement || filtered).focus();
+    });
+    return button;
+}
+
 
 function createArt(deal) {
     const art = document.createElement('div');
@@ -69,13 +224,52 @@ function createExpiry(deal) {
 function render(){
 const q=document.querySelector('#search').value.toLowerCase(),s=document.querySelector('#store').value,f=document.querySelector('#filter').value,sort=document.querySelector('#sort').value;
 const genre=document.querySelector('#genre').value,year=document.querySelector('#year').value;
-const filtered=deals.filter(d=>(!genre||(Array.isArray(d.genres)&&d.genres.includes(genre)))&&(!year||String(d.release_year||'')===year)&&(!q||d.title.toLowerCase().includes(q))&&(!s||d.store===s)&&(!f||(f==='free'&&d.price===0)||(f==='discount'&&d.discount>=70)||(f==='historical'&&d.historical_low===true)||(f==='coupon'&&d.coupon)));
+const favoritesOnly = document.querySelector('#favorites-only').checked;
+const keys = new Set(favorites.map(favorite => favorite.key));
+const filtered=deals.filter(d=>(!favoritesOnly || keys.has(gameKey(d.title)))&&(!genre||(Array.isArray(d.genres)&&d.genres.includes(genre)))&&(!year||String(d.release_year||'')===year)&&(!q||d.title.toLowerCase().includes(q))&&(!s||d.store===s)&&(!f||(f==='free'&&d.price===0)||(f==='discount'&&d.discount>=70)||(f==='historical'&&d.historical_low===true)||(f==='coupon'&&d.coupon)));
 filtered.sort((a,b)=>sort==='price'?a.price-b.price:b.discount-a.discount);
 const root=document.querySelector('#results');root.replaceChildren();
 if(!filtered.length){const div=document.createElement('div');div.className='empty';div.textContent=deals.length?'Nenhuma oferta corresponde aos filtros.':'Nenhuma oferta disponível ainda. Configure a chave e execute a coleta no GitHub Actions.';root.append(div);return;}
-for(const d of filtered){const card=document.createElement('article');card.className='deal';card.append(createArt(d));const title=document.createElement('h3');title.textContent=d.title;const store=document.createElement('span');store.className='tag';store.textContent=d.store;const price=document.createElement('p');price.className='price';price.textContent=d.price===0?'Grátis':fmt(d.price);const old=document.createElement('span');old.className='old';old.textContent=typeof d.regular_price==='number'?fmt(d.regular_price):'';const cut=document.createElement('p');cut.className='cut';cut.textContent=Math.round(d.discount||0)+'% de desconto';card.append(title,store,price,old,cut,createExpiry(d));if(d.release_year||(d.genres||[]).length){const meta=document.createElement('p');meta.className='meta';meta.textContent=[d.release_year,...(d.genres||[])].filter(Boolean).join(' · ');card.append(meta)}if(d.coupon){const c=document.createElement('p');c.textContent='Cupom: '+d.coupon;card.append(c)}if(d.historical_low){const h=document.createElement('p');h.textContent='✓ Menor preço histórico confirmado';card.append(h)}if(/^https:\/\//.test(d.url||'')){const a=document.createElement('a');a.href=d.url;a.target='_blank';a.rel='noopener noreferrer';a.textContent='Ver oferta na loja ↗';card.append(a)}root.append(card);}
+for(const d of filtered){const card=document.createElement('article');card.className='deal';card.append(createArt(d));const title=document.createElement('h3');title.textContent=d.title;const store=document.createElement('span');store.className='tag';store.textContent=d.store;const price=document.createElement('p');price.className='price';price.textContent=d.price===0?'Grátis':fmt(d.price);const old=document.createElement('span');old.className='old';old.textContent=typeof d.regular_price==='number'?fmt(d.regular_price):'';const cut=document.createElement('p');cut.className='cut';cut.textContent=Math.round(d.discount||0)+'% de desconto';card.append(title,store,price,old,cut,createExpiry(d),favoriteButton(d.title));if(d.release_year||(d.genres||[]).length){const meta=document.createElement('p');meta.className='meta';meta.textContent=[d.release_year,...(d.genres||[])].filter(Boolean).join(' · ');card.append(meta)}if(d.coupon){const c=document.createElement('p');c.textContent='Cupom: '+d.coupon;card.append(c)}if(d.historical_low){const h=document.createElement('p');h.textContent='✓ Menor preço histórico confirmado';card.append(h)}if(/^https:\/\//.test(d.url||'')){const a=document.createElement('a');a.href=d.url;a.target='_blank';a.rel='noopener noreferrer';a.textContent='Ver oferta na loja ↗';card.append(a)}root.append(card);}
 }
 for(const id of ['search','store','filter','genre','year','sort'])document.getElementById(id).addEventListener('input',render);
-fetch('./deals.json?ts='+Date.now(),{cache:'no-store'}).then(r=>{if(!r.ok)throw Error('HTTP '+r.status);return r.json()}).then(data=>{deals=Array.isArray(data.deals)?data.deals:[];const genres=[...new Set(deals.flatMap(d=>Array.isArray(d.genres)?d.genres:[]))].sort((a,b)=>a.localeCompare(b,'pt-BR'));const years=[...new Set(deals.map(d=>d.release_year).filter(Boolean))].sort((a,b)=>b-a);for(const [id,values] of [['genre',genres],['year',years]]){const select=document.getElementById(id);for(const value of values){const option=document.createElement('option');option.value=String(value);option.textContent=String(value);select.append(option)}if(!values.length){select.disabled=true;select.title='Aguardando integração de metadados de jogos';}}document.querySelector('#total').textContent=deals.length;document.querySelector('#free').textContent=deals.filter(d=>d.price===0).length;document.querySelector('#best').textContent=deals.length?Math.max(...deals.map(d=>d.discount||0))+'%':'—';document.querySelector('#updated').textContent=data.updated_at?'Última coleta: '+new Date(data.updated_at).toLocaleString('pt-BR',{timeZone:'America/Sao_Paulo'}):'Aguardando primeira coleta real';render()}).catch(e=>{document.querySelector('#updated').textContent='Falha ao carregar ofertas: '+e.message;render()});
+document.querySelector('#favorite-form').addEventListener('submit', event => {
+    event.preventDefault();
+    const input = document.querySelector('#favorite-title');
+    const key = gameKey(input.value);
+    if (!key) return;
+    if (favorites.some(favorite => favorite.key === key)) {
+        favoriteStatus.textContent = 'Este jogo já está nos favoritos.';
+        return;
+    }
+    toggleFavorite(input.value);
+    input.value = '';
+});
+document.querySelector('#favorites-only').addEventListener('change', render);
+document.querySelector('#clear-alerts').addEventListener('click', () => {
+    favoriteStatus.textContent = 'Alertas marcados como lidos.';
+    for (const favorite of favorites) favorite.unread = [];
+    saveFavorites();
+    renderFavorites();
+    document.querySelector('#favorites-only').focus();
+});
+window.addEventListener('storage', event => {
+    if (event.key !== favoritesKey && event.key !== null) return;
+    favorites = readFavorites();
+    renderFavorites();
+    render();
+});
+renderFavorites();
+
+let refreshing = false;
+let catalogVersion;
+function refreshCatalog() {
+if (refreshing) return;
+refreshing = true;
+fetch('./deals.json?ts='+Date.now(),{cache:'no-store'}).then(r=>{if(!r.ok)throw Error('HTTP '+r.status);return r.json()}).then(data=>{if(!Array.isArray(data.deals))throw Error('Catálogo inválido');if(catalogLoaded && data.updated_at && data.updated_at===catalogVersion){renderFavorites();return;}catalogVersion=data.updated_at;deals=data.deals;catalogLoaded=true;const before=JSON.stringify(favorites);checkAlerts(favorites, activePromotions(deals));if(JSON.stringify(favorites)!==before)saveFavorites();renderFavorites();const genres=[...new Set(deals.flatMap(d=>Array.isArray(d.genres)?d.genres:[]))].sort((a,b)=>a.localeCompare(b,'pt-BR'));const years=[...new Set(deals.map(d=>d.release_year).filter(Boolean))].sort((a,b)=>b-a);for(const [id,values] of [['genre',genres],['year',years]]){const select=document.getElementById(id);const selected=select.value;select.length=1;select.disabled=!values.length;select.title='';for(const value of values){const option=document.createElement('option');option.value=String(value);option.textContent=String(value);select.append(option)}if(values.some(value=>String(value)===selected))select.value=selected;if(!values.length){select.disabled=true;select.title='Aguardando integração de metadados de jogos';}}document.querySelector('#total').textContent=deals.length;document.querySelector('#free').textContent=deals.filter(d=>d.price===0).length;document.querySelector('#best').textContent=deals.length?Math.max(...deals.map(d=>d.discount||0))+'%':'—';document.querySelector('#updated').textContent=data.updated_at?'Última coleta: '+new Date(data.updated_at).toLocaleString('pt-BR',{timeZone:'America/Sao_Paulo'}):'Aguardando primeira coleta real';render()}).catch(e=>{document.querySelector('#updated').textContent='Falha ao carregar ofertas: '+e.message;render()}).finally(()=>{refreshing=false;});
+}
+refreshCatalog();
+setInterval(()=>{if(!document.hidden)refreshCatalog();}, 5 * 60 * 1000);
+document.addEventListener('visibilitychange',()=>{if(!document.hidden)refreshCatalog();});
 </script>
 </body></html>
