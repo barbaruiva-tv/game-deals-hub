@@ -33,15 +33,18 @@ def lookup(title):
     released=item.get("released") or ""
     return {"genres":sorted({g["name"] for g in item.get("genres",[]) if g.get("name")}),
             "release_year":int(released[:4]) if re.match(r"^\d{4}-",released) else None,
+            "image_url":item.get("background_image"),
             "status":"matched","rawg_url":"https://rawg.io/games/"+item["slug"] if item.get("slug") else None}
 
 new_queries=0
 for deal in data.get("deals",[]):
     title=deal["title"]
-    if title not in cache and new_queries<80:
+    if (title not in cache or (cache[title].get("status")=="matched" and "image_url" not in cache[title])) and new_queries<80:
         try:
-            cache[title]=lookup(title)
             new_queries+=1
+            result=lookup(title)
+            if result.get("status")=="matched" or title not in cache:
+                cache[title]=result
             time.sleep(0.15)
         except Exception as exc:
             print("Não foi possível consultar metadados de",title,":",type(exc).__name__)
@@ -49,6 +52,7 @@ for deal in data.get("deals",[]):
     info=cache.get(title,{})
     deal["genres"]=info.get("genres",[])
     deal["release_year"]=info.get("release_year")
+    deal["image_url"]=info.get("image_url")
     if info.get("status")=="matched": deal["metadata_source"]="RAWG"
 cache_path.write_text(json.dumps(cache,ensure_ascii=False,indent=2),encoding="utf-8")
 data_path.write_text(json.dumps(data,ensure_ascii=False,indent=2),encoding="utf-8")
