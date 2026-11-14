@@ -1,1 +1,616 @@
-{}
+{
+  "DIG Premium Bundle": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "The Green Light": {
+    "genres": [],
+    "release_year": 2026,
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/the-green-light"
+  },
+  "Sky Sorcerer": {
+    "genres": [
+      "Indie"
+    ],
+    "release_year": 2025,
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/sky-sorcerer"
+  },
+  "Night Seeker": {
+    "genres": [
+      "Casual",
+      "Indie"
+    ],
+    "release_year": 2025,
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/night-seeker"
+  },
+  "Forsaken Manor": {
+    "genres": [
+      "Casual",
+      "Indie"
+    ],
+    "release_year": 2025,
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/forsaken-manor"
+  },
+  "Sorcery and Survival": {
+    "genres": [
+      "Casual",
+      "Indie"
+    ],
+    "release_year": 2025,
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/sorcery-and-survival"
+  },
+  "Sorcerer's Fortitude": {
+    "genres": [
+      "Casual",
+      "Indie"
+    ],
+    "release_year": 2025,
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/sorcerers-fortitude"
+  },
+  "Owl Bounce": {
+    "genres": [
+      "Casual",
+      "Indie"
+    ],
+    "release_year": 2025,
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/owl-bounce"
+  },
+  "Deck Combo": {
+    "genres": [
+      "Indie"
+    ],
+    "release_year": 2025,
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/deck-combo"
+  },
+  "Urban In The Woods": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "Dance of Cards Soundtrack": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "Crown Wars: The Black Prince": {
+    "genres": [
+      "Adventure"
+    ],
+    "release_year": null,
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/crown-wars-the-black-prince"
+  },
+  "War Hospital": {
+    "genres": [
+      "Strategy"
+    ],
+    "release_year": 2024,
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/war-hospital"
+  },
+  "Warhammer: Chaosbane - Slayer Edition": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "Warhammer: Chaosbane": {
+    "genres": [
+      "Action",
+      "Adventure",
+      "RPG"
+    ],
+    "release_year": 2019,
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/warhammer-chaosbane"
+  },
+  "TT Isle of Man: Ride on the Edge 3 Racing Fan Edition": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "Suicide Squad: Kill the Justice League - Deluxe Edition": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "Suicide Squad: Kill the Justice League": {
+    "genres": [
+      "Action"
+    ],
+    "release_year": 2024,
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/suicide-squad-kill-the-justice-league"
+  },
+  "Scribblenauts Unmasked: A DC Comics Adventure": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "Scribblenauts Unlimited": {
+    "genres": [
+      "Adventure",
+      "Casual",
+      "Puzzle",
+      "Strategy"
+    ],
+    "release_year": 2012,
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/scribblenauts-unlimited"
+  },
+  "OVERPASS™": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "Outward Definitive Edition": {
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "release_year": 2019,
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/outward"
+  },
+  "Middle-earth: Shadow of War Expansion Pass": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "Middle-earth™: Shadow of Mordor™ Game of the Year Edition": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "LEGO® STAR WARS™: The Force Awakens - Season Pass": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "The LEGO® NINJAGO® Movie Video Game": {
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "release_year": 2017,
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/the-lego-ninjago-movie-video-game"
+  },
+  "The LEGO Movie Videogame": {
+    "genres": [
+      "Action",
+      "Adventure",
+      "Family"
+    ],
+    "release_year": 2014,
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/lego-movie-videogame"
+  },
+  "The LEGO Movie 2 Videogame": {
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "release_year": 2019,
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/the-lego-movie-2-videogame"
+  },
+  "LEGO Marvel's Avengers Season Pass": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "LEGO® Batman: The Videogame": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "Cris Tales Original Soundtrack": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "The Way": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "ReRoad": {
+    "genres": [
+      "Casual",
+      "Indie",
+      "Strategy"
+    ],
+    "release_year": null,
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/reroad-2"
+  },
+  "Crystar": {
+    "genres": [
+      "Action"
+    ],
+    "release_year": 2019,
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/crystar"
+  },
+  "Pyramid of Wisdom": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "The Wraith of the Galaxy": {
+    "genres": [
+      "Action",
+      "Adventure",
+      "Casual",
+      "Indie"
+    ],
+    "release_year": 2022,
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/the-wraith-of-the-galaxy"
+  },
+  "Unclaimed World": {
+    "genres": [
+      "Indie",
+      "Simulation",
+      "Strategy"
+    ],
+    "release_year": 2016,
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/unclaimed-world"
+  },
+  "Shiro": {
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie",
+      "Platformer"
+    ],
+    "release_year": 2020,
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/shiro-2"
+  },
+  "Ship Graveyard Simulator": {
+    "genres": [
+      "Casual",
+      "Indie",
+      "Simulation",
+      "Strategy"
+    ],
+    "release_year": null,
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/ship-graveyard-simulator"
+  },
+  "Severed Steel": {
+    "genres": [
+      "Action",
+      "Indie",
+      "Shooter"
+    ],
+    "release_year": 2021,
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/severed-steel"
+  },
+  "Puppet Play": {
+    "genres": [
+      "Platformer"
+    ],
+    "release_year": 2019,
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/puppet-play"
+  },
+  "PolyClassic: Wild": {
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie"
+    ],
+    "release_year": 2021,
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/polyclassic-wild"
+  },
+  "Phantom Breaker: Battle Grounds": {
+    "genres": [
+      "Action"
+    ],
+    "release_year": 2014,
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/phantom-breaker-battle-grounds"
+  },
+  "Obsurity": {
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie"
+    ],
+    "release_year": 2019,
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/obsurity"
+  },
+  "MiceGard": {
+    "genres": [
+      "Adventure",
+      "Casual",
+      "Indie",
+      "Strategy"
+    ],
+    "release_year": 2024,
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/micegard"
+  },
+  "Giant Machines 2017": {
+    "genres": [
+      "Indie",
+      "Simulation"
+    ],
+    "release_year": 2016,
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/giant-machines-2017"
+  },
+  "The Excrawlers": {
+    "genres": [
+      "Indie"
+    ],
+    "release_year": 2023,
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/the-excrawlers-2"
+  },
+  "Car Mechanic Simulator 2018": {
+    "genres": [
+      "Racing",
+      "Simulation"
+    ],
+    "release_year": 2017,
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/car-mechanic-simulator-2018"
+  },
+  "Car Mechanic Simulator 2015 Gold Edition": {
+    "genres": [
+      "Racing",
+      "Simulation"
+    ],
+    "release_year": 2016,
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/car-mechanic-simulator-2015-gold-edition"
+  },
+  "Car Mechanic Simulator 2015": {
+    "genres": [
+      "Racing",
+      "Simulation"
+    ],
+    "release_year": 2015,
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/car-mechanic-simulator-2015"
+  },
+  "Virus Lab": {
+    "genres": [
+      "Action",
+      "Puzzle"
+    ],
+    "release_year": 2009,
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/virus-lab"
+  },
+  "OH NO, NOT ANOTHER L": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "Battle Babes: Chaos, Sin & Domination": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "True Mechanic": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "Thief Bundle": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "The Tarnishing of Juxtia": {
+    "genres": [
+      "Action",
+      "Indie",
+      "RPG"
+    ],
+    "release_year": 2022,
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/the-tarnishing-of-juxtia"
+  },
+  "Sniper Elite 3 Season Pass": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "Severed Steel - Digital Deluxe Edition": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "Middle-earth™: Shadow of War™ Definitive Edition": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "JASEM: Just Another Shooter with Electronic Music": {
+    "genres": [
+      "Action",
+      "Indie"
+    ],
+    "release_year": null,
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/jasem-just-another-shooter-with-electronic-music"
+  },
+  "CMS 2018 + CMS VR": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "Attentat 1942": {
+    "genres": [
+      "Adventure",
+      "Educational",
+      "Simulation"
+    ],
+    "release_year": 2017,
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/attentat-1942"
+  },
+  "American Theft 80s": {
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie",
+      "Simulation"
+    ],
+    "release_year": 2022,
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/american-theft-80s"
+  },
+  "ALICE VR": {
+    "genres": [
+      "Adventure",
+      "Indie",
+      "Puzzle"
+    ],
+    "release_year": 2016,
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/alice-vr"
+  },
+  "Legendary Collection": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "Car Mechanic Simulator 2018 and Tank Mechanic Simulator": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "The Fallow City": {
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie"
+    ],
+    "release_year": 2025,
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/the-fallow-city"
+  },
+  "Game Thief Tycoon": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "Tower Hunter:Erza's Trial": {
+    "genres": [
+      "Action",
+      "Adventure",
+      "Casual",
+      "Indie",
+      "RPG"
+    ],
+    "release_year": 2019,
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/tower-huntererzas-trial"
+  },
+  "Thief Simulator VR": {
+    "genres": [
+      "Action",
+      "Indie",
+      "Simulation"
+    ],
+    "release_year": 2020,
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/thief-simulator-vr"
+  },
+  "Thief Simulator": {
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie",
+      "Simulation"
+    ],
+    "release_year": 2018,
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/thief-simulator"
+  },
+  "SHIP MECHANIC": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "Prodigal": {
+    "genres": [
+      "Adventure",
+      "Casual",
+      "Indie"
+    ],
+    "release_year": 2020,
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/prodigal"
+  },
+  "Chop and steal - Timberman VR World Premiere bundle": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "Hogwarts Legacy: Digital Deluxe Edition": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "Hogwarts Legacy": {
+    "genres": [
+      "Action",
+      "RPG"
+    ],
+    "release_year": 2023,
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/hogwarts-legacy"
+  },
+  "Firefighting : Into The Flames": {
+    "genres": [
+      "Simulation"
+    ],
+    "release_year": 2018,
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/firefighting-into-the-flames"
+  },
+  "DISTRAINT 2": {
+    "genres": [
+      "Adventure",
+      "Casual",
+      "Indie",
+      "Puzzle"
+    ],
+    "release_year": 2018,
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/distraint-2"
+  },
+  "CMS Bundle": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "Batman Arkham Collection": {
+    "genres": [
+      "Action"
+    ],
+    "release_year": 2019,
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/batman-arkham-collection"
+  }
+}
