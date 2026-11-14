@@ -39,7 +39,12 @@ def lookup(title):
 new_queries=0
 for deal in data.get("deals",[]):
     title=deal["title"]
-    if (title not in cache or (cache[title].get("status")=="matched" and "image_url" not in cache[title])) and new_queries<80:
+    needs_image = (
+        not deal.get("cover_url")
+        and cache.get(title, {}).get("status") == "matched"
+        and "image_url" not in cache[title]
+    )
+    if (title not in cache or needs_image) and new_queries < 80:
         try:
             new_queries+=1
             result=lookup(title)
@@ -48,7 +53,6 @@ for deal in data.get("deals",[]):
             time.sleep(0.15)
         except Exception as exc:
             print("Não foi possível consultar metadados de",title,":",type(exc).__name__)
-            continue
     info=cache.get(title,{})
     deal["genres"]=info.get("genres",[])
     deal["release_year"]=info.get("release_year")
