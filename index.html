@@ -175,7 +175,7 @@ label { display: inline-flex; align-items: center; gap: 6px; }
 <section id="ofertas" tabindex="-1" aria-labelledby="ofertas-heading">
 <h2 id="ofertas-heading">Ofertas de PC</h2>
 <div class="stats"><div class="stat"><strong id="total">—</strong><span>Ofertas coletadas</span></div><div class="stat"><strong id="free">—</strong><span>Jogos gratuitos</span></div><div class="stat"><strong id="best">—</strong><span>Maior desconto</span></div></div>
-<section class="panel"><div class="filters"><input id="search" type="search" aria-label="Pesquisar jogo" placeholder="Pesquisar jogo…"><select id="store" aria-label="Loja"><option value="">Todas as lojas</option><option>Steam</option><option>Epic Games</option><option>GOG</option><option>Nuuvem</option></select><select id="filter" aria-label="Tipo de oferta"><option value="">Todas as ofertas</option><option value="free">Grátis</option><option value="budget">Até R$ 30</option><option value="discount">70% ou mais</option><option value="historical">Menor preço histórico</option><option value="coupon">Com cupom</option></select><select id="genre" aria-label="Gênero"><option value="">Todos os gêneros</option></select><select id="year" aria-label="Ano de lançamento"><option value="">Todos os anos</option></select><select id="sort" aria-label="Ordenação"><option value="discount">Maior desconto</option><option value="price">Menor preço</option></select></div><p class="notice" id="updated">Carregando dados…</p></section>
+<section class="panel"><div class="filters"><input id="search" type="search" aria-label="Pesquisar jogo" placeholder="Pesquisar jogo…"><select id="store" aria-label="Loja"><option value="">Todas as lojas</option><option>Steam</option><option>Epic Games</option><option>GOG</option><option>Nuuvem</option></select><select id="filter" aria-label="Tipo de oferta"><option value="">Todas as ofertas</option><option value="free">Grátis</option><option value="budget">Até R$ 30</option><option value="discount">70% ou mais</option><option value="historical">Menor preço histórico</option><option value="coupon">Com cupom</option></select><select id="genre" aria-label="Gênero"><option value="">Todos os gêneros</option></select><select id="year" aria-label="Ano de lançamento"><option value="">Todos os anos</option></select><select id="sort" aria-label="Ordenação"><option value="discount">Maior desconto</option><option value="price">Menor preço</option><option value="recent">Mais recentes</option></select></div><p class="notice" id="updated">Carregando dados…</p></section>
 <div class="page-options" id="page-options">
   <label>Ofertas por página
     <select id="page-size"><option value="25">25</option><option value="50">50</option></select>
@@ -429,7 +429,13 @@ const genre=document.querySelector('#genre').value,year=document.querySelector('
 const favoritesOnly = document.querySelector('#favorites-only').checked;
 const keys = new Set(favorites.map(favorite => favorite.key));
 const filtered=deals.filter(d=>(!favoritesOnly || keys.has(gameKey(d.title)))&&(!genre||(Array.isArray(d.genres)&&d.genres.includes(genre)))&&(!year||String(d.release_year||'')===year)&&(!q||d.title.toLowerCase().includes(q))&&(!s||d.store===s)&&(!f||(f==='free'&&d.price===0)||(f==='budget'&&d.price>0&&d.price<=30)||(f==='discount'&&d.discount>=70)||(f==='historical'&&d.historical_low===true)||(f==='coupon'&&d.coupon)));
-filtered.sort((a,b)=>sort==='price'?a.price-b.price:b.discount-a.discount);
+filtered.sort((a, b) => {
+    if (sort === 'price') return a.price - b.price;
+    if (sort === 'recent') {
+        return (b.release_year || 0) - (a.release_year || 0) || b.discount - a.discount;
+    }
+    return b.discount - a.discount;
+});
 const root=document.querySelector('#results');root.replaceChildren();
 const limit = Number(pageSize.value);
 const pageCount = Math.max(1, Math.ceil(filtered.length / limit));
