@@ -1,5 +1,6 @@
 """Enriquece ofertas com gêneros e ano via RAWG, sem inventar correspondências."""
 import json, os, re, time, unicodedata
+from itertools import zip_longest
 from pathlib import Path
 from urllib.parse import urlencode
 from urllib.request import Request, urlopen
@@ -36,23 +37,40 @@ def lookup(title):
             "image_url":item.get("background_image"),
             "status":"matched","rawg_url":"https://rawg.io/games/"+item["slug"] if item.get("slug") else None}
 
-new_queries=0
-for deal in data.get("deals",[]):
-    title=deal["title"]
+deals = data.get("deals", [])
+pending_by_store = {}
+for deal in deals:
+    title = deal["title"]
+    info = cache.get(title, {})
     needs_image = (
         not deal.get("cover_url")
-        and cache.get(title, {}).get("status") == "matched"
-        and "image_url" not in cache[title]
+        and info.get("status") == "matched"
+        and "image_url" not in info
     )
-    if (title not in cache or needs_image) and new_queries < 80:
+    if title not in cache or needs_image:
+        pending_by_store.setdefault(deal["store"], {})[title] = None
+
+# Alterna entre as lojas para que o limite diário também alcance a Epic.
+attempted = set()
+for batch in zip_longest(*pending_by_store.values()):
+    for title in batch:
+        if title is None or title in attempted:
+            continue
+        attempted.add(title)
         try:
-            new_queries+=1
-            result=lookup(title)
-            if result.get("status")=="matched" or title not in cache:
-                cache[title]=result
+            result = lookup(title)
+            if result.get("status") == "matched" or title not in cache:
+                cache[title] = result
             time.sleep(0.15)
         except Exception as exc:
-            print("Não foi possível consultar metadados de",title,":",type(exc).__name__)
+            print("Não foi possível consultar metadados de", title, ":", type(exc).__name__)
+        if len(attempted) >= 80:
+            break
+    if len(attempted) >= 80:
+        break
+
+for deal in deals:
+    title = deal["title"]
     info=cache.get(title,{})
     deal["genres"]=info.get("genres",[])
     deal["release_year"]=info.get("release_year")
@@ -60,4 +78,4 @@ for deal in data.get("deals",[]):
     if info.get("status")=="matched": deal["metadata_source"]="RAWG"
 cache_path.write_text(json.dumps(cache,ensure_ascii=False,indent=2),encoding="utf-8")
 data_path.write_text(json.dumps(data,ensure_ascii=False,indent=2),encoding="utf-8")
-print("Metadados consultados nesta execução:",new_queries)
+print("Metadados consultados nesta execução:",len(attempted))
