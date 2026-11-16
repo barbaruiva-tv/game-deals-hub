@@ -3864,5 +3864,690 @@
     "genres": [],
     "release_year": null,
     "status": "unmatched"
+  },
+  "The Black Within": {
+    "genres": [
+      "Adventure",
+      "Casual",
+      "Indie"
+    ],
+    "release_year": 2024,
+    "image_url": "https://media.rawg.io/media/screenshots/5c1/5c14cbcda56d59bb4d34a28f66fa2d7c.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/the-black-within"
+  },
+  "Battle Babes: Earth, Air & Ocean": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "Two Point Campus": {
+    "genres": [
+      "Indie",
+      "Simulation",
+      "Strategy"
+    ],
+    "release_year": 2022,
+    "image_url": "https://media.rawg.io/media/games/bde/bdedc180d7e2bca40fd105980d74b452.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/two-point-campus"
+  },
+  "Umm Oyoun - ام عيون": {
+    "genres": [
+      "Adventure",
+      "Indie"
+    ],
+    "release_year": 2025,
+    "image_url": "https://media.rawg.io/media/screenshots/261/261e1398afaf2aaa6619dd3479983c5e.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/umm-oyoun-m-ywn"
+  },
+  "Dead Age 1 + 2 Bundle": {
+    "genres": [],
+    "release_year": 2020,
+    "image_url": "https://media.rawg.io/media/screenshots/274/274d29b926bbb675e4ab4ca1695704e7.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/dead-age-1-2-bundle"
+  },
+  "Pandora": {
+    "genres": [
+      "Action",
+      "Adventure",
+      "Casual",
+      "Indie",
+      "RPG",
+      "Strategy"
+    ],
+    "release_year": 2023,
+    "image_url": "https://media.rawg.io/media/screenshots/b5c/b5c5fbab9f967a9c1222eb13b6a47de1.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/pandora"
+  },
+  "Thea: The Awakening": {
+    "genres": [
+      "Indie",
+      "RPG",
+      "Strategy"
+    ],
+    "release_year": 2015,
+    "image_url": "https://media.rawg.io/media/games/20d/20d8b5bc7ff4b018625da46bf101c33f.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/thea-the-awakening"
+  },
+  "HOT WHEELS UNLEASHED™ 2 - Season Pass Vol. 2": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "Apocalipsis Wormwood Edition": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "Mahjong Carnival 2": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "TEKKEN 7 - Originals Edition": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "HOT WHEELS UNLEASHED™ 2 - Highway 35 World Race Pack": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "Aircraft Carrier Survival": {
+    "genres": [
+      "Action",
+      "Simulation",
+      "Strategy"
+    ],
+    "release_year": 2022,
+    "image_url": "https://media.rawg.io/media/screenshots/8e2/8e22e0d0cdae2219ec54e1d88eb64371.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/aircraft-carrier-survival"
+  },
+  "Mahjong": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "TEKKEN 7 - Definitive Edition": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "RIDE 5 - Speed With Style Pack": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "Orbital Bullet": {
+    "genres": [
+      "Action",
+      "Indie"
+    ],
+    "release_year": 2021,
+    "image_url": "https://media.rawg.io/media/screenshots/d0a/d0a7a3e84d2405e487e604edbe0e136a.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/orbital-bullet"
+  },
+  "Lost Artifacts": {
+    "genres": [
+      "Casual",
+      "Strategy"
+    ],
+    "release_year": 2020,
+    "image_url": "https://media.rawg.io/media/screenshots/d54/d54a839449e393aa601c4b9453fab323.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/lost-artifacts"
+  },
+  "The Talos Principle: Road To Gehenna": {
+    "genres": [
+      "Puzzle"
+    ],
+    "release_year": 2015,
+    "image_url": "https://media.rawg.io/media/screenshots/266/266ad47f728169953d91c547ab739d04.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/the-talos-principle-road-to-gehenna"
+  },
+  "HOT WHEELS UNLEASHED™ 2 - Made in Italy Expansion Pack": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "Jet Kave Adventure": {
+    "genres": [
+      "Adventure",
+      "Indie"
+    ],
+    "release_year": 2019,
+    "image_url": "https://media.rawg.io/media/screenshots/908/9088cbe346dc8906a5b4b632778518fc.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/jet-kave-adventure"
+  },
+  "Lift It": {
+    "genres": [
+      "Action",
+      "Adventure",
+      "Casual",
+      "Indie",
+      "Simulation",
+      "Sports"
+    ],
+    "release_year": 2017,
+    "image_url": "https://media.rawg.io/media/screenshots/71f/71f9fab5b41b0db21bc18502caa3c402.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/lift-it"
+  },
+  "The Talos Principle": {
+    "genres": [
+      "Adventure",
+      "Indie",
+      "Puzzle"
+    ],
+    "release_year": 2014,
+    "image_url": "https://media.rawg.io/media/games/948/948fe7f00b6cba8472f5ecd07a455077.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/the-talos-principle"
+  },
+  "The Escapists": {
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie",
+      "Puzzle",
+      "RPG",
+      "Simulation",
+      "Strategy"
+    ],
+    "release_year": 2015,
+    "image_url": "https://media.rawg.io/media/screenshots/bc4/bc46fd9543044b48ce87929f3e0d28a2.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/the-escapists"
+  },
+  "Endzone - A World Apart": {
+    "genres": [
+      "Indie",
+      "Simulation",
+      "Strategy"
+    ],
+    "release_year": 2021,
+    "image_url": "https://media.rawg.io/media/screenshots/363/363774f9eef34d299fcd0ba378e7e89b.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/endzone-a-world-apart"
+  },
+  "Legendary Hoplite": {
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie",
+      "RPG",
+      "Strategy"
+    ],
+    "release_year": 2024,
+    "image_url": "https://media.rawg.io/media/screenshots/90d/90d7d5275cb638b5d2e5ea0bd01c7ebf.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/legendary-hoplite-2"
+  },
+  "Retreat To Enen": {
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie"
+    ],
+    "release_year": 2022,
+    "image_url": "https://media.rawg.io/media/screenshots/d84/d84242db115cb8c7f2d80afa8b47ce3f.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/retreat-to-enen"
+  },
+  "Pathfinder: Kingmaker - Imperial Edition": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "Scarlet Hood and the Wicked Wood - Deluxe Edition": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "Kung Fu Strike: The Warrior's Rise": {
+    "genres": [
+      "Action",
+      "Arcade",
+      "Fighting",
+      "Indie"
+    ],
+    "release_year": 2012,
+    "image_url": "https://media.rawg.io/media/screenshots/60f/60fd5df991bae2e77669628d4eb38493.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/kung-fu-strike-the-warriors-rise"
+  },
+  "OmniBus: Game of the Year Edition": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "Little Big Workshop": {
+    "genres": [
+      "Simulation",
+      "Strategy"
+    ],
+    "release_year": 2019,
+    "image_url": "https://media.rawg.io/media/games/dd9/dd93dd2cd953720ed42d4510cd171302.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/little-big-workshop"
+  },
+  "Caveblazers": {
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie"
+    ],
+    "release_year": 2016,
+    "image_url": "https://media.rawg.io/media/screenshots/80c/80c10b0d78a4540899319c3b5ce8f760.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/caveblazers"
+  },
+  "Kings of Kung Fu": {
+    "genres": [
+      "Action",
+      "Indie"
+    ],
+    "release_year": 2015,
+    "image_url": "https://media.rawg.io/media/screenshots/c68/c6829c9432dc7452b124b567a5498745.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/kings-of-kung-fu"
+  },
+  "Ni no Kuni™ II: Revenant Kingdom - The Prince's Edition": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "theHunter™: Call of the Wild": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "Atlantis 3: The New World": {
+    "genres": [
+      "Adventure",
+      "Puzzle"
+    ],
+    "release_year": 2001,
+    "image_url": "https://media.rawg.io/media/screenshots/adf/adf67a4867558436d842e585d8bac586.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/atlantis-3-the-new-world"
+  },
+  "Katy and Bob Safari Cafe": {
+    "genres": [
+      "Casual",
+      "Strategy"
+    ],
+    "release_year": 2018,
+    "image_url": "https://media.rawg.io/media/screenshots/78c/78c144be2026e75a7420a0196cbcc955.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/katy-and-bob-safari-cafe"
+  },
+  "Monster Hunter World: Iceborne Master Edition": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "Ranch Simulator": {
+    "genres": [
+      "Simulation"
+    ],
+    "release_year": 2021,
+    "image_url": "https://media.rawg.io/media/screenshots/a65/a65074b56c47ae8d88354096a3198c84.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/ranch-simulator"
+  },
+  "Atlantis Evolution": {
+    "genres": [
+      "Adventure",
+      "Arcade"
+    ],
+    "release_year": 2004,
+    "image_url": "https://media.rawg.io/media/screenshots/005/0058f5ed954d043e437dfa1d9d247018.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/atlantis-evolution"
+  },
+  "KATANA KAMI: A Way of the Samurai Story": {
+    "genres": [
+      "Action",
+      "Adventure",
+      "RPG"
+    ],
+    "release_year": 2020,
+    "image_url": "https://media.rawg.io/media/screenshots/a53/a5356228ecd29ffee175dbd8e056414d.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/katana-kami-a-way-of-the-samurai-story"
+  },
+  "Monster Hunter World: Iceborne": {
+    "genres": [
+      "Action",
+      "Massively Multiplayer",
+      "RPG"
+    ],
+    "release_year": 2019,
+    "image_url": "https://media.rawg.io/media/games/543/543e7e11e48333820aaa3d38f778c434.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/monster-hunter-world-iceborne"
+  },
+  "Townsmen - A Kingdom Rebuilt: The Seaside Empire": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "Dead In Bermuda": {
+    "genres": [
+      "Adventure",
+      "Indie",
+      "RPG",
+      "Simulation",
+      "Strategy"
+    ],
+    "release_year": 2015,
+    "image_url": "https://media.rawg.io/media/screenshots/492/492c53889b5ee4b6c81a58251458c80b.jpeg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/dead-in-bermuda"
+  },
+  "Jigsaw Puzzle Pack - Pixel Puzzles Ultimate: Variety Pack 16": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "Monster Hunter Rise: Sunbreak": {
+    "genres": [
+      "Action",
+      "RPG"
+    ],
+    "release_year": 2022,
+    "image_url": "https://media.rawg.io/media/games/b09/b09dca67cbd73300040728da3e30dc88.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/monster-hunter-rise-sunbreak"
+  },
+  "Townsmen - A Kingdom Rebuilt": {
+    "genres": [
+      "Casual",
+      "Simulation",
+      "Strategy"
+    ],
+    "release_year": 2019,
+    "image_url": "https://media.rawg.io/media/games/0eb/0eb5d7425d47ef44a98f72886f5dc7a1.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/townsmen-a-kingdom-rebuilt"
+  },
+  "USC: Counterforce": {
+    "genres": [
+      "RPG",
+      "Strategy"
+    ],
+    "release_year": 2023,
+    "image_url": "https://media.rawg.io/media/screenshots/aab/aabdf745e307372170618d1f955b79d1.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/usc-counterforce"
+  },
+  "Jigsaw Puzzle Pack - Pixel Puzzles Ultimate: Primates": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "Middle-earth™: Shadow of War™ - The Blade of Galadriel Story Expansion": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "Giana Sisters: Twisted Dreams": {
+    "genres": [
+      "Action",
+      "Adventure",
+      "Arcade",
+      "Indie",
+      "Platformer"
+    ],
+    "release_year": 2012,
+    "image_url": "https://media.rawg.io/media/screenshots/e5b/e5be8c031ac0dbd85bf058947d480375.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/giana-sisters-twisted-dreams"
+  },
+  "Train Life: A Railway Simulator": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "9th Company: Roots Of Terror": {
+    "genres": [
+      "Strategy"
+    ],
+    "release_year": 2009,
+    "image_url": "https://media.rawg.io/media/screenshots/951/95112571d336b14b4cc216fa9e8e5322.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/9th-company-roots-of-terror"
+  },
+  "Mafia: Definitive Edition": {
+    "genres": [
+      "Action",
+      "Shooter"
+    ],
+    "release_year": 2020,
+    "image_url": "https://media.rawg.io/media/games/345/3452d9d4483686c602372e0e6b3bb4cc.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/mafia"
+  },
+  "Sine Mora EX": {
+    "genres": [
+      "Action",
+      "Shooter"
+    ],
+    "release_year": 2017,
+    "image_url": "https://media.rawg.io/media/screenshots/ec2/ec2d4b29f9dd149918d91431a0f65a6e.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/sine-mora-ex"
+  },
+  "Mato Anomalies": {
+    "genres": [
+      "RPG"
+    ],
+    "release_year": 2023,
+    "image_url": "https://media.rawg.io/media/screenshots/06f/06f0fcc8026336c7d5e789edcc9f1821.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/mato-anomalies"
+  },
+  "2Dark": {
+    "genres": [
+      "Adventure",
+      "Indie"
+    ],
+    "release_year": 2017,
+    "image_url": "https://media.rawg.io/media/screenshots/47d/47d74c9b88068a72ce3f5c492b954480.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/2dark"
+  },
+  "LEGO® Star Wars™: The Skywalker Saga Character Collection 1": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "Lock's Quest": {
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie",
+      "RPG",
+      "Strategy"
+    ],
+    "release_year": 2008,
+    "image_url": "https://media.rawg.io/media/screenshots/bfd/bfd281101850dfe95af70ba9258d7430.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/locks-quest"
+  },
+  "Gord - Ultimate Edition": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "1001 Jigsaw: Earth Chronicles 3": {
+    "genres": [
+      "Casual"
+    ],
+    "release_year": 2021,
+    "image_url": "https://media.rawg.io/media/screenshots/3e4/3e410d1a06e338c88a27ffdcaaf001ee.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/1001-jigsaw-earth-chronicles-3"
+  },
+  "LEGO® Batman 3: Beyond Gotham": {
+    "genres": [
+      "Action",
+      "Adventure",
+      "Family"
+    ],
+    "release_year": 2014,
+    "image_url": "https://media.rawg.io/media/screenshots/a8c/a8cd58ee985ab6d509370bddada91dbd.jpeg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/lego-batman-3-beyond-gotham"
+  },
+  "Dakar Desert Rally": {
+    "genres": [
+      "Racing"
+    ],
+    "release_year": 2022,
+    "image_url": "https://media.rawg.io/media/games/58e/58e39f3fb49c308c1dbeef59ff54ae8a.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/dakar-desert-rally"
+  },
+  "Yesterday Origins": {
+    "genres": [
+      "Adventure",
+      "RPG"
+    ],
+    "release_year": 2016,
+    "image_url": "https://media.rawg.io/media/screenshots/3a3/3a38d98a736f610afe997d61b2a1a75f.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/yesterday-origins"
+  },
+  "1001 Jigsaw Detective": {
+    "genres": [
+      "Casual"
+    ],
+    "release_year": 2021,
+    "image_url": "https://media.rawg.io/media/screenshots/443/44396d3ded22ab4b9ebc76d0f326b69b.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/1001-jigsaw-detective"
+  },
+  "LEGO® Batman 2™ DC Super Heroes": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "Dakar Desert Rally - Season Pass": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "Windbound": {
+    "genres": [
+      "Adventure",
+      "Indie",
+      "RPG"
+    ],
+    "release_year": 2020,
+    "image_url": "https://media.rawg.io/media/games/dbc/dbc51edb2ebf3f36860b26a5a0f8a852.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/windbound"
+  },
+  "1001 Jigsaw Africa": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "Kholat": {
+    "genres": [
+      "Adventure",
+      "Indie",
+      "Simulation"
+    ],
+    "release_year": 2015,
+    "image_url": "https://media.rawg.io/media/games/813/813f9dab418a3d549f8b9ad8ef2f3d9c.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/kholat"
+  },
+  "The Red Exile: Survival Horror": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "Whateverland": {
+    "genres": [
+      "Adventure",
+      "Casual",
+      "Indie"
+    ],
+    "release_year": 2022,
+    "image_url": "https://media.rawg.io/media/screenshots/16d/16df542407f9cbf5e30747105d54d738.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/whateverland"
+  },
+  "1001 Black Raven Jigsaw": {
+    "genres": [
+      "Casual"
+    ],
+    "release_year": 2022,
+    "image_url": "https://media.rawg.io/media/screenshots/ee7/ee76be184d22adb69bf0a3c0cc269ea4.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/1001-black-raven-jigsaw"
+  },
+  "Inner Chains": {
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "release_year": 2017,
+    "image_url": "https://media.rawg.io/media/screenshots/fe1/fe164348cbb60f73c886c22ab7b430f2_HwZkh1Q.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/inner-chains"
+  },
+  "RIDE 5 - Season Pass": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "Warhammer 40,000: Gladius - Relics of War": {
+    "genres": [
+      "Strategy"
+    ],
+    "release_year": 2018,
+    "image_url": "https://media.rawg.io/media/games/cc0/cc0e706908436d395c4b7b6b5651c4b4.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/warhammer-40000-gladius-relics-of-war"
+  },
+  "Hotel: A Resort Simulator": {
+    "genres": [
+      "Simulation"
+    ],
+    "release_year": 2023,
+    "image_url": "https://media.rawg.io/media/screenshots/ddf/ddf584c53f82de69cbae0cb8752a343a.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/hotel-a-resort-simulator"
+  },
+  "Husk": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "RIDE 5": {
+    "genres": [
+      "Racing",
+      "Simulation",
+      "Sports"
+    ],
+    "release_year": 2023,
+    "image_url": "https://media.rawg.io/media/screenshots/c7b/c7b9ebf9627512837064a5781552f756.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/ride-5"
   }
 }
