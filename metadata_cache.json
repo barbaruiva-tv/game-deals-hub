@@ -5230,5 +5230,612 @@
     "image_url": "https://media.rawg.io/media/games/6a2/6a2908f171c36409ba6df6caaa450acb.jpg",
     "status": "matched",
     "rawg_url": "https://rawg.io/games/pathfinder-kingmaker-varnholds-lot"
+  },
+  "SMITE Ultimate God Pack": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "In Sound Mind - Digital Artbook": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "Left Alive": {
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "release_year": 2019,
+    "image_url": "https://media.rawg.io/media/games/248/24837fdd30aed87ba739dd0b9d46448b.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/left-alive"
+  },
+  "Undead: Rise of the Betrayed King": {
+    "genres": [
+      "RPG"
+    ],
+    "release_year": 2025,
+    "image_url": "https://media.rawg.io/media/screenshots/59e/59e775419f935d3d3d91eab44049da75.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/undead-rise-of-the-betrayed-king"
+  },
+  "Lunch Break Dodgeball": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "The Coma: Recut Deluxe Edition": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "Sniper Ghost Warrior 3 - Sniper Rifle McMillan TAC-338A": {
+    "genres": [
+      "Action"
+    ],
+    "release_year": 2017,
+    "image_url": "https://media.rawg.io/media/screenshots/b2d/b2d022bb64bb37404b4cd50a4df666fc.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/sniper-ghost-warrior-3-sniper-rifle-mcmillan-tac-3"
+  },
+  "Hell Division": {
+    "genres": [
+      "Action",
+      "Casual",
+      "Indie"
+    ],
+    "release_year": 2022,
+    "image_url": "https://media.rawg.io/media/screenshots/f8f/f8f95ceaf97606c14679351f69952b29.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/hell-division"
+  },
+  "Battle Babes: Luck, Speed & Greed": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "The Coma 2: Vicious Sisters - Deluxe Edition": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "Sniper Ghost Warrior Contracts 2 Deluxe Arsenal Edition": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "Shadow of the matrix": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "Flooded": {
+    "genres": [
+      "Casual",
+      "Simulation",
+      "Strategy"
+    ],
+    "release_year": 2023,
+    "image_url": "https://media.rawg.io/media/screenshots/abc/abc664abf472a7c36000fc7cab61d113.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/flooded-2"
+  },
+  "Night Slashers: Remake": {
+    "genres": [
+      "Action",
+      "Adventure",
+      "Casual"
+    ],
+    "release_year": 2024,
+    "image_url": "https://media.rawg.io/media/screenshots/a59/a597d9d4425b45c74c97acea2faa2020.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/night-slashers-remake"
+  },
+  "Sniper Ghost Warrior Contracts 2": {
+    "genres": [
+      "Action",
+      "Shooter"
+    ],
+    "release_year": 2021,
+    "image_url": "https://media.rawg.io/media/screenshots/a54/a549f520260d95fd755786786efe43b2.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/sniper-ghost-warrior-contracts-2"
+  },
+  "Firelight Fantasy: Force Energy": {
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie",
+      "RPG"
+    ],
+    "release_year": 2021,
+    "image_url": "https://media.rawg.io/media/screenshots/44b/44b34aac8bb0b9c5d6a0b38fbc92c4a5.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/firelight-fantasy-force-energy"
+  },
+  "Too Far 2 Fall - Gold Edition": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "XEL Deluxe Edition": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "Pure Farming 2018 Deluxe Edition": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "Dofamine": {
+    "genres": [
+      "Adventure",
+      "Indie",
+      "Simulation"
+    ],
+    "release_year": 2020,
+    "image_url": "https://media.rawg.io/media/screenshots/f53/f531aaf257c2314954aa2d70f23f3e26.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/dofamine"
+  },
+  "Pals Go Only Up - Werewolf Character": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "Valfaris": {
+    "genres": [
+      "Action",
+      "Indie"
+    ],
+    "release_year": 2019,
+    "image_url": "https://media.rawg.io/media/screenshots/6ce/6ce7b3c02a57f6d21f1009ed3305736e.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/valfaris"
+  },
+  "Pure Farming 2018": {
+    "genres": [
+      "Simulation"
+    ],
+    "release_year": 2018,
+    "image_url": "https://media.rawg.io/media/screenshots/4cb/4cbba470810746a576c7c2e1d33121ba.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/pure-farming-2018"
+  },
+  "Euphoria: Supreme Mechanics": {
+    "genres": [
+      "Adventure",
+      "Indie",
+      "Simulation"
+    ],
+    "release_year": 2020,
+    "image_url": "https://media.rawg.io/media/screenshots/4f7/4f79b04a0d61590e63dec9e404f3b1f6.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/euphoria-supreme-mechanics"
+  },
+  "Pals Go Only Up - Warrior Character": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "Urban Trial Playground": {
+    "genres": [
+      "Action",
+      "Casual",
+      "Indie",
+      "Racing",
+      "Sports"
+    ],
+    "release_year": 2018,
+    "image_url": "https://media.rawg.io/media/screenshots/2db/2db14047aafaff59bf8319765fcda299.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/urban-trial-playground"
+  },
+  "Pacote Black Legends": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "Heavy Burden": {
+    "genres": [
+      "Adventure",
+      "Casual",
+      "Indie",
+      "Simulation",
+      "Strategy"
+    ],
+    "release_year": null,
+    "image_url": "https://media.rawg.io/media/screenshots/8f6/8f603b8422b4b98ac4f5dce133227f2b.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/heavy-burden-2"
+  },
+  "Pals Go Only Up - Viking Character": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "The Uncertain: Last Quiet Day": {
+    "genres": [],
+    "release_year": 2016,
+    "image_url": "https://media.rawg.io/media/screenshots/68c/68c24397dd05d86efaa6fd65ca9231d6.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/the-uncertain-last-quiet-day"
+  },
+  "ONE PUNCH MAN: A HERO NOBODY KNOWS": {
+    "genres": [
+      "Action",
+      "Fighting"
+    ],
+    "release_year": 2020,
+    "image_url": "https://media.rawg.io/media/games/201/201012468d5d20ff06cca1007815d0e4.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/one-punch-man-a-hero-nobody-knows"
+  },
+  "Battlefield 4 Premium Edition": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "Pals Go Only Up - Knight Character": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "Ultimate ADOM: Caverns of Chaos | Deluxe Edition": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "ONE PIECE World Seeker": {
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "release_year": 2019,
+    "image_url": "https://media.rawg.io/media/games/d5b/d5b20d49c2b0588ac9484d2c7756f846.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/one-piece-world-seeker"
+  },
+  "Battlefield™ 1 Revolution": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "Pals Go Only Up - Golem Character": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "The Textorcist: The Story of Ray Bibbia": {
+    "genres": [
+      "Action",
+      "Indie"
+    ],
+    "release_year": 2019,
+    "image_url": "https://media.rawg.io/media/screenshots/262/2623a3e832b3cb31186f3d59ea59983f.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/the-textorcist-the-story-of-ray-bibbia"
+  },
+  "ONE PIECE PIRATE WARRIORS 3 Gold Edition": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "Need for Speed™ Heat Deluxe Edition": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "Pals Go Only Up - Barbarian 2 Character": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "Suffer The Night": {
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "release_year": 2023,
+    "image_url": "https://media.rawg.io/media/screenshots/e9e/e9e1036b14a77a3e1d984c48ae75d236.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/suffer-the-night-2"
+  },
+  "One Piece Burning Blood": {
+    "genres": [
+      "Action",
+      "Arcade",
+      "Fighting"
+    ],
+    "release_year": 2016,
+    "image_url": "https://media.rawg.io/media/screenshots/520/520ed5686073be29438e995febc4426d.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/one-piece-burning-blood"
+  },
+  "Battlefield™ Hardline Ultimate Edition": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "Pals Go Only Up - Dwarf Character": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "Steel Rats™ original soundtrack": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "Murdered: Soul Suspect": {
+    "genres": [
+      "Action",
+      "Adventure",
+      "RPG"
+    ],
+    "release_year": 2014,
+    "image_url": "https://media.rawg.io/media/games/54a/54a3e4c617217848dc43c4de9989fe37.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/murdered-soul-suspect"
+  },
+  "Suicide Squad: Kill the Justice League - Digital Deluxe Edition": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "Pals Go Only Up - Barbarian Character": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "Steel Rats": {
+    "genres": [
+      "Action",
+      "Platformer",
+      "Racing",
+      "Simulation"
+    ],
+    "release_year": 2018,
+    "image_url": "https://media.rawg.io/media/games/43c/43cfdb7fdc48d99b4a4c2525b411daf8.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/steel-rats"
+  },
+  "Mortal Kombat XL": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "Rims Racing: Ultimate Edition": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "Crime Boss: Rockay City": {
+    "genres": [
+      "Action",
+      "Shooter"
+    ],
+    "release_year": 2023,
+    "image_url": "https://media.rawg.io/media/games/508/5082f3a3260ad8d6a18abf6399c1d4dd.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/crime-boss-rockay-city"
+  },
+  "Sphere - Flying Cities - Deluxe Edition": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "Mortal Kombat 11 Kombat Pack 1": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "RiMS Racing: Japanese Manufacturers Deluxe Edition": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "TOEM Original Soundtrack": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "Slain: Back from Hell": {
+    "genres": [
+      "Action",
+      "Indie",
+      "Platformer"
+    ],
+    "release_year": 2016,
+    "image_url": "https://media.rawg.io/media/screenshots/b22/b22fd6e7dc6fc22118439c9d8fd810c3.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/slain-back-from-hell"
+  },
+  "Mortal Kombat 11: Aftermath": {
+    "genres": [
+      "Action",
+      "Fighting"
+    ],
+    "release_year": 2020,
+    "image_url": "https://media.rawg.io/media/games/a1c/a1c2aeb81916f5a84aa5dbcb9539fbbf.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/mortal-kombat-11-aftermath"
+  },
+  "RiMS Racing: European Manufacturers Deluxe Edition": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "Destiny 2: The Final Shape": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "Silver Chains": {
+    "genres": [
+      "Adventure",
+      "Indie"
+    ],
+    "release_year": 2019,
+    "image_url": "https://media.rawg.io/media/screenshots/c80/c808131dc50efd799673d8ee09ed67f0.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/silver-chains"
+  },
+  "Moonlighter": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "Helheim Hassle": {
+    "genres": [
+      "Adventure",
+      "Indie"
+    ],
+    "release_year": 2020,
+    "image_url": "https://media.rawg.io/media/screenshots/eb4/eb4aa1356efa3e0d8a061297acfffe18.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/helheim-hassle"
+  },
+  "Pals Go Only Up!": {
+    "genres": [
+      "Casual",
+      "Indie",
+      "Simulation"
+    ],
+    "release_year": 2024,
+    "image_url": "https://media.rawg.io/media/screenshots/933/9335c60801a90a94c2c88bbb61c66c16.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/pals-go-only-up"
+  },
+  "The Siege and the Sandfox": {
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie",
+      "Platformer",
+      "RPG"
+    ],
+    "release_year": 2025,
+    "image_url": "https://media.rawg.io/media/screenshots/9cb/9cb8b7ca0022c9fd702f1dbf769d930a.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/the-siege-and-the-sandfox"
+  },
+  "Life is Feudal: Your Own": {
+    "genres": [
+      "Action",
+      "Indie",
+      "RPG",
+      "Simulation"
+    ],
+    "release_year": 2015,
+    "image_url": "https://media.rawg.io/media/screenshots/0eb/0eb1a3cf878781e37495a0a6cee320ad.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/life-is-feudal-your-own"
+  },
+  "Battlefield V Definitive Edition": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "your diary+": {
+    "genres": [
+      "Adventure",
+      "Indie"
+    ],
+    "release_year": 2018,
+    "image_url": "https://media.rawg.io/media/screenshots/f58/f5822a8b2476a83975bb7b493626c2aa.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/your-diary"
+  },
+  "RUNES Magica": {
+    "genres": [
+      "Action",
+      "Indie"
+    ],
+    "release_year": 2022,
+    "image_url": "https://media.rawg.io/media/screenshots/54f/54fe69b966fcdbcdf9ae05b570645679.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/runes-magica"
+  },
+  "Kane & Lynch 2: Dog Days": {
+    "genres": [
+      "Action",
+      "Shooter"
+    ],
+    "release_year": 2010,
+    "image_url": "https://media.rawg.io/media/games/b50/b501727147644474562935f19a60134e.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/kane-lynch-2-dog-days"
+  },
+  "Battlefield™ 2042 Elite Edition": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "X Wars Deluxe - Line Effect": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "Old World - Heroes of the Aegean": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "Just Cause 2": {
+    "genres": [
+      "Action",
+      "Shooter"
+    ],
+    "release_year": 2010,
+    "image_url": "https://media.rawg.io/media/games/a3c/a3c529a12c896c0ef02db5b4741de2ba.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/just-cause-2"
+  },
+  "Swords Fantasy: Battlefield": {
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie",
+      "RPG"
+    ],
+    "release_year": 2022,
+    "image_url": "https://media.rawg.io/media/screenshots/74d/74d3bb652d40754c0d95be8b42548800.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/swords-fantasy-battlefield"
+  },
+  "X Wars Deluxe - Gold Name": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "Old World": {
+    "genres": [
+      "Simulation",
+      "Strategy"
+    ],
+    "release_year": 2021,
+    "image_url": "https://media.rawg.io/media/screenshots/482/48251f9b936d47a4b5685c737267ee36.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/old-world-2"
+  },
+  "Injustice™ 2 - Ultimate Pack": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "Synthwave Burnout": {
+    "genres": [
+      "Action",
+      "Indie",
+      "Racing",
+      "Sports"
+    ],
+    "release_year": 2021,
+    "image_url": "https://media.rawg.io/media/screenshots/d3c/d3ca6ace123b074843fa126adb5c6c6b.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/synthwave-burnout"
   }
 }
