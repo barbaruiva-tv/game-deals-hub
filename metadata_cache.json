@@ -6420,5 +6420,686 @@
     "genres": [],
     "release_year": null,
     "status": "unmatched"
+  },
+  "RiMS Racing": {
+    "genres": [
+      "Racing",
+      "Simulation",
+      "Sports"
+    ],
+    "release_year": 2021,
+    "image_url": "https://media.rawg.io/media/games/917/917d59fa6ac74edda337330e376fcf4e.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/rims-racing"
+  },
+  "Battlefield 3™ Premium Edition": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "The Last Tinker™: City of Colors": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "Mark of the Deep": {
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie"
+    ],
+    "release_year": 2025,
+    "image_url": "https://media.rawg.io/media/screenshots/66e/66e42436efc9c989f6db6c36b0debda2.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/mark-of-the-deep"
+  },
+  "Orbital Racer": {
+    "genres": [
+      "Action",
+      "Indie",
+      "Racing",
+      "Simulation",
+      "Sports"
+    ],
+    "release_year": 2018,
+    "image_url": "https://media.rawg.io/media/screenshots/957/957a04d0dafc5f0bd7e68b57d2c65108.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/orbital-racer"
+  },
+  "Battlefield™ 2042": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "Lair of the Clockwork God": {
+    "genres": [
+      "Action",
+      "Adventure",
+      "Casual",
+      "Indie"
+    ],
+    "release_year": 2019,
+    "image_url": "https://media.rawg.io/media/screenshots/8fa/8fa1ea5c236d2cfc12daa71c153b9fbb.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/lair-of-the-clockwork-god"
+  },
+  "Trolley Problem, Inc.": {
+    "genres": [
+      "Casual",
+      "Indie",
+      "Simulation"
+    ],
+    "release_year": 2022,
+    "image_url": "https://media.rawg.io/media/screenshots/c96/c96f22a4854a347c4d2af07f2d79e9ac.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/trolley-problem-inc"
+  },
+  "Path to Mnemosyne": {
+    "genres": [
+      "Adventure",
+      "Indie"
+    ],
+    "release_year": 2019,
+    "image_url": "https://media.rawg.io/media/screenshots/798/7986d45e3b16a93441bbc030fd0d9c87.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/path-to-mnemosyne"
+  },
+  "Agents of Mayhem": {
+    "genres": [
+      "Action"
+    ],
+    "release_year": 2017,
+    "image_url": "https://media.rawg.io/media/games/4cb/4cba4ae8fb6f8ddd23e24702c756fa02.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/agents-of-mayhem"
+  },
+  "Lacuna Soundtrack": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "Deponia Full Scrap Collection": {
+    "genres": [],
+    "release_year": 2021,
+    "image_url": "https://media.rawg.io/media/screenshots/3fb/3fb4c26924090230bbc64db65d99c66e.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/deponia-full-scrap-collection"
+  },
+  "Balloon Flight": {
+    "genres": [
+      "Action",
+      "Casual",
+      "Indie"
+    ],
+    "release_year": 2021,
+    "image_url": "https://media.rawg.io/media/screenshots/f96/f96704dfcaf83ae8b5c031c14e6bc4e2.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/balloon-flight"
+  },
+  "Blade Prince Academy": {
+    "genres": [
+      "Indie",
+      "RPG",
+      "Strategy"
+    ],
+    "release_year": 2024,
+    "image_url": "https://media.rawg.io/media/screenshots/68b/68bf5260a81967224d7273eb690e6e07.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/blade-prince-academy"
+  },
+  "Lacuna - Save the World Edition": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "Fully Loaded Edition": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "Hourglass": {
+    "genres": [
+      "Adventure",
+      "Indie"
+    ],
+    "release_year": 2021,
+    "image_url": "https://media.rawg.io/media/screenshots/5e4/5e480b2cf1f3fb7d4e075584b2b35bb6.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/hourglass-2"
+  },
+  "Great Houses of Calderia": {
+    "genres": [
+      "Indie",
+      "RPG",
+      "Strategy"
+    ],
+    "release_year": 2023,
+    "image_url": "https://media.rawg.io/media/screenshots/154/15400ea022d788f66da8bf728f90a2c0.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/great-houses-of-calderia"
+  },
+  "Lacuna - A Sci-Fi Noir Adventure": {
+    "genres": [
+      "Adventure",
+      "Indie"
+    ],
+    "release_year": 2021,
+    "image_url": "https://media.rawg.io/media/games/fa8/fa82bd27f3b93ec4dc34572126736bc5.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/lacuna-a-sci-fi-noir-adventure"
+  },
+  "Dead Space Deluxe Edition": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "Real Farm - Gold Edition": {
+    "genres": [
+      "Adventure",
+      "Casual",
+      "Simulation"
+    ],
+    "release_year": 2021,
+    "image_url": "https://media.rawg.io/media/screenshots/a69/a690dbeffe2bb5c7b454636538f4001d.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/real-farm-gold-edition"
+  },
+  "Arevan Strategist Edition (Game+Guide)": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "Kubikon 3D": {
+    "genres": [
+      "Casual",
+      "Indie"
+    ],
+    "release_year": 2024,
+    "image_url": "https://media.rawg.io/media/screenshots/bc9/bc9372f67dfd244fce9a82f23530f5dd.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/kubikon-3d"
+  },
+  "WILD HEARTS™ Karakuri Edition": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "Wanderlust Travel Stories": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "★ All Vagrant ★": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "The Knight Witch - Deluxe Edition": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "Clash - Zeno Edition": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "Pets No More": {
+    "genres": [
+      "Action",
+      "Sports"
+    ],
+    "release_year": 2021,
+    "image_url": "https://media.rawg.io/media/screenshots/b2c/b2c06dc90372287c00629171b8539a18.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/pets-no-more"
+  },
+  "★ All Gemelle ★": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "Kingdom: New Lands Royal Edition": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "Deceive Inc. Black Tie Edition": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "ESPER": {
+    "genres": [
+      "Casual",
+      "Indie",
+      "Puzzle"
+    ],
+    "release_year": 2018,
+    "image_url": "https://media.rawg.io/media/screenshots/d87/d87cad034efda76c1e2b47da2218b04f.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/esper"
+  },
+  "Millennium": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "Kingdom: New Lands": {
+    "genres": [
+      "Arcade",
+      "Casual",
+      "Indie",
+      "Simulation",
+      "Strategy"
+    ],
+    "release_year": 2015,
+    "image_url": "https://media.rawg.io/media/games/5f6/5f691054fdbec8705491fa1f54a06b8a.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/kingdom-new-lands"
+  },
+  "EA SPORTS™ PGA TOUR™ Deluxe Edition": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "Adam's Venture Origins": {
+    "genres": [
+      "Adventure",
+      "Indie"
+    ],
+    "release_year": 2016,
+    "image_url": "https://media.rawg.io/media/screenshots/4fb/4fb79be2a7df903504c20d9fe6f545d7.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/adams-venture-origins"
+  },
+  "★ All Black ★": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "Killer is Dead - Nightmare Edition": {
+    "genres": [
+      "Action"
+    ],
+    "release_year": 2014,
+    "image_url": "https://media.rawg.io/media/games/a72/a72e405a19f93dc68cbc06d7a39b2a4a.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/killer-is-dead-nightmare-edition"
+  },
+  "Dead Island 2 Ultimate Edition": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "Get Packed: Fully Loaded": {
+    "genres": [
+      "Action",
+      "Casual",
+      "Indie"
+    ],
+    "release_year": 2021,
+    "image_url": "https://media.rawg.io/media/screenshots/b53/b53f8bfbf4aaa53055e60e9ad51d0506.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/get-packed-fully-loaded"
+  },
+  "★ All Souls ★": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "Ken Follett's The Pillars of the Earth": {
+    "genres": [
+      "Adventure",
+      "Puzzle"
+    ],
+    "release_year": 2017,
+    "image_url": "https://media.rawg.io/media/games/5d4/5d4cce5d889c3f7a3c2219d5e39f2fdf.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/the-pillars-of-the-earth"
+  },
+  "Dojoran": {
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie"
+    ],
+    "release_year": 2021,
+    "image_url": "https://media.rawg.io/media/screenshots/8e1/8e17f768f128e223a01bc7e4e42bf308.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/dojoran"
+  },
+  "POSTAL Redux": {
+    "genres": [
+      "Action",
+      "Indie",
+      "Shooter"
+    ],
+    "release_year": 2016,
+    "image_url": "https://media.rawg.io/media/screenshots/129/12989022cbe47a25cdfd1f6bf8c43247.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/postal-redux"
+  },
+  "★ All Heroes ★": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "Kathy Rain": {
+    "genres": [
+      "Adventure",
+      "Indie",
+      "Puzzle"
+    ],
+    "release_year": 2016,
+    "image_url": "https://media.rawg.io/media/games/3ca/3ca24180cb8d9780d45f394f685fd9d2.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/kathy-rain"
+  },
+  "Immortals of Aveum™ Deluxe Edition": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "Cake Bash": {
+    "genres": [
+      "Action",
+      "Casual",
+      "Fighting",
+      "Indie"
+    ],
+    "release_year": 2020,
+    "image_url": "https://media.rawg.io/media/screenshots/1b2/1b24e38d138e9f6e73157b41c72e2c01.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/cake-bash"
+  },
+  "★ All Midnight ★": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "Kane & Lynch 2: Dog Days - Complete Edition": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "Under the Waves": {
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie"
+    ],
+    "release_year": 2023,
+    "image_url": "https://media.rawg.io/media/games/e9a/e9aa1d31b6c099cb4df0fc790d4b989b.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/under-the-waves-2"
+  },
+  "Invincible Presents: Atom Eve": {
+    "genres": [
+      "Adventure"
+    ],
+    "release_year": 2023,
+    "image_url": "https://media.rawg.io/media/screenshots/936/93623a1335ba47a53818289ad28a81a7.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/invincible-presents-atom-eve"
+  },
+  "You... and who else?": {
+    "genres": [
+      "Adventure",
+      "Casual",
+      "Indie",
+      "RPG",
+      "Simulation",
+      "Strategy"
+    ],
+    "release_year": 2017,
+    "image_url": "https://media.rawg.io/media/screenshots/f2b/f2b55e9ef1901e843f8f8600b279843e.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/you-and-who-else"
+  },
+  "Just Cause 2 Complete Edition": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "Batora: Lost Haven - Deluxe Edition": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "Plateman": {
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie",
+      "RPG"
+    ],
+    "release_year": 2024,
+    "image_url": "https://media.rawg.io/media/screenshots/675/675a866ca29c8270178c7c7c6d748997.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/plateman"
+  },
+  "The Witch Doctor": {
+    "genres": [
+      "Indie",
+      "RPG"
+    ],
+    "release_year": 2021,
+    "image_url": "https://media.rawg.io/media/screenshots/fe5/fe5c4a39d1e042c090758b7d780b0af4.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/the-witch-doctor"
+  },
+  "Journey to the Center of the Earth": {
+    "genres": [
+      "Adventure",
+      "Indie",
+      "Puzzle"
+    ],
+    "release_year": 2003,
+    "image_url": "https://media.rawg.io/media/screenshots/4b6/4b607ca785758e5e26041b3d2f6c4752.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/journey-to-the-center-of-the-earth"
+  },
+  "Overpass 2 Deluxe Edition": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "Saint Kotar": {
+    "genres": [
+      "Adventure",
+      "Indie"
+    ],
+    "release_year": 2021,
+    "image_url": "https://media.rawg.io/media/screenshots/25e/25edd9e7864aa5e3228dd3e641663003.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/saint-kotar"
+  },
+  "Wind Child": {
+    "genres": [
+      "Adventure",
+      "Casual",
+      "Indie",
+      "RPG"
+    ],
+    "release_year": 2016,
+    "image_url": "https://media.rawg.io/media/screenshots/2b8/2b8f1b314dc95e95dcfa484247c929dc.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/wind-child"
+  },
+  "Jack Keane 2: The Fire Within": {
+    "genres": [
+      "Adventure"
+    ],
+    "release_year": 2013,
+    "image_url": "https://media.rawg.io/media/games/ca6/ca6c1d6e98f8d90b1d59420368c0e3bc.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/jack-keane-2-the-fire-within"
+  },
+  "Gangs of Sherwood - Lionheart Edition": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "DreadHaunt": {
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie"
+    ],
+    "release_year": 2023,
+    "image_url": "https://media.rawg.io/media/screenshots/9b2/9b287a7cb3ec492da730117cf1cf0b9d.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/dreadhaunt"
+  },
+  "Valiant: Resurrection": {
+    "genres": [
+      "Adventure",
+      "Casual",
+      "Indie",
+      "RPG"
+    ],
+    "release_year": 2015,
+    "image_url": "https://media.rawg.io/media/screenshots/9fd/9fd9175f2aa8a5431424d0d1a8489789.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/valiant-resurrection"
+  },
+  "ITORAH Deluxe Edition": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "Hotel Lake Edition": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "Funko Fusion": {
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "release_year": 2024,
+    "image_url": "https://media.rawg.io/media/games/fa4/fa420f2f9f59c0b659dc7b624fba9741.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/funko-fusion"
+  },
+  "Vagrant Hearts Zero": {
+    "genres": [
+      "Adventure",
+      "Casual",
+      "Indie",
+      "RPG",
+      "Strategy"
+    ],
+    "release_year": 2017,
+    "image_url": "https://media.rawg.io/media/screenshots/201/201a376c01c12a5dad84ac99db459c11.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/vagrant-hearts-zero"
+  },
+  "ITORAH": {
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie"
+    ],
+    "release_year": 2022,
+    "image_url": "https://media.rawg.io/media/games/c35/c35619b2910e2ed994b9365a4cfb777f.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/itorah"
+  },
+  "Lysfanga: The Time Shift Warrior": {
+    "genres": [
+      "Action",
+      "Indie",
+      "Strategy"
+    ],
+    "release_year": 2024,
+    "image_url": "https://media.rawg.io/media/games/a10/a10356fffe6e7298d8f63c2331bc386d.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/lysfanga-the-time-shift-warrior"
+  },
+  "Dustborn": {
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie"
+    ],
+    "release_year": 2024,
+    "image_url": "https://media.rawg.io/media/games/559/5598f7160583fe3850d652679e3828d5.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/dustborn"
+  },
+  "Vagrant Hearts 2": {
+    "genres": [
+      "Adventure",
+      "Casual",
+      "Indie",
+      "RPG"
+    ],
+    "release_year": 2015,
+    "image_url": "https://media.rawg.io/media/screenshots/870/87073619bac3cb7ca01a1557501cfa9a.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/vagrant-hearts-2"
+  },
+  "Irony Curtain: From Matryoshka with Love - Original Soundtrack": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "Devil's Island": {
+    "genres": [
+      "Action",
+      "Adventure",
+      "Arcade",
+      "Indie",
+      "Simulation"
+    ],
+    "release_year": 2023,
+    "image_url": "https://media.rawg.io/media/screenshots/3c9/3c92d95b049c3347dd75534452cba530.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/devils-island"
+  },
+  "let me out": {
+    "genres": [
+      "Action",
+      "Adventure",
+      "Casual",
+      "Indie"
+    ],
+    "release_year": 2024,
+    "image_url": "https://media.rawg.io/media/screenshots/2dd/2dd69d02eb2c083814670c7b0766ec54.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/let-me-out-2"
+  },
+  "Vagrant Hearts": {
+    "genres": [
+      "Adventure",
+      "Casual",
+      "Indie",
+      "RPG"
+    ],
+    "release_year": 2015,
+    "image_url": "https://media.rawg.io/media/screenshots/d68/d68692dd3e9e6faa51217b4eb68d0516.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/vagrant-hearts"
+  },
+  "Iron Danger": {
+    "genres": [
+      "Adventure",
+      "Indie",
+      "RPG"
+    ],
+    "release_year": 2020,
+    "image_url": "https://media.rawg.io/media/games/043/043e69bc15cc6dfbf2222f9f5878bfb3.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/iron-danger"
+  },
+  "Ciel Fledge: A Daughter Raising Simulator": {
+    "genres": [],
+    "release_year": 2020,
+    "image_url": "https://media.rawg.io/media/screenshots/1b3/1b3ea4b9344dc253e135c1c39c5edaec.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/ciel-fledge-a-daughter-raising-simulator"
   }
 }
