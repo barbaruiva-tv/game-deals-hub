@@ -7795,5 +7795,678 @@
     "genres": [],
     "release_year": null,
     "status": "unmatched"
+  },
+  "Devil Laugh": {
+    "genres": [
+      "Casual",
+      "Indie"
+    ],
+    "release_year": 2025,
+    "image_url": "https://media.rawg.io/media/screenshots/89a/89a51253e6f47be261b5c6dbe2b4fece.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/devil-laugh"
+  },
+  "Time Rift: Escape From Speedjail": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "Haimrik": {
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie"
+    ],
+    "release_year": 2017,
+    "image_url": "https://media.rawg.io/media/screenshots/a7e/a7e9e65f461bf49ab0c1aa29896b1756.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/haimrik"
+  },
+  "For Honor Gold Edition": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "Cosmic Rescue": {
+    "genres": [
+      "Casual",
+      "Indie"
+    ],
+    "release_year": 2025,
+    "image_url": "https://media.rawg.io/media/screenshots/6d4/6d4350f3479ad1ab153d364f50a2ed6d.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/cosmic-rescue"
+  },
+  "This Book Is A Dungeon": {
+    "genres": [
+      "Adventure",
+      "Indie"
+    ],
+    "release_year": 2015,
+    "image_url": "https://media.rawg.io/media/screenshots/b69/b698ceccb48d332daa04a0bd417e7b17.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/this-book-is-a-dungeon"
+  },
+  "Haegemonia Gold Edition": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "For Honor - Ultimate Edition": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "Realm": {
+    "genres": [
+      "Platformer"
+    ],
+    "release_year": 1997,
+    "image_url": "https://media.rawg.io/media/screenshots/67d/67dd872a98433e34b814f98ebd495801.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/realm"
+  },
+  "Thief of Thieves: Season One": {
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie"
+    ],
+    "release_year": 2018,
+    "image_url": "https://media.rawg.io/media/games/f8c/f8c4967cc19aa633e633b9bf1bfe4ba6.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/thief-of-thieves-season-one"
+  },
+  "Guild of Darksteel": {
+    "genres": [
+      "Adventure",
+      "Indie",
+      "Platformer",
+      "RPG"
+    ],
+    "release_year": 2021,
+    "image_url": "https://media.rawg.io/media/screenshots/13f/13fbabb0f35721f1f15fbd4c87d960ea.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/guild-of-darksteel"
+  },
+  "Unite Special Edition": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "Backrooms Cats and Lava": {
+    "genres": [
+      "Casual"
+    ],
+    "release_year": 2024,
+    "image_url": "https://media.rawg.io/media/screenshots/1fd/1fd86eec8623115ff987071b34b61203.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/backrooms-cats-and-lava"
+  },
+  "Tennis World Tour": {
+    "genres": [
+      "Simulation",
+      "Sports"
+    ],
+    "release_year": 2018,
+    "image_url": "https://media.rawg.io/media/games/cb0/cb03385179a52bf6dbed776a7c53de1c.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/tennis-world-tour"
+  },
+  "Gord - Deluxe Edition": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "RPG Maker Unite": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "Wordle 4": {
+    "genres": [
+      "Casual",
+      "Indie",
+      "Simulation",
+      "Sports"
+    ],
+    "release_year": 2020,
+    "image_url": "https://media.rawg.io/media/screenshots/b03/b0311befd48d513223d4d07097d67f2c.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/wordle-4"
+  },
+  "Tales & Tactics": {
+    "genres": [
+      "Adventure",
+      "RPG",
+      "Strategy"
+    ],
+    "release_year": 2023,
+    "image_url": "https://media.rawg.io/media/screenshots/c05/c057bf4fe3a126ff033208c3558e0e43.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/tales-tactics"
+  },
+  "Gord": {
+    "genres": [
+      "Adventure",
+      "Indie",
+      "Simulation",
+      "Strategy"
+    ],
+    "release_year": 2023,
+    "image_url": "https://media.rawg.io/media/screenshots/9ad/9adf713558deedd2c2cc2d904e146df0.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/gord"
+  },
+  "X-Games Gold Edition": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "Wordle 2": {
+    "genres": [
+      "Casual",
+      "Indie",
+      "Simulation",
+      "Sports"
+    ],
+    "release_year": 2020,
+    "image_url": "https://media.rawg.io/media/screenshots/77c/77ce5eb1cf6a02a26d1e52cd054d02d6.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/wordle-2"
+  },
+  "The Survivalists - Deluxe Edition": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "GoNNER - Press Jump To Die Edition": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "Watch_Dogs® 2 Gold Edition": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "Wordle Franchise Bundle": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "The Sundew": {
+    "genres": [
+      "Adventure"
+    ],
+    "release_year": 2021,
+    "image_url": "https://media.rawg.io/media/screenshots/e2f/e2fc0c19c96f2c3713aea132ec2b2e0a.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/the-sundew"
+  },
+  "Goetia 2": {
+    "genres": [
+      "Adventure",
+      "Indie"
+    ],
+    "release_year": 2022,
+    "image_url": "https://media.rawg.io/media/screenshots/8d1/8d1d38a6933df7f577ed9b22c133a3dc.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/goetia-2"
+  },
+  "Assassin's Creed Origins Gold Edition": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "Wordle": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "Subterraneus": {
+    "genres": [
+      "Adventure",
+      "Indie",
+      "Strategy"
+    ],
+    "release_year": null,
+    "image_url": "https://media.rawg.io/media/screenshots/329/329733618971bb81ca4eac695102246b.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/subterraneus"
+  },
+  "Goetia": {
+    "genres": [
+      "Adventure",
+      "Indie"
+    ],
+    "release_year": 2015,
+    "image_url": "https://media.rawg.io/media/screenshots/6ae/6ae179d89d253b92542849ad73c72569.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/goetia"
+  },
+  "Far Cry® 5 Gold Edition": {
+    "genres": [
+      "Action",
+      "Adventure",
+      "Shooter"
+    ],
+    "release_year": 2018,
+    "image_url": "https://media.rawg.io/media/screenshots/271/271b2e0a45c667579a714765a89985df.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/far-cry-5-gold-edition"
+  },
+  "Tavern Cards": {
+    "genres": [
+      "Action",
+      "Adventure",
+      "Casual",
+      "Indie",
+      "Simulation",
+      "Strategy"
+    ],
+    "release_year": 2020,
+    "image_url": "https://media.rawg.io/media/screenshots/5f3/5f3dc427281c1b64d67a5812fd187a08.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/tavern-cards"
+  },
+  "Subaeria": {
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie",
+      "Puzzle"
+    ],
+    "release_year": 2015,
+    "image_url": "https://media.rawg.io/media/screenshots/86f/86fc7f4ef4656cdff0735f365472f44e.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/subaeria"
+  },
+  "Flashback (2018)": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "As Far As The Eye - Soundtrack Bundle": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "Paranoia: Happiness is Mandatory": {
+    "genres": [
+      "RPG"
+    ],
+    "release_year": 2023,
+    "image_url": "https://media.rawg.io/media/screenshots/1a1/1a1774bdcaef006983eefc3f48907f38.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/paranoia-happiness-is-mandatory"
+  },
+  "Strikers Edge": {
+    "genres": [
+      "Action",
+      "Indie"
+    ],
+    "release_year": 2017,
+    "image_url": "https://media.rawg.io/media/screenshots/c6a/c6a9dd5871c7f9975e73421044290d33.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/strikers-edge"
+  },
+  "The First Tree": {
+    "genres": [
+      "Adventure",
+      "Indie"
+    ],
+    "release_year": 2017,
+    "image_url": "https://media.rawg.io/media/screenshots/b02/b02c8f7cc53dfa98a35552916c02fe6e.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/the-first-tree"
+  },
+  "As Far As The Eye - Supporter Bundle": {
+    "genres": [],
+    "release_year": 2020,
+    "image_url": "https://media.rawg.io/media/screenshots/ad5/ad5ccda6d598e62cee58f24fd5caf304.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/as-far-as-the-eye-supporter-bundle"
+  },
+  "Nanali in another world": {
+    "genres": [
+      "Indie"
+    ],
+    "release_year": 2022,
+    "image_url": "https://media.rawg.io/media/screenshots/dcd/dcdadc1fe4e7a0017b46d0c4aa74ba12.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/nanali-in-another-world"
+  },
+  "Still Heroes": {
+    "genres": [
+      "Indie"
+    ],
+    "release_year": 2022,
+    "image_url": "https://media.rawg.io/media/screenshots/00b/00be576a5c624dbbdf10dba77f386e22.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/still-heroes"
+  },
+  "First Feudal": {
+    "genres": [
+      "Indie",
+      "RPG",
+      "Strategy"
+    ],
+    "release_year": 2017,
+    "image_url": "https://media.rawg.io/media/screenshots/76e/76e228bf26b0c51b6ad170b6bf725efa.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/first-feudal"
+  },
+  "The Dungeon Of Naheulbeuk: The Amulet Of Chaos - Deluxe Edition": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "LiM Beyond One-on-One Basketball": {
+    "genres": [
+      "Sports"
+    ],
+    "release_year": 2023,
+    "image_url": "https://media.rawg.io/media/screenshots/888/8887e1e05d74e7a804208dfe42a10ee8.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/lim-beyond-one-on-one-basketball"
+  },
+  "Stay Safe": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "Figment - Soundtrack": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "Extended Edition": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "Last Room": {
+    "genres": [
+      "Adventure",
+      "Indie",
+      "Strategy"
+    ],
+    "release_year": 2020,
+    "image_url": "https://media.rawg.io/media/screenshots/78e/78eadfa94066dfcface79f9973c4ac29.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/last-room"
+  },
+  "Splasher": {
+    "genres": [
+      "Action",
+      "Arcade",
+      "Indie",
+      "Platformer"
+    ],
+    "release_year": 2017,
+    "image_url": "https://media.rawg.io/media/screenshots/942/942c57fe3a5a0edc24ac61869214a2e7.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/splasher"
+  },
+  "Feudal Alloy": {
+    "genres": [
+      "Action",
+      "Indie",
+      "RPG"
+    ],
+    "release_year": 2019,
+    "image_url": "https://media.rawg.io/media/games/853/8539b5e4e27d767a4838a55a88621255.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/feudal-alloy"
+  },
+  "ScourgeBringer - Supporter Bundle": {
+    "genres": [],
+    "release_year": 2020,
+    "image_url": "https://media.rawg.io/media/screenshots/0e0/0e07575fcb67194d1d0ecec8ce8a9b56.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/scourgebringer-supporter-bundle"
+  },
+  "Gravity Field": {
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie"
+    ],
+    "release_year": 2020,
+    "image_url": "https://media.rawg.io/media/screenshots/04d/04dd4c1e191f9a2294cee027345fdce4.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/gravity-field"
+  },
+  "Spike Volleyball": {
+    "genres": [
+      "Sports"
+    ],
+    "release_year": 2019,
+    "image_url": "https://media.rawg.io/media/screenshots/0e3/0e32969e7d26a5735a7187fafa108051.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/spike-volleyball"
+  },
+  "Fenimore Fillmore: The Westerner": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "Iron Harvest Deluxe Edition": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "Endless mahjong": {
+    "genres": [
+      "Casual",
+      "Indie"
+    ],
+    "release_year": 2021,
+    "image_url": "https://media.rawg.io/media/screenshots/bf0/bf07630e5a443c36ec4b752192803a85.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/endless-mahjong"
+  },
+  "SMOOTS WORLD CUP TENNIS": {
+    "genres": [
+      "Casual",
+      "Indie",
+      "Sports"
+    ],
+    "release_year": 2016,
+    "image_url": "https://media.rawg.io/media/screenshots/1a5/1a5280e6676d27b803c5d19c054fbad7.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/smoots-world-cup-tennis"
+  },
+  "Fenimore Fillmore: 3 Skulls of the Toltecs": {
+    "genres": [
+      "Adventure"
+    ],
+    "release_year": 2019,
+    "image_url": "https://media.rawg.io/media/screenshots/a7d/a7d6f48b1bb628c3408069b3b8e8f403.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/fenimore-fillmore-3-skulls-of-the-toltecs"
+  },
+  "Wargame: Red Dragon": {
+    "genres": [
+      "Strategy"
+    ],
+    "release_year": 2014,
+    "image_url": "https://media.rawg.io/media/screenshots/ecb/ecb32cf472d803aabd3a18c35866186b.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/wargame-red-dragon"
+  },
+  "Wordle 5": {
+    "genres": [
+      "Casual",
+      "Indie",
+      "Simulation",
+      "Sports"
+    ],
+    "release_year": 2022,
+    "image_url": "https://media.rawg.io/media/screenshots/941/941c9e9fcfbb9514cae7d26cb9bcd8ae.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/wordle-5"
+  },
+  "Skelittle: A Giant Party!!": {
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie"
+    ],
+    "release_year": 2018,
+    "image_url": "https://media.rawg.io/media/screenshots/40b/40bdd0f837545439fa7e77bcd438deb1.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/skelittle-a-giant-party"
+  },
+  "Felix The Reaper": {
+    "genres": [
+      "Adventure",
+      "Indie",
+      "Puzzle"
+    ],
+    "release_year": 2019,
+    "image_url": "https://media.rawg.io/media/screenshots/9e2/9e267ccfe4e20b95815791ab391252b2.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/felix-the-reaper"
+  },
+  "The Dungeon Of Naheulbeuk: The Amulet Of Chaos - Ultimate Edition": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "Dark Side of War": {
+    "genres": [
+      "Action",
+      "Adventure",
+      "Casual",
+      "Indie"
+    ],
+    "release_year": 2020,
+    "image_url": "https://media.rawg.io/media/screenshots/7f0/7f080c83d897c86ad02220c29d769388.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/dark-side-of-war"
+  },
+  "Shape of the World": {
+    "genres": [
+      "Action",
+      "Adventure",
+      "Casual",
+      "Indie",
+      "Simulation"
+    ],
+    "release_year": 2018,
+    "image_url": "https://media.rawg.io/media/screenshots/102/102d596799fb6afe159d46b4a93bfa22.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/shape-of-the-world"
+  },
+  "Fear Effect Sedna Collector's Edition": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "RUN: The World in-between - Bundle": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "Cemetery Warrior 4": {
+    "genres": [
+      "Action"
+    ],
+    "release_year": 2019,
+    "image_url": "https://media.rawg.io/media/screenshots/b70/b70214e90c04938a869fd56722f1a09b.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/cemetery-warrior-4"
+  },
+  "Semispheres": {
+    "genres": [
+      "Action",
+      "Indie",
+      "Strategy"
+    ],
+    "release_year": 2017,
+    "image_url": "https://media.rawg.io/media/screenshots/11b/11b91807b2a32fc42d1fd74cc925cf25.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/semispheres"
+  },
+  "Fear Effect Sedna": {
+    "genres": [
+      "Action",
+      "RPG",
+      "Strategy"
+    ],
+    "release_year": 2018,
+    "image_url": "https://media.rawg.io/media/games/6f9/6f9bf1251496f71e962ec6e2d542e393.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/fear-effect-sedna"
+  },
+  "Souldiers - Deluxe Edition": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "Less is More Complete Bundle": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "Samurai Riot": {
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie"
+    ],
+    "release_year": 2017,
+    "image_url": "https://media.rawg.io/media/screenshots/d63/d63612ab8026869227d420484e29bc01.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/samurai-riot"
+  },
+  "Fall of Porcupine": {
+    "genres": [
+      "Adventure",
+      "Indie"
+    ],
+    "release_year": 2023,
+    "image_url": "https://media.rawg.io/media/screenshots/953/95319df3c6cf3fad83ee2a13d3eea947.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/fall-of-porcupine"
+  },
+  "Mass Effect™ Legendary Edition": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "Shakes on a Plane": {
+    "genres": [
+      "Action",
+      "Casual",
+      "Indie",
+      "Simulation"
+    ],
+    "release_year": 2021,
+    "image_url": "https://media.rawg.io/media/screenshots/4b0/4b0aa5ef60aa77a76ca460551ee09257.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/shakes-on-a-plane"
+  },
+  "The Rosebud Condominium": {
+    "genres": [
+      "Adventure",
+      "Casual"
+    ],
+    "release_year": 2017,
+    "image_url": "https://media.rawg.io/media/screenshots/4e8/4e881aaeae918780297df0708b9289c6.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/the-rosebud-condominium"
+  },
+  "EVERSPACE™": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "Saints Row Gold Edition": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
   }
 }
