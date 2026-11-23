@@ -8468,5 +8468,709 @@
     "genres": [],
     "release_year": null,
     "status": "unmatched"
+  },
+  "猫猫跑酷": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "reky": {
+    "genres": [
+      "Casual",
+      "Indie",
+      "Puzzle"
+    ],
+    "release_year": 2019,
+    "image_url": "https://media.rawg.io/media/screenshots/61e/61e3e776f53febcdd112d763fc953478_SejhjBb.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/reky"
+  },
+  "Escape from Naraka": {
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie",
+      "Platformer"
+    ],
+    "release_year": 2021,
+    "image_url": "https://media.rawg.io/media/screenshots/a81/a811522f56570da370fc5e8e46ba6282.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/escape-from-naraka"
+  },
+  "Chef Life - AL FORNO EDITION": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "我是校长": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "Recompile": {
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie"
+    ],
+    "release_year": 2021,
+    "image_url": "https://media.rawg.io/media/screenshots/b6c/b6c21a9548977e34ea62fde1d6ea5612.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/recompile"
+  },
+  "ENCODYA | Deluxe Edition": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "HOT WHEELS UNLEASHED™ 2 - Turbocharged - Legendary Edition": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "Mad YU: Rural Idle": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "Raining Blobs": {
+    "genres": [
+      "Arcade",
+      "Indie",
+      "Strategy"
+    ],
+    "release_year": 2016,
+    "image_url": "https://media.rawg.io/media/screenshots/778/77852b9990fabc094d50aa6565df1c45.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/raining-blobs"
+  },
+  "Encodya": {
+    "genres": [
+      "Adventure",
+      "Puzzle"
+    ],
+    "release_year": 2021,
+    "image_url": "https://media.rawg.io/media/games/286/2866ecf5417144152807e7cd0a0043b2.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/encodya"
+  },
+  "HOT WHEELS UNLEASHED™ 2 - Turbocharged - Deluxe Edition": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "中国战疫": {
+    "genres": [
+      "Simulation",
+      "Strategy"
+    ],
+    "release_year": 2022,
+    "image_url": "https://media.rawg.io/media/screenshots/562/562b7b98d614daab4d78ae90bb87a077.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/zhong-guo-zhan-yi"
+  },
+  "Rage Against The Zombies": {
+    "genres": [
+      "Action",
+      "Casual"
+    ],
+    "release_year": 2017,
+    "image_url": "https://media.rawg.io/media/screenshots/3cc/3cca90bb5d517292f7cba2878112090a.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/rage-against-the-zombies"
+  },
+  "Elven Legacy Collection": {
+    "genres": [
+      "Strategy"
+    ],
+    "release_year": 2009,
+    "image_url": "https://media.rawg.io/media/screenshots/e4f/e4fb3055c96ec7a7c9247ea4274678e8.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/elven-legacy-collection"
+  },
+  "Born of Bread - Baker Edition": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "Space Wars": {
+    "genres": [
+      "Action",
+      "Casual",
+      "Indie",
+      "Simulation"
+    ],
+    "release_year": 2018,
+    "image_url": "https://media.rawg.io/media/screenshots/98c/98c9fb1627dac0a2d59001cb5e46b373.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/space-wars"
+  },
+  "The Quarry Deluxe Edition": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "Elminage Gothic": {
+    "genres": [
+      "Action",
+      "RPG"
+    ],
+    "release_year": 2014,
+    "image_url": "https://media.rawg.io/media/games/b56/b5676e3ab931035044bb92d91451c6a9.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/elminage-gothic"
+  },
+  "EA STAR WARS™ TRIPLE BUNDLE": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "Sausage Hunter": {
+    "genres": [
+      "Adventure",
+      "Casual",
+      "Indie"
+    ],
+    "release_year": 2020,
+    "image_url": "https://media.rawg.io/media/screenshots/c7c/c7c3b40dfafdb069f379709347c90b13.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/sausage-hunter-2"
+  },
+  "The Quarry": {
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "release_year": 2022,
+    "image_url": "https://media.rawg.io/media/games/f40/f407a80be4c604d013e4b9d1e0c6dbef.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/the-quarry-3"
+  },
+  "Edna & Harvey: Harvey's New Eyes": {
+    "genres": [
+      "Adventure",
+      "Indie",
+      "Puzzle",
+      "RPG"
+    ],
+    "release_year": 2011,
+    "image_url": "https://media.rawg.io/media/screenshots/a8b/a8be747402ff458ca85fcca3038cd21c_8t0MBsj.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/harveys-new-eyes"
+  },
+  "Shadow Tactics: Anniversary Bundle": {
+    "genres": [
+      "Adventure",
+      "Shooter"
+    ],
+    "release_year": 2021,
+    "image_url": "https://media.rawg.io/media/screenshots/dfd/dfd6f21d348d63424f222859299cd4df.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/shadow-tactics-anniversary-bundle"
+  },
+  "Era of Miracles": {
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie",
+      "RPG",
+      "Simulation"
+    ],
+    "release_year": null,
+    "image_url": "https://media.rawg.io/media/screenshots/ade/adefcd17f151e0de6f5d5623e8ed8351.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/era-of-miracles"
+  },
+  "Puppet Kings": {
+    "genres": [
+      "Action",
+      "Casual",
+      "Indie"
+    ],
+    "release_year": 2017,
+    "image_url": "https://media.rawg.io/media/screenshots/8dd/8dd04f1b8ac66b0b9cc4628a01519bb4.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/puppet-kings"
+  },
+  "Edna & Harvey: The Breakout - Anniversary Edition": {
+    "genres": [
+      "Adventure",
+      "Family",
+      "Indie",
+      "Puzzle"
+    ],
+    "release_year": 2019,
+    "image_url": "https://media.rawg.io/media/games/4be/4bef90d57a056935567ed9e4d48fe037.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/edna-harvey-the-breakout-anniversary-edition"
+  },
+  "Life of Delta - Supporter Bundle": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "Best Plumber": {
+    "genres": [
+      "Casual",
+      "Indie",
+      "Simulation"
+    ],
+    "release_year": 2019,
+    "image_url": "https://media.rawg.io/media/screenshots/932/932d072719191e12b27da8384a38f140.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/best-plumber"
+  },
+  "Project Temporality": {
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie"
+    ],
+    "release_year": 2014,
+    "image_url": "https://media.rawg.io/media/screenshots/e40/e4018ea296af04361fe40816d2ba783e.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/project-temporality"
+  },
+  "Edna & Harvey: The Breakout": {
+    "genres": [
+      "Adventure",
+      "Family",
+      "Indie",
+      "Puzzle"
+    ],
+    "release_year": 2008,
+    "image_url": "https://media.rawg.io/media/screenshots/b06/b066f5358cae814ba11a68895e38acff_vODaQbn.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/edna-harvey-the-breakout"
+  },
+  "BURIED STARS": {
+    "genres": [
+      "Adventure",
+      "Casual"
+    ],
+    "release_year": 2020,
+    "image_url": "https://media.rawg.io/media/screenshots/2f3/2f3bfcd01ceaa6b013d1e35ce34c0261.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/buried-stars"
+  },
+  "Battle Ram": {
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie",
+      "Simulation",
+      "Sports"
+    ],
+    "release_year": 2023,
+    "image_url": "https://media.rawg.io/media/games/9ea/9ea81b07d58f7a2f099a2c773929d266.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/battle-ram"
+  },
+  "Post Human WAR": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "Edge Of Eternity": {
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie",
+      "RPG",
+      "Strategy"
+    ],
+    "release_year": 2018,
+    "image_url": "https://media.rawg.io/media/games/295/2959ee1a7bb55a7258cc5406b91c50bc.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/edge-of-eternity"
+  },
+  "Skull and Bones Premium Edition": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "Police Shootout": {
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie",
+      "Simulation"
+    ],
+    "release_year": 2022,
+    "image_url": "https://media.rawg.io/media/screenshots/318/3186a1433db1fde7f6fa19e6dd654332.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/police-shootout"
+  },
+  "Point Perfect": {
+    "genres": [
+      "Action",
+      "Casual",
+      "Indie"
+    ],
+    "release_year": 2014,
+    "image_url": "https://media.rawg.io/media/screenshots/07c/07c18ee37437d75667145cb4f6acf4b1.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/point-perfect"
+  },
+  "Dry Drowning": {
+    "genres": [
+      "Adventure",
+      "Indie"
+    ],
+    "release_year": 2019,
+    "image_url": "https://media.rawg.io/media/screenshots/f98/f98739581c7bb01e22579adc4d73451d.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/dry-drowning"
+  },
+  "Tom Clancy's The Division - Definitive Edition": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "Risk of Pain": {
+    "genres": [
+      "Action",
+      "Adventure",
+      "Casual",
+      "Indie"
+    ],
+    "release_year": 2023,
+    "image_url": "https://media.rawg.io/media/screenshots/2be/2becca3fccaee6375eb8e2b8077f053a.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/risk-of-pain-2"
+  },
+  "Pizza Express": {
+    "genres": [
+      "Casual",
+      "Indie",
+      "RPG",
+      "Simulation",
+      "Strategy"
+    ],
+    "release_year": 2015,
+    "image_url": "https://media.rawg.io/media/screenshots/ca3/ca3a39a5e54e1bcdbc795bb2b7aa1846.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/pizza-express"
+  },
+  "Drug Dealer Simulator": {
+    "genres": [
+      "Action",
+      "Indie",
+      "Simulation"
+    ],
+    "release_year": 2020,
+    "image_url": "https://media.rawg.io/media/screenshots/659/65974809e9a0ae5e3be1a1a18afeda45.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/drug-dealer-simulator"
+  },
+  "Poly Plaza ULTIMATE": {
+    "genres": [
+      "Indie",
+      "Simulation"
+    ],
+    "release_year": 2025,
+    "image_url": "https://media.rawg.io/media/screenshots/c93/c939c4d9e9c7722f8dae4fb48bc5b58b.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/poly-plaza-ultimate"
+  },
+  "Made in Norrbotten": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "PictoQuest": {
+    "genres": [
+      "Casual",
+      "Indie",
+      "Puzzle"
+    ],
+    "release_year": 2019,
+    "image_url": "https://media.rawg.io/media/screenshots/512/512057762bb3a3784d78df0a8d331841.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/pictoquest"
+  },
+  "Dragon Lore: The Legend Begins": {
+    "genres": [
+      "Adventure"
+    ],
+    "release_year": 1994,
+    "image_url": "https://media.rawg.io/media/screenshots/7fe/7fed23c9cb146202e2a749b6677c77ae.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/dragon-lore-the-legend-begins"
+  },
+  "Planet Alpha - Deluxe Edition": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "《明末：渊虚之域》黑神话钟馗": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "Paper Beast - Folded Edition": {
+    "genres": [
+      "Adventure",
+      "Casual",
+      "Indie",
+      "Simulation"
+    ],
+    "release_year": 2020,
+    "image_url": "https://media.rawg.io/media/screenshots/a97/a97ee81b64103c18a12f13aabb747ffe.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/paper-beast-folded-edition"
+  },
+  "The Dragoness: Command of the Flame": {
+    "genres": [
+      "RPG",
+      "Strategy"
+    ],
+    "release_year": 2022,
+    "image_url": "https://media.rawg.io/media/screenshots/87d/87d63a60089c8d6c1e519fa6f1b8c3ca.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/the-dragoness-command-of-the-flame"
+  },
+  "Twins of the Sun: Legacy Edition": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "Battle Babes: Wind, Frost & Astra": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "Overpass 2": {
+    "genres": [
+      "Racing",
+      "Simulation"
+    ],
+    "release_year": 2023,
+    "image_url": "https://media.rawg.io/media/screenshots/dd2/dd2f7e0d5f91bd522aefce343bd4da80.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/overpass-2-2"
+  },
+  "Dracula Origin": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "Cosmic Coop": {
+    "genres": [
+      "Adventure",
+      "Casual",
+      "Indie",
+      "RPG",
+      "Simulation"
+    ],
+    "release_year": 2025,
+    "image_url": "https://media.rawg.io/media/screenshots/a83/a83698378097b00062f66583353a988b.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/cosmic-coop"
+  },
+  "Shinobi Shift": {
+    "genres": [
+      "Adventure",
+      "Indie"
+    ],
+    "release_year": 2021,
+    "image_url": "https://media.rawg.io/media/screenshots/8ff/8ff79a0b21c515ac23b1e7e9a36291d0.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/shinobi-shift"
+  },
+  "Mystic Pillars: A Story-Based Puzzle Game": {
+    "genres": [
+      "Adventure",
+      "Casual",
+      "Indie"
+    ],
+    "release_year": 2020,
+    "image_url": "https://media.rawg.io/media/screenshots/6dd/6dd82fe1e0afc84f67b61e050eccd9ae.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/mystic-pillars-a-story-based-puzzle-game"
+  },
+  "Dracula: Love Kills": {
+    "genres": [
+      "Adventure",
+      "Casual"
+    ],
+    "release_year": 2011,
+    "image_url": "https://media.rawg.io/media/screenshots/605/605e44285a9d26654d09e7e0917f6e5b.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/dracula-love-kills"
+  },
+  "Dying Light Collection": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "The Seeker": {
+    "genres": [
+      "Action",
+      "Indie",
+      "RPG"
+    ],
+    "release_year": 2016,
+    "image_url": "https://media.rawg.io/media/screenshots/027/027b45c7365c2809eac74b986294ba0f.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/the-seeker"
+  },
+  "Monster Truck Championship - Rebel Hunter Edition": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "Down in Bermuda": {
+    "genres": [
+      "Adventure",
+      "Casual",
+      "Indie",
+      "Puzzle"
+    ],
+    "release_year": 2019,
+    "image_url": "https://media.rawg.io/media/screenshots/023/02358f5ce4e62bd1286061b396c2f0fd.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/down-in-bermuda"
+  },
+  "Killer Frequency - Deluxe Edition": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "Save the Queen": {
+    "genres": [
+      "Adventure",
+      "Casual",
+      "Indie",
+      "RPG"
+    ],
+    "release_year": 2022,
+    "image_url": "https://media.rawg.io/media/screenshots/b2c/b2c603000c6a5ad17b6468a1352f07d4.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/save-the-queen-2"
+  },
+  "Momonga Pinball Adventures": {
+    "genres": [
+      "Action",
+      "Adventure",
+      "Arcade",
+      "Casual",
+      "Indie"
+    ],
+    "release_year": 2013,
+    "image_url": "https://media.rawg.io/media/screenshots/3f7/3f7c8d4d6d2a8ea3852fb04431c3659b.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/momonga-pinball-adventures"
+  },
+  "Distrust": {
+    "genres": [
+      "Adventure",
+      "Indie",
+      "RPG",
+      "Strategy"
+    ],
+    "release_year": 2017,
+    "image_url": "https://media.rawg.io/media/screenshots/266/26650dfc6f675592f7062ecd8f1dde88.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/distrust"
+  },
+  "Super Magbot Deluxe Edition": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "Sandfall": {
+    "genres": [
+      "Indie",
+      "RPG"
+    ],
+    "release_year": 2021,
+    "image_url": "https://media.rawg.io/media/screenshots/a43/a43443bf63dc77b904049dd15d0570c0.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/sandfall"
+  },
+  "Melbits™ World": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "Distant Worlds: Universe": {
+    "genres": [
+      "Simulation",
+      "Strategy"
+    ],
+    "release_year": 2014,
+    "image_url": "https://media.rawg.io/media/screenshots/d75/d7546d808450339c90c704b53b52bda8.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/distant-worlds-universe"
+  },
+  "Europa Universalis IV: Starter Edition": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "Reborn Souls": {
+    "genres": [
+      "Indie",
+      "RPG"
+    ],
+    "release_year": 2022,
+    "image_url": "https://media.rawg.io/media/screenshots/ef3/ef36847912cbf7d9f1c58b050b36db4e.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/reborn-souls"
+  },
+  "Magibot": {
+    "genres": [
+      "Adventure",
+      "Arcade",
+      "Puzzle"
+    ],
+    "release_year": 2017,
+    "image_url": "https://media.rawg.io/media/screenshots/712/7126f6f3005ee2a2e5771e47aff02ae4.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/magibot"
+  },
+  "Diluvion: Resubmerged Fleet Edition Upgrade": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "Digital Extras Edition": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "Opaline": {
+    "genres": [
+      "Adventure",
+      "Casual",
+      "Indie",
+      "RPG"
+    ],
+    "release_year": 2017,
+    "image_url": "https://media.rawg.io/media/screenshots/c47/c47fd6cc36430646832d3d8ca78b3b4e.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/opaline"
+  },
+  "Mad Tracks": {
+    "genres": [
+      "Arcade",
+      "Racing",
+      "Sports"
+    ],
+    "release_year": 2006,
+    "image_url": "https://media.rawg.io/media/screenshots/3db/3db5add3a79b4eb01c631bc00df34c75.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/mad-tracks"
+  },
+  "Diluvion: Resubmerged": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "Sweet Transit - Deluxe Edition": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
   }
 }
