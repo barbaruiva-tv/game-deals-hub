@@ -9172,5 +9172,622 @@
     "genres": [],
     "release_year": null,
     "status": "unmatched"
+  },
+  "Killer Worm 2": {
+    "genres": [
+      "Action",
+      "Casual"
+    ],
+    "release_year": 2021,
+    "image_url": "https://media.rawg.io/media/screenshots/f08/f08abc05608a0c1502c3df504dde2e48.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/killer-worm-2"
+  },
+  "Lethis - Path of Progress": {
+    "genres": [
+      "Indie",
+      "Simulation",
+      "Strategy"
+    ],
+    "release_year": 2015,
+    "image_url": "https://media.rawg.io/media/screenshots/dd5/dd59f418ac2a0ddaa9606bf9b2cb83f1.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/lethis-path-of-progress"
+  },
+  "Detective Gallo": {
+    "genres": [
+      "Adventure",
+      "Puzzle"
+    ],
+    "release_year": 2018,
+    "image_url": "https://media.rawg.io/media/screenshots/a04/a04fd083f2bcb7c033b5c0ac9b1fd478.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/detective-gallo"
+  },
+  "Firelight Fantasy: Resistance": {
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie",
+      "RPG"
+    ],
+    "release_year": 2021,
+    "image_url": "https://media.rawg.io/media/screenshots/bfe/bfe53cea6262bcb0e802bee337106752.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/firelight-fantasy-resistance"
+  },
+  "Rolling Ball: HD Remaster - Levels": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "Lethis: Daring Discoverers": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "Deponia 4: Deponia Doomsday": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "Star Wars Outlaws Gold Edition": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "Fantasyland - All Dreams": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "LEGO Batman 3: Beyond Gotham Season Pass": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "Deponia 3: Goodbye Deponia": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "Wargame: Red Dragon - Nation Pack: Italy": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "The First Thrust of God - All Levels": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "Kill The Bad Guy": {
+    "genres": [
+      "Action",
+      "Indie",
+      "Puzzle",
+      "Simulation",
+      "Strategy"
+    ],
+    "release_year": 2014,
+    "image_url": "https://media.rawg.io/media/screenshots/1de/1de04e34894bfac3cc2f67f3818d5030.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/kill-the-bad-guy"
+  },
+  "Deponia 2: Chaos on Deponia": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "Trepang2 - Banger Edition": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "Crazy Car - Cars": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "Impulsion": {
+    "genres": [
+      "Action",
+      "Indie"
+    ],
+    "release_year": 2018,
+    "image_url": "https://media.rawg.io/media/screenshots/4c5/4c58035274fb76be0b5c6e4c40bc90a7.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/impulsion"
+  },
+  "Deponia": {
+    "genres": [
+      "Adventure",
+      "Indie",
+      "Puzzle",
+      "RPG"
+    ],
+    "release_year": 2012,
+    "image_url": "https://media.rawg.io/media/games/c2e/c2e6ad5c838d551aeff376f1f3d9d65e.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/deponia"
+  },
+  "Mass Effect™: Andromeda Deluxe Edition": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "Crazy Car Deluxe Edition": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "2 Dark": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "Dead Synchronicity: Tomorrow Comes Today": {
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie",
+      "Puzzle"
+    ],
+    "release_year": 2015,
+    "image_url": "https://media.rawg.io/media/screenshots/a58/a581d36545d6da2217cb7068801ca651.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/dead-synchronicity-tomorrow-comes-today"
+  },
+  "Mass Effect™ 3 N7 Digital Deluxe Edition (2012)": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "Fantasyland Deluxe Edition": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "Hyperspace Invaders II: Pixel Edition": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "Dead Age 2": {
+    "genres": [
+      "Action",
+      "Adventure",
+      "Casual",
+      "Indie",
+      "RPG",
+      "Simulation",
+      "Strategy"
+    ],
+    "release_year": 2020,
+    "image_url": "https://media.rawg.io/media/screenshots/059/05931ea710001df1af79dbac33c9898d.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/dead-age-2"
+  },
+  "Mass Effect (2007)": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "The first thrust of God Deluxe Edition": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "HyperParasite": {
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie",
+      "Shooter"
+    ],
+    "release_year": 2020,
+    "image_url": "https://media.rawg.io/media/screenshots/500/500075705623dbc3ebeb200003a9663b.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/hyperparasite"
+  },
+  "Dead Age": {
+    "genres": [
+      "Action",
+      "Adventure",
+      "Casual",
+      "Indie",
+      "RPG",
+      "Simulation",
+      "Strategy"
+    ],
+    "release_year": 2016,
+    "image_url": "https://media.rawg.io/media/screenshots/bbf/bbfb0f0a6b393d1ec3d32fddfe5a5952.jpeg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/dead-age"
+  },
+  "Dragon Age: Origins - Ultimate Edition": {
+    "genres": [
+      "RPG"
+    ],
+    "release_year": 2010,
+    "image_url": "https://media.rawg.io/media/games/add/add07a75a3f1e479b55dbe920d9fb13d.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/dragon-age-origins-ultimate-edition"
+  },
+  "Bo Le Judging Horses: The Land So Fair and Rare": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "Homeworld: Deserts of Kharak": {
+    "genres": [
+      "Strategy"
+    ],
+    "release_year": 2016,
+    "image_url": "https://media.rawg.io/media/games/4e1/4e12434f082fc8f2b965a4c950b8836e.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/homeworld-deserts-of-kharak"
+  },
+  "Daymare: 1998": {
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie"
+    ],
+    "release_year": 2019,
+    "image_url": "https://media.rawg.io/media/games/52c/52cd2071a3d6b9930bf7453cc3832bee.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/daymare-1998"
+  },
+  "Dragon Age™: Inquisition - Game of the Year Edition": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "Bo Le Judging Horses": {
+    "genres": [
+      "Casual",
+      "Indie"
+    ],
+    "release_year": 2026,
+    "image_url": "https://media.rawg.io/media/screenshots/643/643a3354b95bdc2ad46e15c75694c915.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/bo-le-judging-horses"
+  },
+  "Homestead Arcana": {
+    "genres": [
+      "Adventure",
+      "Casual",
+      "Indie",
+      "RPG",
+      "Simulation"
+    ],
+    "release_year": 2023,
+    "image_url": "https://media.rawg.io/media/screenshots/a9f/a9fbfb4df1c9572e35293e30c95ba5fd.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/homestead-arcana"
+  },
+  "Darkwood": {
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie",
+      "RPG"
+    ],
+    "release_year": 2017,
+    "image_url": "https://media.rawg.io/media/games/341/3415bdd0f19cb034574e559f2ff163ab.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/darkwood"
+  },
+  "Pandemic Train": {
+    "genres": [
+      "Action",
+      "Simulation",
+      "Strategy"
+    ],
+    "release_year": 2023,
+    "image_url": "https://media.rawg.io/media/screenshots/19b/19b449c74caa3e48dd19d225461dc3da.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/pandemic-train"
+  },
+  "Everest: Real Climbing Simulator": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "Hills of Glory 3D": {
+    "genres": [
+      "Casual",
+      "Indie",
+      "Strategy"
+    ],
+    "release_year": 2015,
+    "image_url": "https://media.rawg.io/media/screenshots/fe0/fe0144a6f88ec4a9546c96b82676f56e.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/hills-of-glory-3d"
+  },
+  "Dark Future: Blood Red States": {
+    "genres": [
+      "Action",
+      "Indie",
+      "RPG",
+      "Strategy"
+    ],
+    "release_year": 2019,
+    "image_url": "https://media.rawg.io/media/games/61c/61c787efa4d7e25e394a32ea0dc51443.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/dark-future-blood-red-states"
+  },
+  "Classified: France '44 - Overlord Edition": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "AI Games - Advanced Color": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "Hexarchy": {
+    "genres": [
+      "Indie",
+      "Simulation",
+      "Strategy"
+    ],
+    "release_year": 2023,
+    "image_url": "https://media.rawg.io/media/screenshots/ac9/ac9e8f1a2b39e26bfe9255efaa58ad00.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/hexarchy"
+  },
+  "The Dark Eye: Chains of Satinav": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "Far Cry® 4 Gold Edition": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "AI Games": {
+    "genres": [
+      "Casual",
+      "Indie",
+      "Sports"
+    ],
+    "release_year": 2025,
+    "image_url": "https://media.rawg.io/media/screenshots/312/312c25a1542ad2f1c77c04ba848476be.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/ai-games"
+  },
+  "Healer's Quest": {
+    "genres": [
+      "RPG"
+    ],
+    "release_year": 2018,
+    "image_url": "https://media.rawg.io/media/screenshots/be3/be3dc085e5008e2bb1ab018f690e8daa.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/healers-quest"
+  },
+  "Curious Expedition": {
+    "genres": [
+      "Strategy"
+    ],
+    "release_year": 2019,
+    "image_url": "https://media.rawg.io/media/screenshots/f39/f39cfa749889fa0b99a83d4d472bb196.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/curious-expedition"
+  },
+  "Assassin's Creed Odyssey - Gold Edition": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "AI Games - Custom Theme": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "Handball 17": {
+    "genres": [
+      "Sports"
+    ],
+    "release_year": 2016,
+    "image_url": "https://media.rawg.io/media/screenshots/12c/12c09f8c50e3b771644051024ee209bb.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/handball-17"
+  },
+  "Cris Tales Original Soundtrack Bundle": {
+    "genres": [],
+    "release_year": 2021,
+    "image_url": "https://media.rawg.io/media/screenshots/f9a/f9a004ac226f4d439994b63fb6d07be0.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/cris-tales-original-soundtrack-bundle"
+  },
+  "Assassin's Creed Odyssey - Ultimate Edition": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "AI Games - Custom Color": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "Guild of Ascension": {
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie",
+      "RPG",
+      "Strategy"
+    ],
+    "release_year": null,
+    "image_url": "https://media.rawg.io/media/screenshots/2e6/2e6109ed33e8a9c8c5b9ddeb289401bb.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/guild-of-ascension"
+  },
+  "COVID: The Outbreak Soundtrack": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "Trials Rising - Gold Edition": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "AI Games - HD UI": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "Golfie": {
+    "genres": [
+      "Casual",
+      "Indie",
+      "Sports"
+    ],
+    "release_year": 2022,
+    "image_url": "https://media.rawg.io/media/screenshots/395/39530b24f00fe25c3e413f69c46d6525.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/golfie"
+  },
+  "The Coma: Recut Deluxe Edition Upgrade": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "Torchlight": {
+    "genres": [
+      "Action",
+      "RPG"
+    ],
+    "release_year": 2009,
+    "image_url": "https://media.rawg.io/media/games/b17/b175178f8842276b8b18b339fe3146a1.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/torchlight"
+  },
+  "Rolling Ball: HD Remaster - Extravagance": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "Golazo! Soccer League": {
+    "genres": [
+      "Casual",
+      "Sports"
+    ],
+    "release_year": 2020,
+    "image_url": "https://media.rawg.io/media/screenshots/f2b/f2be5dd6e9210b5a7ac3cd185a26e066.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/golazo-soccer-league"
+  },
+  "The Coma: Recut": {
+    "genres": [
+      "Adventure",
+      "Indie"
+    ],
+    "release_year": 2017,
+    "image_url": "https://media.rawg.io/media/screenshots/dc5/dc595cc6883458b42e0a5907cc6a3430.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/the-coma-recut"
+  },
+  "Tom Clancy's Ghost Recon® Breakpoint - Gold Edition": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "Rolling Ball: HD Remaster - Trails": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "God of Light: Remastered": {
+    "genres": [
+      "Casual",
+      "Indie",
+      "Puzzle"
+    ],
+    "release_year": 2017,
+    "image_url": "https://media.rawg.io/media/screenshots/c63/c63c597a75515d98bdf46f89b2008ce3.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/god-of-light-remastered"
+  },
+  "The Coma 2: Vicious Sisters": {
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie"
+    ],
+    "release_year": 2020,
+    "image_url": "https://media.rawg.io/media/games/945/945afcc72ce19b6636c02b81cae2eb24.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/the-coma-2-vicious-sisters"
+  },
+  "Tom Clancy's Ghost Recon® Breakpoint - Ultimate Edition": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "Rolling Ball: HD Remaster - Cores": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "Glitch Busters: Stuck on You": {
+    "genres": [
+      "Action"
+    ],
+    "release_year": 2023,
+    "image_url": "https://media.rawg.io/media/screenshots/559/559629e09c2ed3e872f77cf7761c3b15.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/glitch-busters-stuck-on-you"
+  },
+  "The Coma: Back to School Bundle": {
+    "genres": [],
+    "release_year": null,
+    "image_url": "https://media.rawg.io/media/screenshots/50f/50f483c6beac235c146586246af98663.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/the-coma-back-to-school-bundle"
+  },
+  "Red Dead Redemption 2: Ultimate Edition": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "Rolling Ball: HD Remaster - Balls": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "Ghost of a Tale": {
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie",
+      "RPG"
+    ],
+    "release_year": 2018,
+    "image_url": "https://media.rawg.io/media/games/cbd/cbdaa32349be63a57099669be29dc7ca.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/ghost-of-a-tale"
+  },
+  "Clid the Snail": {
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie",
+      "Shooter"
+    ],
+    "release_year": 2021,
+    "image_url": "https://media.rawg.io/media/screenshots/599/5998a8d3c68a39e04a021672037a5899.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/clid-the-snail"
+  },
+  "STAR WARS Jedi: Fallen Order™ Deluxe Edition": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
   }
 }
