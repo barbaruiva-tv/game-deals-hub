@@ -27,7 +27,7 @@ def get_json(endpoint, body=None, **query):
         headers={
             "ITAD-API-Key": key,
             "Accept": "application/json",
-            "Content-Type": "application/json",
+            **({"Content-Type": "application/json"} if body is not None else {}),
             "User-Agent": "GameDealsHub/1.1",
         },
     )
