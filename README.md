@@ -8,7 +8,7 @@ Dashboard de ofertas de jogos de PC para o Brasil.
 2. Em **Actions**, execute manualmente `Atualizar ofertas` para validar a integração.
 3. Em **Settings > Pages**, selecione **Deploy from a branch**, branch `main`, pasta `/ (root)`.
 
-A atualização é agendada diariamente às 11:15 UTC (08:15 em Brasília), sujeita a atrasos do GitHub Actions. Os preços devem ser verificados na loja antes da compra.
+A atualização é agendada duas vezes por dia, às 11:15 e 23:15 UTC (08:15 e 20:15 em Brasília), sujeita a atrasos do GitHub Actions. Os preços devem ser verificados na loja antes da compra.
 
 **Limitações:** a API pode não cobrir todas as promoções das quatro lojas; cupons e mínimos históricos não são afirmados sem fonte verificável. Nenhum preço de exemplo é apresentado como oferta real.
 
