@@ -6,6 +6,7 @@ from pathlib import Path
 from urllib.parse import urlencode
 from urllib.request import Request, urlopen
 
+BASE = Path(__file__).parent
 key = os.environ.get("ITAD_API_KEY")
 if not key:
     raise SystemExit("Configure o segredo ITAD_API_KEY no GitHub Actions.")
@@ -18,12 +19,14 @@ STORE_NAMES = {
 
 EPIC_SHOP_ID = 16  # Identificador da Epic Game Store no IsThereAnyDeal.
 
-def get_json(endpoint, **query):
+def get_json(endpoint, body=None, **query):
     request = Request(
         "https://api.isthereanydeal.com/" + endpoint + "?" + urlencode(query),
+        data=json.dumps(body).encode("utf-8") if body is not None else None,
         headers={
             "ITAD-API-Key": key,
             "Accept": "application/json",
+            "Content-Type": "application/json",
             "User-Agent": "GameDealsHub/1.1",
         },
     )
@@ -32,8 +35,8 @@ def get_json(endpoint, **query):
 
 def collect_pages(shop_ids):
     offset = 0
-    # Limita cada consulta a dez páginas e respeita o cursor da API.
-    for _ in range(10):
+    # Percorre todo o feed; um limite de segurança impede loops da API.
+    for _ in range(500):
         payload = get_json(
             "deals/v2", country="BR", limit=200, offset=offset,
             sort="-cut", shops=",".join(map(str, shop_ids)),
@@ -46,7 +49,7 @@ def collect_pages(shop_ids):
             raise ValueError("O cursor de ofertas não avançou.")
         offset = next_offset
     if payload["hasMore"]:
-        print("Limite de páginas atingido para lojas:", shop_ids)
+        raise RuntimeError("A coleta excedeu o limite de segurança de páginas.")
 
 shops = get_json("service/shops/v1", country="BR")
 stores_by_id = {
@@ -59,19 +62,29 @@ if any(shop["id"] == EPIC_SHOP_ID for shop in shops):
 if not stores_by_id:
     raise SystemExit("Nenhuma das lojas configuradas foi encontrada para o Brasil.")
 
-# O feed retorna a melhor oferta por jogo. Consultar a Epic à parte
-# mantém suas promoções mesmo quando outra loja tem um preço menor.
-other_stores = [shop_id for shop_id, name in stores_by_id.items() if name != "Epic Games"]
-epic_stores = [shop_id for shop_id, name in stores_by_id.items() if name == "Epic Games"]
-if not epic_stores:
-    print("Epic Games indisponível na lista de lojas para o Brasil.")
+priority_titles = json.loads(BASE.joinpath("priority-games.json").read_text(encoding="utf-8"))
+identified = get_json("lookup/id/title/v1", body=priority_titles)
+priority_ids = {game_id for game_id in identified.values() if game_id}
+for title, game_id in identified.items():
+    if not game_id:
+        print("Título monitorado não identificado:", title)
+
+def collect_priority():
+    if not priority_ids:
+        return
+    prices = get_json(
+        "games/prices/v3", body=sorted(priority_ids), country="BR",
+        shops=",".join(map(str, stores_by_id)), deals="true",
+    )
+    for game in prices:
+        info = get_json("games/info/v2", id=game["id"])
+        for offer in game["deals"]:
+            yield {**info, "id": game["id"], "deal": offer}
 
 deals = []
 seen = set()
-for shop_ids in (other_stores, epic_stores):
-    if not shop_ids:
-        continue
-    for entry in collect_pages(shop_ids):
+for entries in [collect_priority(), *(collect_pages([shop_id]) for shop_id in stores_by_id)]:
+    for entry in entries:
         deal = entry.get("deal") or {}
         shop_id = (deal.get("shop") or {}).get("id")
         store = stores_by_id.get(shop_id)
@@ -92,6 +105,8 @@ for shop_ids in (other_stores, epic_stores):
             None,
         )
         deals.append({
+            "id": entry["id"],
+            "featured": entry["id"] in priority_ids,
             "title": entry.get("title") or "Sem título",
             "game_type": entry.get("type"),
             "store": store,

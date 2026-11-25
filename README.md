@@ -25,3 +25,9 @@ Confira os termos de licença RAWG para seu uso: o plano gratuito é indicado pa
 Para publicar uma edição de **Vale a Oferta?**, atualize `weekly-picks.json` com o título da edição em `title`, o link HTTPS do vídeo em `video_url` e até três jogos em `picks`. Cada jogo recebe um `title` igual ao título no catálogo e uma frase de recomendação em `reason`.
 
 O site usa o menor preço ativo disponível no catálogo. Se a oferta acabar, a recomendação continua visível com a indicação de que o jogo está sem oferta ativa. Use o endereço do site com `#escolhas` na descrição do episódio.
+
+## Cobertura e destaques
+
+A coleta percorre as ofertas de cada loja até o fim do feed. A lista `priority-games.json` recebe consultas diretas de preços brasileiros em cada execução. Títulos sem identificação são registrados nos logs. O catálogo reúne as ofertas por jogo e loja.
+
+A ordenação “Em destaque” prioriza os jogos monitorados, depois jogos fora de pacotes e o desconto. Essa ordem é curadoria inicial e não representa uma medida de popularidade. Para acrescentar jogos, use o título reconhecido pelo IsThereAnyDeal em `priority-games.json`.

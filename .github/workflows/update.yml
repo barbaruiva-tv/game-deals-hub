@@ -1,5 +1,9 @@
 name: Atualizar ofertas
 on:
+  push:
+    paths:
+      - collect.py
+      - priority-games.json
   schedule:
     - cron: '15 11,23 * * *'
   workflow_dispatch:
