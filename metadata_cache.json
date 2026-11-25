@@ -9789,5 +9789,599 @@
     "genres": [],
     "release_year": null,
     "status": "unmatched"
+  },
+  "DARK SOULS™ II: Scholar of the First Sin": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "Cris Tales": {
+    "genres": [
+      "Action",
+      "Adventure",
+      "RPG"
+    ],
+    "release_year": 2021,
+    "image_url": "https://media.rawg.io/media/games/3f8/3f8b4bd09fa2e84eeb6d8590840a0531.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/cris-tales"
+  },
+  "World of Warships — Dunkerque B": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "Dark Souls Remastered": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "Celestian Tales: Realms Beyond": {
+    "genres": [
+      "Indie",
+      "RPG"
+    ],
+    "release_year": 2020,
+    "image_url": "https://media.rawg.io/media/screenshots/11f/11f1ebd76ac06bebd8dab6c1a91747d4.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/celestian-tales-realms-beyond"
+  },
+  "Let Me See": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "DARK SOULS III": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "Celestian Tales: Old North": {
+    "genres": [
+      "Indie",
+      "RPG"
+    ],
+    "release_year": 2015,
+    "image_url": "https://media.rawg.io/media/screenshots/0a0/0a0a4f7614d15f5f0088b795f2f2235c.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/celestian-tales-old-north"
+  },
+  "Detroit: Become Human": {
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "release_year": 2018,
+    "image_url": "https://media.rawg.io/media/games/951/951572a3dd1e42544bd39a5d5b42d234.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/detroit-become-human"
+  },
+  "Elden Ring": {
+    "genres": [
+      "Action",
+      "RPG"
+    ],
+    "release_year": 2022,
+    "image_url": "https://media.rawg.io/media/games/b29/b294fdd866dcdb643e7bab370a552855.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/elden-ring"
+  },
+  "AI Snake - Luxurious Gift": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "Cardaclysm": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "Far Cry New Dawn Deluxe Edition": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "TOEM: A Photo Adventure": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "AI Snake - Gorgeous Maps": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "Bridge Constructor: The Walking Dead": {
+    "genres": [
+      "Puzzle",
+      "Simulation"
+    ],
+    "release_year": 2020,
+    "image_url": "https://media.rawg.io/media/games/176/17628bec5c40970dc5d1b9b672994d95.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/bridge-constructor-the-walking-dead"
+  },
+  "Anno 2205™ Ultimate Edition": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "WRC 5: World Rally Championship": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "AI Snake - Mouthwatering Foods": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "Bridge Constructor Stunts": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "Watch_Dogs Complete Edition": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "WRC 10 FIA World Rally Championship": {
+    "genres": [
+      "Racing",
+      "Simulation",
+      "Sports"
+    ],
+    "release_year": 2021,
+    "image_url": "https://media.rawg.io/media/screenshots/bbf/bbf801dd1c7534eae9bf9ba4bce25200.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/wrc-10-fia-world-rally-championship"
+  },
+  "AI Snake - Adorable Snakes": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "Bridge Constructor Portal": {
+    "genres": [
+      "Puzzle",
+      "Simulation",
+      "Strategy"
+    ],
+    "release_year": 2017,
+    "image_url": "https://media.rawg.io/media/games/cc2/cc2a1f137e7166adebe419cbcc86d207.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/bridge-constructor-portal"
+  },
+  "Huntdown": {
+    "genres": [
+      "Action",
+      "Indie"
+    ],
+    "release_year": 2020,
+    "image_url": "https://media.rawg.io/media/games/5cb/5cb897cd1000906d2467ea4d0bdf1af4.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/huntdown"
+  },
+  "Pongo": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "AI Snake": {
+    "genres": [
+      "Casual",
+      "Indie"
+    ],
+    "release_year": 2025,
+    "image_url": "https://media.rawg.io/media/screenshots/9d1/9d1416faf03037dd9876347a35c7c28c.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/ai-snake"
+  },
+  "Bridge Constructor Playground": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "Torchlight II": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "Gangs of Sherwood": {
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "release_year": null,
+    "image_url": "https://media.rawg.io/media/screenshots/d9c/d9c57a064f959f9486d5be3ac0089b0a.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/gangs-of-sherwood"
+  },
+  "Rolling Ball: HD Remaster": {
+    "genres": [
+      "Casual",
+      "Indie",
+      "Racing",
+      "Simulation",
+      "Strategy"
+    ],
+    "release_year": 2025,
+    "image_url": "https://media.rawg.io/media/screenshots/4ff/4ffe41979cf2c7eec26e9eb2ea9409cd.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/rolling-ball-hd-remaster"
+  },
+  "Bridge Constructor Medieval": {
+    "genres": [
+      "Casual",
+      "Indie",
+      "Puzzle",
+      "Simulation"
+    ],
+    "release_year": 2014,
+    "image_url": "https://media.rawg.io/media/screenshots/0a3/0a3f0cc0da746f3562ab6a067b9233f1.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/bridge-constructor-medieval"
+  },
+  "Might and Magic Heroes VII - Ultimate Edition": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "Galactic Orbital Death Sport": {
+    "genres": [
+      "Action",
+      "Indie",
+      "Sports"
+    ],
+    "release_year": 2017,
+    "image_url": "https://media.rawg.io/media/screenshots/c4f/c4f395658acb5486eb0d7b05272c1558.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/galactic-orbital-death-sport"
+  },
+  "回到2001买房子": {
+    "genres": [
+      "Simulation"
+    ],
+    "release_year": 2021,
+    "image_url": "https://media.rawg.io/media/screenshots/291/291c0333d1094e4a379497f2890c0e2b.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/hui-dao-2001mai-fang-zi"
+  },
+  "Bridge Constructor": {
+    "genres": [
+      "Casual",
+      "Indie",
+      "Puzzle",
+      "Simulation"
+    ],
+    "release_year": 2012,
+    "image_url": "https://media.rawg.io/media/games/189/189b1795ab39eda546c95bbcdd3c7e60.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/bridge-constructor"
+  },
+  "Mafia: Trilogy": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "Freaking Meatbags ": {
+    "genres": [
+      "Action",
+      "Indie",
+      "Strategy"
+    ],
+    "release_year": 2014,
+    "image_url": "https://media.rawg.io/media/screenshots/439/439a4abeca605e981999efb5c219f997.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/freaking-meatbags"
+  },
+  "Aurye Clicker": {
+    "genres": [
+      "Casual"
+    ],
+    "release_year": 2024,
+    "image_url": "https://media.rawg.io/media/screenshots/29d/29d348be04edcbdd78cfff17fc341b0a.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/aurye-clicker"
+  },
+  "Breach & Clear: DEADline Rebirth": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "Watch Dogs: Legion Ultimate Edition": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "Figment": {
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie",
+      "Puzzle"
+    ],
+    "release_year": 2017,
+    "image_url": "https://media.rawg.io/media/screenshots/dcc/dcce37f6d000c846c7aa23ccebf53a73.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/figment"
+  },
+  "AI Games - Haute Couture": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "Bounty Train - Trainium Edition Upgrade": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "Watch Dogs: Legion Gold Edition": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "FIA European Truck Racing Championship": {
+    "genres": [
+      "Racing",
+      "Simulation",
+      "Sports"
+    ],
+    "release_year": 2019,
+    "image_url": "https://media.rawg.io/media/games/2c6/2c6b8d15833e99d69142e2ec4dde19c0.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/truck-racing-championship"
+  },
+  "Asteroid Core Soundtrack": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "Bounty Train - New West": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "MudRunner - American Wilds Edition": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "The Fan": {
+    "genres": [
+      "Adventure",
+      "Puzzle"
+    ],
+    "release_year": 2017,
+    "image_url": "https://media.rawg.io/media/screenshots/5f7/5f7adc893d06158d744c8b9af466626d.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/the-fan"
+  },
+  "EvoluShip Soundtrack": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "Bounty Train": {
+    "genres": [
+      "Indie",
+      "Simulation",
+      "Strategy"
+    ],
+    "release_year": 2015,
+    "image_url": "https://media.rawg.io/media/screenshots/db1/db1210219be7981486c3f6557f3aaecf.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/bounty-train"
+  },
+  "STAR WARS™ Battlefront™ II: Celebration Edition": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "Europa Universalis IV": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "Killer Worm 2 Soundtrack": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "Blackguards Special Edition": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "STAR WARS™ Battlefront™ Ultimate Edition": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "Ethan: Meteor Hunter": {
+    "genres": [
+      "Action",
+      "Indie",
+      "Platformer",
+      "Puzzle"
+    ],
+    "release_year": 2013,
+    "image_url": "https://media.rawg.io/media/screenshots/6ce/6ce0e514cfbdd8ab61eaaa4c63877038.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/ethan-meteor-hunter"
+  },
+  "GravKitten Soundtrack": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "Blackguards 2": {
+    "genres": [
+      "Adventure",
+      "Indie",
+      "RPG",
+      "Strategy"
+    ],
+    "release_year": 2015,
+    "image_url": "https://media.rawg.io/media/screenshots/9fa/9fae84bdb6f5cd9d46961b90d720d17e.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/blackguards-2"
+  },
+  "RAGE 2 Deluxe Edition": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "Enola": {
+    "genres": [
+      "Adventure",
+      "Casual",
+      "Indie"
+    ],
+    "release_year": 2014,
+    "image_url": "https://media.rawg.io/media/screenshots/5fb/5fba67506e28dcf786677e4c2de6eb38.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/enola"
+  },
+  "Memorise'n'run Soundtrack": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "Beyond The Edge Of Owlsgard": {
+    "genres": [
+      "Adventure",
+      "Indie"
+    ],
+    "release_year": 2022,
+    "image_url": "https://media.rawg.io/media/screenshots/4b4/4b46a21b15b883e8265eb12755fad873.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/beyond-the-edge-of-owlsgard"
+  },
+  "Wargame Red Dragon - Nation Pack: Netherlands": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "DungeonUp": {
+    "genres": [
+      "Adventure",
+      "Indie",
+      "Puzzle",
+      "Strategy"
+    ],
+    "release_year": 2015,
+    "image_url": "https://media.rawg.io/media/screenshots/b7e/b7e2051802fab149658943be4210b03f.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/dungeonup"
+  },
+  "Pyramid Game Ultra": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "The Beast Inside": {
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie"
+    ],
+    "release_year": 2019,
+    "image_url": "https://media.rawg.io/media/screenshots/59e/59e83c7c485f9915205dd23ced6c0b12.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/the-beast-inside"
+  },
+  "Wargame: Red Dragon - Nation Pack: Israel": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "Dungeon Rushers": {
+    "genres": [
+      "Adventure",
+      "Indie",
+      "RPG",
+      "Strategy"
+    ],
+    "release_year": 2016,
+    "image_url": "https://media.rawg.io/media/screenshots/1b9/1b93d44305c6800d4cfd3c55f5185f81.jpeg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/dungeon-rushers"
+  },
+  "Pyramid Game YSBC Private": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "Bad Dream: Fever": {
+    "genres": [
+      "Adventure"
+    ],
+    "release_year": 2018,
+    "image_url": "https://media.rawg.io/media/screenshots/98e/98e11f696b44d06dda1352f5e57178ad.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/bad-dream-fever"
+  },
+  "Wargame Red Dragon - Double Nation Pack: REDS": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "Dropsy": {
+    "genres": [
+      "Adventure",
+      "Indie",
+      "Puzzle"
+    ],
+    "release_year": 2015,
+    "image_url": "https://media.rawg.io/media/screenshots/6fd/6fdb00ba7c672b9e2bde347445bbbfe8.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/dropsy"
+  },
+  "Pyramid Game YSBC Jade": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "Atlantis: The Lost Tales": {
+    "genres": [
+      "Adventure",
+      "Puzzle"
+    ],
+    "release_year": 1997,
+    "image_url": "https://media.rawg.io/media/screenshots/5c8/5c870c15c25709b42cf661f427683cb1.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/atlantis-the-lost-tales"
+  },
+  "The Cosmic Collection": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "DragoDino": {
+    "genres": [
+      "Action",
+      "Indie"
+    ],
+    "release_year": 2017,
+    "image_url": "https://media.rawg.io/media/screenshots/4d5/4d59231f690f3a85b35c8438854251fa.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/dragodino"
+  },
+  "Pyramid Game YSBC Elite": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "Asterix & Obelix XXL : Romastered": {
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "release_year": 2020,
+    "image_url": "https://media.rawg.io/media/games/3a5/3a5b7004b89e991953649bd08875bcc5.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/asterix-obelix-xxl-romastered"
   }
 }
