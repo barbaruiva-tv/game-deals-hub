@@ -5,6 +5,7 @@ import os
 from pathlib import Path
 from urllib.parse import urlencode
 from urllib.request import Request, urlopen
+from urllib.error import HTTPError
 
 BASE = Path(__file__).parent
 key = os.environ.get("ITAD_API_KEY")
@@ -30,8 +31,12 @@ def get_json(endpoint, body=None, **query):
             "User-Agent": "GameDealsHub/1.1",
         },
     )
-    with urlopen(request, timeout=45) as response:
-        return json.load(response)
+    try:
+        with urlopen(request, timeout=45) as response:
+            return json.load(response)
+    except HTTPError as exc:
+        print('Erro da API:', endpoint, query, exc.code, exc.read().decode('utf-8', errors='replace'))
+        raise
 
 def collect_pages(shop_ids):
     offset = 0
