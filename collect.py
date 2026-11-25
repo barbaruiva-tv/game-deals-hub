@@ -2,6 +2,8 @@
 import datetime
 import json
 import os
+import time
+from email.utils import parsedate_to_datetime
 from pathlib import Path
 from urllib.parse import urlencode
 from urllib.request import Request, urlopen
@@ -31,12 +33,26 @@ def get_json(endpoint, body=None, **query):
             "User-Agent": "GameDealsHub/1.1",
         },
     )
-    try:
-        with urlopen(request, timeout=45) as response:
-            return json.load(response)
-    except HTTPError as exc:
-        print('Erro da API:', endpoint, query, exc.code, exc.read().decode('utf-8', errors='replace'))
-        raise
+    for attempt in range(6):
+        time.sleep(1)
+        try:
+            with urlopen(request, timeout=45) as response:
+                return json.load(response)
+        except HTTPError as exc:
+            if exc.code == 429 and attempt < 5:
+                retry_after = exc.headers.get("Retry-After", "")
+                if retry_after.isdigit():
+                    delay = int(retry_after)
+                elif retry_after:
+                    retry_at = parsedate_to_datetime(retry_after)
+                    delay = (retry_at - datetime.datetime.now(datetime.timezone.utc)).total_seconds()
+                else:
+                    delay = 60 * (attempt + 1)
+                print("Limite da API; aguardando", max(1, delay), "segundos.")
+                time.sleep(max(1, delay))
+                continue
+            print("Erro da API:", endpoint, query, exc.code)
+            raise
 
 def collect_pages(shop_ids):
     offset = 0
