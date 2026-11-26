@@ -12113,5 +12113,630 @@
     "genres": [],
     "release_year": null,
     "status": "unmatched"
+  },
+  "SteamWorld Dig": {
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie",
+      "Platformer",
+      "Puzzle"
+    ],
+    "release_year": 2013,
+    "image_url": "https://media.rawg.io/media/games/e07/e07737df8469bf32d132ba9eaffc3461.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/steamworld-dig"
+  },
+  "Life is Feudal: Forest Village": {
+    "genres": [
+      "Indie",
+      "Simulation",
+      "Strategy"
+    ],
+    "release_year": 2016,
+    "image_url": "https://media.rawg.io/media/games/78d/78d620341f38b28b59c10bf7f8097faa.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/life-is-feudal-forest-village"
+  },
+  "Deadliest Catch + Fishing Adventure": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "Big Buck Hunter: Ultimate Trophy": {
+    "genres": [
+      "Simulation",
+      "Sports"
+    ],
+    "release_year": 2025,
+    "image_url": "https://media.rawg.io/media/screenshots/106/10694996e15b043f3f39d60e4730ff6e.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/big-buck-hunter-ultimate-trophy"
+  },
+  "Starlord": {
+    "genres": [
+      "Action",
+      "Simulation"
+    ],
+    "release_year": 1992,
+    "image_url": "https://media.rawg.io/media/screenshots/7da/7dad1b34fa729d548175b790c1876d5d.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/starlord"
+  },
+  "Just Cause": {
+    "genres": [
+      "Action",
+      "Shooter"
+    ],
+    "release_year": 2006,
+    "image_url": "https://media.rawg.io/media/games/e60/e601c02ec49ef4f1d5ef147994b3935f.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/just-cause"
+  },
+  "Complete Electrician Simulator": {
+    "genres": [],
+    "release_year": 2023,
+    "image_url": "https://media.rawg.io/media/screenshots/d08/d086e49ec907082de5fe821ef4f515b3.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/complete-electrician-simulator"
+  },
+  "SURVIVAL IN THE BACKROOMS": {
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie",
+      "RPG",
+      "Simulation"
+    ],
+    "release_year": 2022,
+    "image_url": "https://media.rawg.io/media/screenshots/b60/b6055218fbd7e0ed0b7f2bb9ef4bcd1f.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/survival-in-the-backrooms"
+  },
+  "Space Rogue Classic": {
+    "genres": [
+      "Action",
+      "RPG",
+      "Simulation"
+    ],
+    "release_year": 1988,
+    "image_url": "https://media.rawg.io/media/screenshots/d46/d4665222f2acbcbe884e38e98e68312b.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/space-rogue-classic"
+  },
+  "Dungeon Siege II": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "Cleaning Queens": {
+    "genres": [
+      "Adventure",
+      "Casual",
+      "Indie"
+    ],
+    "release_year": 2023,
+    "image_url": "https://media.rawg.io/media/screenshots/242/2424a505d337b5208a8b26ec784fa822.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/cleaning-queens"
+  },
+  "THE KING OF FIGHTERS XV - DLC CHARACTERS \"MATURE ＆ VICE\"": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "Space Hulk: Deathwing - Enhanced Edition": {
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "release_year": 2018,
+    "image_url": "https://media.rawg.io/media/screenshots/af9/af9ed0baec95fcb0ff654b5f21acf20f.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/space-hulk-deathwing-enhanced-edition"
+  },
+  "Battlestations: Midway": {
+    "genres": [
+      "Action",
+      "Strategy"
+    ],
+    "release_year": 2007,
+    "image_url": "https://media.rawg.io/media/screenshots/123/123745b2adbd3cbc7c8e41fc839230dd.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/battlestations-midway"
+  },
+  "Cake for Electrician": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "SONIC X SHADOW GENERATIONS Digital Deluxe Edition": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "Solo Flight": {
+    "genres": [
+      "Simulation"
+    ],
+    "release_year": 1983,
+    "image_url": "https://media.rawg.io/media/screenshots/395/395f4bceccc80845639d8b82110b83ae.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/solo-flight"
+  },
+  "Monday Syndrome": {
+    "genres": [
+      "Action",
+      "Adventure",
+      "Casual",
+      "Indie",
+      "RPG",
+      "Simulation"
+    ],
+    "release_year": 2026,
+    "image_url": "https://media.rawg.io/media/screenshots/b36/b361fcbaae8a2e9618a7a276bd3e9bd9.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/monday-syndrome"
+  },
+  "Bombslinger": {
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie"
+    ],
+    "release_year": 2016,
+    "image_url": "https://media.rawg.io/media/screenshots/e5f/e5f8ca858915261aa46f372eb138e078.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/bombslinger"
+  },
+  "Star Wars Outlaws Ultimate Edition": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "Shadow Ops - Red Mercury": {
+    "genres": [
+      "Action"
+    ],
+    "release_year": 2004,
+    "image_url": "https://media.rawg.io/media/screenshots/470/4707a158debd22e1b0f8808a8ca8c871.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/shadow-ops-red-mercury"
+  },
+  "Mortal Kombat: Elder God Bundle": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "Blue Estate The Game": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "CYGNI: All Guns Blazing Digital Deluxe Edition": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "Scarlet Hood and the Wicked Wood": {
+    "genres": [
+      "Adventure",
+      "Indie"
+    ],
+    "release_year": 2021,
+    "image_url": "https://media.rawg.io/media/screenshots/078/0786762dfc194d4ed5847b8698b95cda.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/scarlet-hood-and-the-wicked-wood"
+  },
+  "Totally Reliable Delivery Service Stunt Sets": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "The Adventures of Capitano Navarro": {
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie",
+      "RPG"
+    ],
+    "release_year": 2017,
+    "image_url": "https://media.rawg.io/media/screenshots/032/032794afa7da0ff25ded2fef36725565.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/the-adventures-of-capitano-navarro"
+  },
+  "Thymesia - Digital Deluxe Edition": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "Sanctuary RPG: Black Edition": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "Totally Reliable Delivery Service Dress Code": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "Baking Lessons": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "CONSCRIPT Officer Edition": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "Rex Nebular & The Cosmic Gender Bender": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "Possessor(s)": {
+    "genres": [
+      "Action",
+      "Adventure",
+      "Platformer"
+    ],
+    "release_year": 2025,
+    "image_url": "https://media.rawg.io/media/games/eee/eee77ebd67eb7342459df19d52c53389.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/possessors"
+  },
+  "Electric Lesson": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "F1® Manager 2024 Deluxe Edition": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "Redline": {
+    "genres": [
+      "Action",
+      "Racing",
+      "Shooter"
+    ],
+    "release_year": 1999,
+    "image_url": "https://media.rawg.io/media/screenshots/261/26119aeb4aa06dad6efd727c25d4ac2d.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/redline"
+  },
+  "Heck Deck": {
+    "genres": [
+      "Card",
+      "Casual",
+      "Indie"
+    ],
+    "release_year": 2022,
+    "image_url": "https://media.rawg.io/media/screenshots/61f/61f17d2fe7ef7b05ab3dfbbcaf0cb2b6.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/heck-deck-2"
+  },
+  "Lesson about Journey": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "Terra Memoria - Deluxe Edition": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "Othercide®": {
+    "genres": [
+      "Indie",
+      "Strategy"
+    ],
+    "release_year": 2020,
+    "image_url": "https://media.rawg.io/media/games/2fa/2fae0a98d0ced8f15ccdd6c02f253fd8.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/othercide"
+  },
+  "The Dungeon Of Naheulbeuk - Splat Jaypak's Arenas": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "Slice Dice & Rice": {
+    "genres": [
+      "Action",
+      "Fighting"
+    ],
+    "release_year": 2017,
+    "image_url": "https://media.rawg.io/media/screenshots/739/7393f23d69fd5551957e1dac986fd001.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/slice-dice-rice"
+  },
+  "Flintlock: The Siege of Dawn - Deluxe Edition": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "Operation Wolf Returns: First Mission": {
+    "genres": [],
+    "release_year": null,
+    "image_url": "https://media.rawg.io/media/screenshots/562/562f160eaa0c19c5739ba82fc8241a3d.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/operation-wolf-returns-first-mission"
+  },
+  "Looking for Aliens": {
+    "genres": [
+      "Adventure",
+      "Casual",
+      "Indie"
+    ],
+    "release_year": 2021,
+    "image_url": "https://media.rawg.io/media/screenshots/98e/98e198d2826b06d1eaf66e8575966a25.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/looking-for-aliens"
+  },
+  "Slashvival": {
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie",
+      "RPG"
+    ],
+    "release_year": 2019,
+    "image_url": "https://media.rawg.io/media/screenshots/edd/edd7679dcdcfbe6ff6cc23c781ff2dea.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/slashvival"
+  },
+  "Truck": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "No Son Of Mine": {
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "release_year": 2023,
+    "image_url": "https://media.rawg.io/media/screenshots/51e/51e38fad808435687dc71a73ae9c62b4.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/no-son-of-mine"
+  },
+  "Pendula Swing - The Complete Journey": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "Professional Fishing Starter Bundle": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "Eiyuden Chronicle: Hundred Heroes - Digital Deluxe Edition": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "New Joe & Mac - Caveman Ninja": {
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "release_year": 2022,
+    "image_url": "https://media.rawg.io/media/screenshots/b67/b67fc1603006c789cdaa45ff489f5c02.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/new-joe-mac-caveman-ninja"
+  },
+  "Midvinter": {
+    "genres": [
+      "Adventure",
+      "Indie"
+    ],
+    "release_year": 2016,
+    "image_url": "https://media.rawg.io/media/screenshots/1ce/1ce2d7e4ee33bc463b3632f3a1516d5a.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/midvinter"
+  },
+  "Plane Mechanic on Frigato": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "Fallout 4 Game of the Year Edition": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "Neverwinter Nights: Enhanced Edition Digital Deluxe Edition": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "Moonglow Bay": {
+    "genres": [
+      "Action",
+      "Adventure",
+      "Casual",
+      "Indie",
+      "RPG"
+    ],
+    "release_year": 2021,
+    "image_url": "https://media.rawg.io/media/screenshots/674/6740ddd051de766ebd3e34d1cb5e1a65.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/moonglow-bay"
+  },
+  "Plane Mechanic and Forest Ranger": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "Midnight Ghost Hunt - Deluxe Edition": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "NeverSynth": {
+    "genres": [
+      "Action",
+      "Indie",
+      "Racing",
+      "Sports"
+    ],
+    "release_year": 2022,
+    "image_url": "https://media.rawg.io/media/screenshots/7a5/7a5deb030f4aad4b846ed0e6fea1adfc.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/neversynth"
+  },
+  "Dungeon Siege Collection": {
+    "genres": [],
+    "release_year": 2011,
+    "image_url": "https://media.rawg.io/media/screenshots/2b4/2b45d58f5bf9de9cb3da26d78ee190ea.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/dungeon-siege-collection"
+  },
+  "Onyx": {
+    "genres": [
+      "Adventure",
+      "Casual",
+      "Indie",
+      "RPG",
+      "Simulation"
+    ],
+    "release_year": 2017,
+    "image_url": "https://media.rawg.io/media/screenshots/fe8/fe8440b5dda21bdc5161a4318314d93d.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/onyx"
+  },
+  "Space Elite Force II": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "Moto Racer 3 Gold Edition": {
+    "genres": [
+      "Arcade",
+      "Racing"
+    ],
+    "release_year": 2002,
+    "image_url": "https://media.rawg.io/media/games/f2f/f2fdc4c16129ec0a594955d558098d1f.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/moto-racer-3-gold-edition"
+  },
+  "Omikron: The Nomad Soul": {
+    "genres": [
+      "Action",
+      "Adventure",
+      "RPG"
+    ],
+    "release_year": 1999,
+    "image_url": "https://media.rawg.io/media/screenshots/f8e/f8ed683b124312b8e5ea1aecb86bb780.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/omikron-the-nomad-soul"
+  },
+  "OH! RPG!": {
+    "genres": [
+      "Adventure",
+      "Casual",
+      "Indie",
+      "RPG",
+      "Strategy"
+    ],
+    "release_year": 2015,
+    "image_url": "https://media.rawg.io/media/screenshots/de6/de6fda0a03b67acd60f58e052dc3d8bf.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/oh-rpg"
+  },
+  "Ultros Deluxe Edition": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "Moto Racer 2": {
+    "genres": [
+      "Action",
+      "Racing"
+    ],
+    "release_year": 1998,
+    "image_url": "https://media.rawg.io/media/screenshots/eb3/eb3cc599602e51ab6949b36ca95891b5.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/moto-racer-2"
+  },
+  "Just Cause™ 3": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "The Oathkeeper": {
+    "genres": [
+      "Indie",
+      "RPG"
+    ],
+    "release_year": 2022,
+    "image_url": "https://media.rawg.io/media/screenshots/6e4/6e488a364e2f1459501bfce9076b5b42.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/the-oathkeeper"
+  },
+  "Far Cry Primal Apex Edition": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "The Moto Racer Collection": {
+    "genres": [],
+    "release_year": null,
+    "image_url": "https://media.rawg.io/media/screenshots/dd4/dd4628b95750c52891e5750235093088.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/the-moto-racer-collection"
+  },
+  "BALAN WONDERWORLD": {
+    "genres": [
+      "Action"
+    ],
+    "release_year": 2021,
+    "image_url": "https://media.rawg.io/media/games/f17/f17cb19c5e9b30e378e5f9ba1cc74df3.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/balan-wonderworld"
+  },
+  "The New Queen": {
+    "genres": [
+      "Adventure",
+      "Casual",
+      "Indie",
+      "RPG"
+    ],
+    "release_year": 2017,
+    "image_url": "https://media.rawg.io/media/screenshots/911/91118f5cb5fae4cb7e5a6aae2460dc2a.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/the-new-queen"
+  },
+  "Explorers Edition": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "Metal Fatigue": {
+    "genres": [
+      "Strategy"
+    ],
+    "release_year": 2000,
+    "image_url": "https://media.rawg.io/media/screenshots/132/132132a8f27c0a25c05223a19c86a51f.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/metal-fatigue"
+  },
+  "Life is Strange Complete Season (Episodes 1-5)": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "NationWar:Chronicle": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "Assassin's Creed Syndicate Gold Edition": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
   }
 }
