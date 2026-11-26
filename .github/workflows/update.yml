@@ -20,7 +20,7 @@ jobs:
       - name: Coletar ofertas
         env:
           ITAD_API_KEY: ${{ secrets.ITAD_API_KEY }}
-        run: python collect.py
+        run: python collect.py ${{ github.event_name == 'push' && '--interest-only' || '' }}
       - name: Enriquecer gêneros e anos (RAWG opcional)
         env:
           RAWG_API_KEY: ${{ secrets.RAWG_API_KEY }}

@@ -172,6 +172,21 @@ label { display: inline-flex; align-items: center; gap: 6px; }
   <p id="editorial-message">A primeira seleção do quadro <strong>Vale a Oferta?</strong> será publicada aqui junto com o episódio.</p>
   <div id="editorial-picks" class="grid" hidden></div>
 </section>
+<section class="panel" aria-labelledby="popular-heading">
+  <div class="section-head"><h2 id="popular-heading">Populares em promoção</h2></div>
+  <p class="notice">Jogos entre os mais populares e desejados no IsThereAnyDeal. Menor preço disponível por título.</p>
+  <div id="popular-deals" class="grid"></div>
+</section>
+<section class="panel" aria-labelledby="recent-heading">
+  <h2 id="recent-heading">Lançamentos em oferta</h2>
+  <p class="notice">Jogos lançados neste ano ou no anterior, conforme os anos disponíveis no catálogo.</p>
+  <div id="recent-deals" class="grid"></div>
+</section>
+<section class="panel" id="watch-section" aria-labelledby="watch-heading" hidden>
+  <h2 id="watch-heading">Jogos para acompanhar</h2>
+  <p class="notice">Entre os mais desejados no IsThereAnyDeal, com nenhuma oferta no catálogo atual.</p>
+  <ul id="watch-games"></ul>
+</section>
 <section id="ofertas" tabindex="-1" aria-labelledby="ofertas-heading">
 <h2 id="ofertas-heading">Ofertas de PC</h2>
 <div class="stats"><div class="stat"><strong id="total">—</strong><span>Ofertas coletadas</span></div><div class="stat"><strong id="free">—</strong><span>Jogos gratuitos</span></div><div class="stat"><strong id="best">—</strong><span>Maior desconto</span></div></div>
@@ -287,6 +302,7 @@ function toggleFavorite(title) {
     saveFavorites();
     renderFavorites();
     renderEditorial();
+    renderHighlights();
     render();
 }
 
@@ -423,6 +439,40 @@ pageSize.addEventListener('change', resetPage);
 previousPage.addEventListener('click', () => changePage(-1));
 nextPage.addEventListener('click', () => changePage(1));
 
+function highlightScore(deal) {
+    const interest = Math.max(
+        deal.popularity_rank ? (101 - deal.popularity_rank) / 100 : 0,
+        deal.wishlist_rank ? (101 - deal.wishlist_rank) / 100 : 0
+    );
+    return interest * 100 + (deal.featured ? 10 : 0) + Math.min(deal.discount || 0, 100) / 10;
+}
+
+function renderHighlights() {
+    const best = new Map();
+    const now = Date.now();
+    for (const deal of deals) {
+        if (deal.game_type !== 'game' || !(deal.discount > 0 || deal.price === 0) ||
+            Date.parse(deal.expires_at) <= now) continue;
+        const key = deal.id || gameKey(deal.title);
+        if (!best.has(key) || deal.price < best.get(key).price) best.set(key, deal);
+    }
+    const unique = [...best.values()];
+    const popular = unique.filter(deal => deal.popularity_rank || deal.wishlist_rank)
+        .sort((a, b) => highlightScore(b) - highlightScore(a));
+    const recent = unique.filter(deal => deal.release_year >= new Date().getFullYear() - 1)
+        .sort((a, b) => b.release_year - a.release_year || highlightScore(b) - highlightScore(a));
+    for (const [id, rows] of [['popular-deals', popular], ['recent-deals', recent]]) {
+        const grid = document.getElementById(id);
+        grid.replaceChildren(...rows.slice(0, 6).map(createDealCard));
+        if (!rows.length) {
+            const empty = document.createElement('p');
+            empty.className = 'notice';
+            empty.textContent = catalogLoaded ? 'Nenhuma oferta disponível nesta seleção.' : 'Carregando ofertas…';
+            grid.append(empty);
+        }
+    }
+}
+
 function render(){
 const q=document.querySelector('#search').value.toLowerCase(),s=document.querySelector('#store').value,f=document.querySelector('#filter').value,sort=document.querySelector('#sort').value;
 const genre=document.querySelector('#genre').value,year=document.querySelector('#year').value;
@@ -431,9 +481,7 @@ const keys = new Set(favorites.map(favorite => favorite.key));
 const filtered=deals.filter(d=>(!favoritesOnly || keys.has(gameKey(d.title)))&&(!genre||(Array.isArray(d.genres)&&d.genres.includes(genre)))&&(!year||String(d.release_year||'')===year)&&(!q||d.title.toLowerCase().includes(q))&&(!s||d.store===s)&&(!f||(f==='free'&&d.price===0)||(f==='budget'&&d.price>0&&d.price<=30)||(f==='discount'&&d.discount>=70)||(f==='historical'&&d.historical_low===true)||(f==='coupon'&&d.coupon)));
 filtered.sort((a, b) => {
     if (sort === 'featured') {
-        return Number(Boolean(b.featured)) - Number(Boolean(a.featured)) ||
-            Number(a.game_type === 'package') - Number(b.game_type === 'package') ||
-            b.discount - a.discount;
+        return highlightScore(b) - highlightScore(a) || b.discount - a.discount;
     }
     if (sort === 'price') return a.price - b.price;
     if (sort === 'recent') {
@@ -608,12 +656,34 @@ window.addEventListener('storage', event => {
 });
 renderFavorites();
 
+function renderWatchGames(games) {
+    const list = document.querySelector('#watch-games');
+    list.replaceChildren();
+    for (const game of games) {
+        const row = document.createElement('li');
+        const title = document.createElement('span');
+        title.textContent = game.title;
+        const button = document.createElement('button');
+        button.type = 'button';
+        button.textContent = 'Acompanhar';
+        button.addEventListener('click', () => {
+            document.querySelector('#favorite-title').value = game.title;
+            document.querySelector('#favorite-title').focus();
+            document.querySelector('#favoritos').scrollIntoView({behavior: 'auto'});
+        });
+        row.append(title, button);
+        list.append(row);
+    }
+    document.querySelector('#watch-section').hidden = games.length === 0;
+}
+renderHighlights();
+
 let refreshing = false;
 let catalogVersion;
 function refreshCatalog() {
 if (refreshing) return;
 refreshing = true;
-fetch('./deals.json?ts='+Date.now(),{cache:'no-store'}).then(r=>{if(!r.ok)throw Error('HTTP '+r.status);return r.json()}).then(data=>{if(!Array.isArray(data.deals))throw Error('Catálogo inválido');if(catalogLoaded && data.updated_at && data.updated_at===catalogVersion){renderFavorites();renderEditorial();return;}catalogVersion=data.updated_at;deals=data.deals;catalogLoaded=true;const before=JSON.stringify(favorites);checkAlerts(favorites, activePromotions(deals));if(JSON.stringify(favorites)!==before)saveFavorites();renderFavorites();renderEditorial();const genres=[...new Set(deals.flatMap(d=>Array.isArray(d.genres)?d.genres:[]))].sort((a,b)=>a.localeCompare(b,'pt-BR'));const years=[...new Set(deals.map(d=>d.release_year).filter(Boolean))].sort((a,b)=>b-a);for(const [id,values] of [['genre',genres],['year',years]]){const select=document.getElementById(id);const selected=select.value;select.length=1;select.disabled=!values.length;select.title='';for(const value of values){const option=document.createElement('option');option.value=String(value);option.textContent=String(value);select.append(option)}if(values.some(value=>String(value)===selected))select.value=selected;if(!values.length){select.disabled=true;select.title='Aguardando integração de metadados de jogos';}}document.querySelector('#total').textContent=deals.length;document.querySelector('#free').textContent=deals.filter(d=>d.price===0).length;document.querySelector('#best').textContent=deals.length?Math.max(...deals.map(d=>d.discount||0))+'%':'—';document.querySelector('#updated').textContent=data.updated_at?'Última coleta: '+new Date(data.updated_at).toLocaleString('pt-BR',{timeZone:'America/Sao_Paulo'}):'Aguardando primeira coleta real';render()}).catch(e=>{document.querySelector('#updated').textContent='Falha ao carregar ofertas: '+e.message;render()}).finally(()=>{refreshing=false;});
+fetch('./deals.json?ts='+Date.now(),{cache:'no-store'}).then(r=>{if(!r.ok)throw Error('HTTP '+r.status);return r.json()}).then(data=>{if(!Array.isArray(data.deals))throw Error('Catálogo inválido');if(catalogLoaded && data.updated_at && data.updated_at===catalogVersion){renderFavorites();renderEditorial();renderHighlights();return;}catalogVersion=data.updated_at;deals=data.deals;catalogLoaded=true;renderHighlights();renderWatchGames(data.watch_games || []);const before=JSON.stringify(favorites);checkAlerts(favorites, activePromotions(deals));if(JSON.stringify(favorites)!==before)saveFavorites();renderFavorites();renderEditorial();const genres=[...new Set(deals.flatMap(d=>Array.isArray(d.genres)?d.genres:[]))].sort((a,b)=>a.localeCompare(b,'pt-BR'));const years=[...new Set(deals.map(d=>d.release_year).filter(Boolean))].sort((a,b)=>b-a);for(const [id,values] of [['genre',genres],['year',years]]){const select=document.getElementById(id);const selected=select.value;select.length=1;select.disabled=!values.length;select.title='';for(const value of values){const option=document.createElement('option');option.value=String(value);option.textContent=String(value);select.append(option)}if(values.some(value=>String(value)===selected))select.value=selected;if(!values.length){select.disabled=true;select.title='Aguardando integração de metadados de jogos';}}document.querySelector('#total').textContent=deals.length;document.querySelector('#free').textContent=deals.filter(d=>d.price===0).length;document.querySelector('#best').textContent=deals.length?Math.max(...deals.map(d=>d.discount||0))+'%':'—';document.querySelector('#updated').textContent=data.updated_at?'Ofertas de interesse atualizadas: '+new Date(data.updated_at).toLocaleString('pt-BR',{timeZone:'America/Sao_Paulo'}):'Aguardando primeira coleta real';render()}).catch(e=>{document.querySelector('#updated').textContent='Falha ao carregar ofertas: '+e.message;render()}).finally(()=>{refreshing=false;});
 }
 refreshCatalog();
 setInterval(()=>{if(!document.hidden)refreshCatalog();}, 5 * 60 * 1000);

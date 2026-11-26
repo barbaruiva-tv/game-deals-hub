@@ -1,4 +1,5 @@
 """Coleta ofertas de PC com preços regionais brasileiros via IsThereAnyDeal."""
+import argparse
 import datetime
 import json
 import os
@@ -9,7 +10,14 @@ from urllib.parse import urlencode
 from urllib.request import Request, urlopen
 from urllib.error import HTTPError
 
+parser = argparse.ArgumentParser()
+parser.add_argument("--interest-only", action="store_true")
+args = parser.parse_args()
 BASE = Path(__file__).parent
+previous = {}
+if args.interest_only:
+    previous = json.loads(BASE.joinpath("deals.json").read_text(encoding="utf-8"))
+
 key = os.environ.get("ITAD_API_KEY")
 if not key:
     raise SystemExit("Configure o segredo ITAD_API_KEY no GitHub Actions.")
@@ -90,21 +98,46 @@ for title, game_id in identified.items():
     if not game_id:
         print("Título monitorado não identificado:", title)
 
-def collect_priority():
-    if not priority_ids:
-        return
-    prices = get_json(
-        "games/prices/v3", body=sorted(priority_ids), country="BR",
-        shops=",".join(map(str, stores_by_id)), deals="true",
-    )
-    for game in prices:
-        info = get_json("games/info/v2", id=game["id"])
-        for offer in game["deals"]:
-            yield {**info, "id": game["id"], "deal": offer}
+popular_games = get_json("stats/most-popular/v1", limit=100)
+wanted_games = get_json("stats/most-waitlisted/v1", limit=100)
+popular_rank = {game["id"]: game["position"] for game in popular_games}
+wanted_rank = {game["id"]: game["position"] for game in wanted_games}
+ranked_games = {game["id"]: game for game in [*popular_games, *wanted_games]}
 
-deals = []
-seen = set()
-for entries in [collect_priority(), *(collect_pages([shop_id]) for shop_id in stores_by_id)]:
+def collect_interest():
+    tracked_ids = sorted(priority_ids | ranked_games.keys())
+    for start in range(0, len(tracked_ids), 200):
+        prices = get_json(
+            "games/prices/v3", body=tracked_ids[start:start + 200], country="BR",
+            shops=",".join(map(str, stores_by_id)), deals="true",
+        )
+        for game in prices:
+            if not game["deals"]:
+                continue
+            known = next((deal for deal in previous.get("deals", []) if deal.get("id") == game["id"]), None)
+            info = (
+                {"title": known["title"], "type": known.get("game_type"),
+                 "assets": {"banner400": known.get("cover_url")}}
+                if known else get_json("games/info/v2", id=game["id"])
+            )
+            for offer in game["deals"]:
+                yield {**info, "id": game["id"], "deal": offer}
+
+deals_by_store = {
+    (deal["id"], deal["store"]): {
+        **deal,
+        "featured": deal["id"] in priority_ids,
+        "popularity_rank": popular_rank.get(deal["id"]),
+        "wishlist_rank": wanted_rank.get(deal["id"]),
+    }
+    for deal in previous.get("deals", []) if deal.get("id")
+}
+# Remove preços antigos dos títulos consultados diretamente antes de substituí-los.
+tracked_ids = priority_ids | ranked_games.keys()
+if args.interest_only:
+    deals_by_store = {key: deal for key, deal in deals_by_store.items() if key[0] not in tracked_ids}
+feeds = [] if args.interest_only else [collect_pages([shop_id]) for shop_id in stores_by_id]
+for entries in [*feeds, collect_interest()]:
     for entry in entries:
         deal = entry.get("deal") or {}
         shop_id = (deal.get("shop") or {}).get("id")
@@ -116,18 +149,17 @@ for entries in [collect_priority(), *(collect_pages([shop_id]) for shop_id in st
         if not isinstance(amount, (int, float)):
             continue
         identity = (entry["id"], store)
-        if identity in seen:
-            continue
-        seen.add(identity)
         assets = entry.get("assets") or {}
         cover_url = next(
             (assets[size] for size in ("banner400", "banner600", "banner300", "banner145", "boxart")
              if isinstance(assets.get(size), str) and assets[size].startswith("https://")),
             None,
         )
-        deals.append({
+        deals_by_store[identity] = {
             "id": entry["id"],
             "featured": entry["id"] in priority_ids,
+            "popularity_rank": popular_rank.get(entry["id"]),
+            "wishlist_rank": wanted_rank.get(entry["id"]),
             "title": entry.get("title") or "Sem título",
             "game_type": entry.get("type"),
             "store": store,
@@ -139,13 +171,22 @@ for entries in [collect_priority(), *(collect_pages([shop_id]) for shop_id in st
             "cover_url": cover_url,
             "historical_low": False,
             "coupon": None,
-        })
+        }
+
+deals = list(deals_by_store.values())
+on_sale_ids = {deal["id"] for deal in deals}
+watch_games = [
+    {"title": game["title"], "url": "https://isthereanydeal.com/game/" + game["slug"] + "/info/"}
+    for game in wanted_games if game["id"] not in on_sale_ids and game.get("type") == "game"
+][:6]
 
 output = {
     "updated_at": datetime.datetime.now(datetime.timezone.utc).isoformat(),
     "source": "IsThereAnyDeal",
     "country": "BR",
     "deals": deals,
+    "watch_games": watch_games,
+    "catalog_updated_at": previous.get("catalog_updated_at", previous.get("updated_at")) if args.interest_only else datetime.datetime.now(datetime.timezone.utc).isoformat(),
 }
 Path(__file__).with_name("deals.json").write_text(
     json.dumps(output, ensure_ascii=False, indent=2), encoding="utf-8"

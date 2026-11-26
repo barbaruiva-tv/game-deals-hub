@@ -31,3 +31,11 @@ O site usa o menor preço ativo disponível no catálogo. Se a oferta acabar, a 
 A coleta percorre as ofertas de cada loja até o fim do feed. A lista `priority-games.json` recebe consultas diretas de preços brasileiros em cada execução. Títulos sem identificação são registrados nos logs. O catálogo reúne as ofertas por jogo e loja.
 
 A ordenação “Em destaque” prioriza os jogos monitorados, depois jogos fora de pacotes e o desconto. Essa ordem é curadoria inicial e não representa uma medida de popularidade. Para acrescentar jogos, use o título reconhecido pelo IsThereAnyDeal em `priority-games.json`.
+
+## Destaques automáticos
+
+A coleta cruza os 100 jogos mais populares e os 100 mais desejados no IsThereAnyDeal com preços brasileiros das lojas acompanhadas. Popularidade nessa fonte considera jogos nas coleções e listas de desejos dos usuários. A pontuação usa o melhor dos dois rankings com peso principal, a lista editorial com um bônus menor e o desconto como complemento.
+
+Os blocos da página inicial exibem até seis títulos por seção e escolhem o menor preço ativo de cada jogo. Lançamentos em oferta usam o ano atual e o anterior nos metadados disponíveis. Jogos desejados sem oferta no catálogo aparecem na área de acompanhamento.
+
+Alterações no coletor ou na lista editorial atualizam os preços dos títulos de interesse sobre o catálogo existente. As duas coletas agendadas percorrem todas as lojas. O campo `catalog_updated_at` preserva o horário da última varredura completa.
