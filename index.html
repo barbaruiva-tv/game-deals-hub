@@ -447,6 +447,19 @@ function highlightScore(deal) {
     return interest * 100 + (deal.featured ? 10 : 0) + Math.min(deal.discount || 0, 100) / 10;
 }
 
+function cheapestPerGame(rows) {
+    const best = new Map();
+    for (const deal of rows) {
+        const key = deal.id || gameKey(deal.title);
+        const current = best.get(key);
+        if (!current || deal.price < current.price ||
+            (deal.price === current.price && deal.discount > current.discount)) {
+            best.set(key, deal);
+        }
+    }
+    return [...best.values()];
+}
+
 function renderHighlights() {
     const best = new Map();
     const now = Date.now();
@@ -459,7 +472,8 @@ function renderHighlights() {
     const unique = [...best.values()];
     const popular = unique.filter(deal => deal.popularity_rank || deal.wishlist_rank)
         .sort((a, b) => highlightScore(b) - highlightScore(a));
-    const recent = unique.filter(deal => deal.release_year >= new Date().getFullYear() - 1)
+    const popularIds = new Set(popular.slice(0, 6).map(deal => deal.id || gameKey(deal.title)));
+    const recent = unique.filter(deal => !popularIds.has(deal.id || gameKey(deal.title)) && deal.release_year >= new Date().getFullYear() - 1)
         .sort((a, b) => b.release_year - a.release_year || highlightScore(b) - highlightScore(a));
     for (const [id, rows] of [['popular-deals', popular], ['recent-deals', recent]]) {
         const grid = document.getElementById(id);
@@ -478,7 +492,9 @@ const q=document.querySelector('#search').value.toLowerCase(),s=document.querySe
 const genre=document.querySelector('#genre').value,year=document.querySelector('#year').value;
 const favoritesOnly = document.querySelector('#favorites-only').checked;
 const keys = new Set(favorites.map(favorite => favorite.key));
-const filtered=deals.filter(d=>(!favoritesOnly || keys.has(gameKey(d.title)))&&(!genre||(Array.isArray(d.genres)&&d.genres.includes(genre)))&&(!year||String(d.release_year||'')===year)&&(!q||d.title.toLowerCase().includes(q))&&(!s||d.store===s)&&(!f||(f==='free'&&d.price===0)||(f==='budget'&&d.price>0&&d.price<=30)||(f==='discount'&&d.discount>=70)||(f==='historical'&&d.historical_low===true)||(f==='coupon'&&d.coupon)));
+let filtered=deals.filter(d=>(!favoritesOnly || keys.has(gameKey(d.title)))&&(!genre||(Array.isArray(d.genres)&&d.genres.includes(genre)))&&(!year||String(d.release_year||'')===year)&&(!q||d.title.toLowerCase().includes(q))&&(!s||d.store===s)&&(!f||(f==='free'&&d.price===0)||(f==='budget'&&d.price>0&&d.price<=30)||(f==='discount'&&d.discount>=70)||(f==='historical'&&d.historical_low===true)||(f==='coupon'&&d.coupon)));
+// A loja selecionada restringe as ofertas antes de escolher o menor preço.
+filtered = cheapestPerGame(filtered);
 filtered.sort((a, b) => {
     if (sort === 'featured') {
         return highlightScore(b) - highlightScore(a) || b.discount - a.discount;
