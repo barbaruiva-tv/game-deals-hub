@@ -14835,5 +14835,798 @@
     "genres": [],
     "release_year": null,
     "status": "unmatched"
+  },
+  "The Council - Complete Season": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "Altf42": {
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie"
+    ],
+    "release_year": 2023,
+    "image_url": "https://media.rawg.io/media/screenshots/b52/b52879d185a829506bd53ba7ff511742.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/altf42"
+  },
+  "Archaeology - Egypt": {
+    "genres": [
+      "Action",
+      "Adventure",
+      "Casual",
+      "Indie",
+      "RPG",
+      "Racing",
+      "Simulation",
+      "Sports",
+      "Strategy"
+    ],
+    "release_year": 2024,
+    "image_url": "https://media.rawg.io/media/screenshots/d11/d11449b81aab30c2d7e5003b2ad4d33f.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/archaeology-egypt"
+  },
+  "Totally Reliable Delivery Service Cyberfunk": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "Colt Canyon": {
+    "genres": [
+      "Action",
+      "Indie"
+    ],
+    "release_year": 2020,
+    "image_url": "https://media.rawg.io/media/screenshots/e28/e283bf6d6bfeb6bddba82edf7a311f1a.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/colt-canyon"
+  },
+  "What the Duck": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "New october 2024 sale 90%": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "Killing Floor 2": {
+    "genres": [
+      "Action"
+    ],
+    "release_year": 2016,
+    "image_url": "https://media.rawg.io/media/games/192/1921ec949024a5fbd1e1c7008f54b5af.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/killing-floor-2"
+  },
+  "Sid Meier's Colonization (Classic)": {
+    "genres": [
+      "Adventure",
+      "Simulation"
+    ],
+    "release_year": 2014,
+    "image_url": "https://media.rawg.io/media/screenshots/1f9/1f911a50ef57c956862ec423520268ab.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/sid-meiers-colonization-classic"
+  },
+  "PHOGS!": {
+    "genres": [
+      "Adventure",
+      "Casual",
+      "Indie",
+      "Platformer",
+      "Puzzle"
+    ],
+    "release_year": 2020,
+    "image_url": "https://media.rawg.io/media/games/38f/38fb7bb56f3fbb78444a7e7cf9aaeb8d.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/phogs"
+  },
+  "Hidden Space Station Top-Down 3D": {
+    "genres": [
+      "Action",
+      "Adventure",
+      "Casual",
+      "Indie",
+      "RPG",
+      "Simulation",
+      "Sports",
+      "Strategy"
+    ],
+    "release_year": 2024,
+    "image_url": "https://media.rawg.io/media/screenshots/12c/12cb76e5d960e4b056b0f4715721125f.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/hidden-space-station-top-down-3d"
+  },
+  "AWE: Expansion 2": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "Clunky Hero": {
+    "genres": [
+      "Action",
+      "Adventure",
+      "Casual",
+      "Indie",
+      "Platformer",
+      "RPG"
+    ],
+    "release_year": 2020,
+    "image_url": "https://media.rawg.io/media/screenshots/766/7665cffbce77c7481f8cc0e22a8c17f1.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/clunky-hero"
+  },
+  "Beholder 2": {
+    "genres": [
+      "Adventure",
+      "Indie",
+      "Simulation",
+      "Strategy"
+    ],
+    "release_year": 2018,
+    "image_url": "https://media.rawg.io/media/games/05e/05e938bd5870afa289ced252d3103a1b.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/beholder-2"
+  },
+  "3D PUZZLE - Gas Station": {
+    "genres": [
+      "Action",
+      "Adventure",
+      "Casual",
+      "Indie",
+      "RPG",
+      "Racing",
+      "Simulation",
+      "Sports",
+      "Strategy"
+    ],
+    "release_year": 2024,
+    "image_url": "https://media.rawg.io/media/screenshots/ce6/ce6eacca76685ebf02571d92b5ed8977.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/3d-puzzle-gas-station"
+  },
+  "Surgeon Simulator 2": {
+    "genres": [
+      "Action",
+      "Casual",
+      "Indie",
+      "Simulation"
+    ],
+    "release_year": 2020,
+    "image_url": "https://media.rawg.io/media/games/d80/d80d9a16e44937b66ab725735537e2ef.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/surgeon-simulator-2"
+  },
+  "The Cat Lady": {
+    "genres": [
+      "Adventure",
+      "Indie"
+    ],
+    "release_year": 2012,
+    "image_url": "https://media.rawg.io/media/screenshots/22d/22dffeba4c72db594361d62f6b282c2b.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/the-cat-lady"
+  },
+  "Do Not Feed the Monkeys": {
+    "genres": [
+      "Adventure",
+      "Indie",
+      "Puzzle",
+      "Simulation",
+      "Strategy"
+    ],
+    "release_year": 2018,
+    "image_url": "https://media.rawg.io/media/screenshots/cef/cef4e36ef6ecf82f9e36e32fb0f9c612.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/do-not-feed-the-monkeys"
+  },
+  "Archaeology - FROZEN WALL": {
+    "genres": [
+      "Action",
+      "Adventure",
+      "Casual",
+      "Indie",
+      "RPG",
+      "Racing",
+      "Simulation",
+      "Sports",
+      "Strategy"
+    ],
+    "release_year": null,
+    "image_url": "https://media.rawg.io/media/screenshots/f11/f115fef46d5cfeaf28dd149af0092724.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/archaeology-frozen-wall"
+  },
+  "WRC 9 FIA World Rally Championship": {
+    "genres": [
+      "Racing",
+      "Simulation",
+      "Sports"
+    ],
+    "release_year": 2020,
+    "image_url": "https://media.rawg.io/media/games/555/555b41df1e7348328fcac9a3b2c5b653.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/wrc-9"
+  },
+  "Call of Cthulhu: Shadow of the Comet": {
+    "genres": [
+      "Adventure"
+    ],
+    "release_year": 1992,
+    "image_url": "https://media.rawg.io/media/games/a8a/a8ac4b6f134bb78069fc1f6e282de008.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/call-of-cthulhu-shadow-of-the-comet"
+  },
+  "Boreal Blade": {
+    "genres": [
+      "Action",
+      "Fighting"
+    ],
+    "release_year": 2019,
+    "image_url": "https://media.rawg.io/media/screenshots/d5d/d5d3d40f3c4876aa6158c28678e51f6c.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/boreal-blade"
+  },
+  "Archaeology - Medieval": {
+    "genres": [
+      "Action",
+      "Adventure",
+      "Casual",
+      "Indie",
+      "RPG",
+      "Racing",
+      "Simulation",
+      "Sports",
+      "Strategy"
+    ],
+    "release_year": 2024,
+    "image_url": "https://media.rawg.io/media/screenshots/903/903577d4a1221f1f13f5ce4adef336bd.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/archaeology-medieval"
+  },
+  "Control Ultimate Edition": {
+    "genres": [
+      "Action",
+      "Adventure",
+      "Shooter"
+    ],
+    "release_year": 2020,
+    "image_url": "https://media.rawg.io/media/games/a74/a7462cb98ad1ed06f646afd0a5a1454d.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/control-ultimate-edition"
+  },
+  "Bus Driver Simulator": {
+    "genres": [
+      "Simulation"
+    ],
+    "release_year": 2020,
+    "image_url": "https://media.rawg.io/media/screenshots/ac9/ac9b6b5d67c2025abef07f2e24529f8a.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/bus-driver-simulator"
+  },
+  "Shadwen": {
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "release_year": 2016,
+    "image_url": "https://media.rawg.io/media/screenshots/1ec/1ec5b0fbbd461ed5cbf0336df8928d06.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/shadwen"
+  },
+  "Sale 1 oct 2024 92%": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "Deponia - The Complete Journey": {
+    "genres": [
+      "Adventure",
+      "RPG"
+    ],
+    "release_year": 2014,
+    "image_url": "https://media.rawg.io/media/games/99d/99d7fadd2342f575d238a4e1f5c542b6.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/deponia-the-complete-journey"
+  },
+  "Bound By Blades": {
+    "genres": [
+      "Action",
+      "Indie",
+      "RPG"
+    ],
+    "release_year": 2022,
+    "image_url": "https://media.rawg.io/media/games/c91/c9105dc9a2a66299b018cc5ec473b78f.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/bound-by-blades"
+  },
+  "Wall World": {
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie",
+      "Platformer",
+      "Strategy"
+    ],
+    "release_year": 2023,
+    "image_url": "https://media.rawg.io/media/screenshots/e71/e71a8527d9616bdd923e0468ae3c27c2.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/wall-world"
+  },
+  "New Sept 2024 92% Sale Tanks and Puzzles": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "Southeastern High Speed: London - Faversham": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "Bonkies Soundtrack": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "Dr Livingstone, I Presume?": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "Sept 2024 91% Sale 2": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "Rush Hour - Boston Sprinter": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "Bonkies Bananas Bundle": {
+    "genres": [],
+    "release_year": 2021,
+    "image_url": "https://media.rawg.io/media/screenshots/bb1/bb1fe376782486d8eed687d5564190cf.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/bonkies-bananas-bundle"
+  },
+  "Tobla - Divine Path": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "3D PUZZLE - Colonial Graveyard": {
+    "genres": [
+      "Action",
+      "Adventure",
+      "Casual",
+      "Indie",
+      "RPG",
+      "Racing",
+      "Simulation",
+      "Sports",
+      "Strategy"
+    ],
+    "release_year": 2024,
+    "image_url": "https://media.rawg.io/media/screenshots/c85/c85fb4233e451fa58b6aa540d9a9edac.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/3d-puzzle-colonial-graveyard"
+  },
+  "Back 4 Blood Annual Pass": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "Black Future '88": {
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie"
+    ],
+    "release_year": 2019,
+    "image_url": "https://media.rawg.io/media/screenshots/431/431a2b297423a9f3928d2fc99cf96a10.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/black-future-88"
+  },
+  "LEGO® Bricktales": {
+    "genres": [
+      "Adventure",
+      "Casual",
+      "Puzzle",
+      "Simulation"
+    ],
+    "release_year": 2022,
+    "image_url": "https://media.rawg.io/media/games/b6e/b6e61bd8eec75b4ca2bf931d32b9b1d4.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/lego-bricktales"
+  },
+  "Tanks Logic Puzzle": {
+    "genres": [
+      "Action",
+      "Adventure",
+      "Casual",
+      "Indie",
+      "RPG",
+      "Racing",
+      "Simulation",
+      "Sports",
+      "Strategy"
+    ],
+    "release_year": 2024,
+    "image_url": "https://media.rawg.io/media/screenshots/300/30020e4d96ad81b91622966f2cc41662.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/tanks-logic-puzzle"
+  },
+  "CryoFall": {
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie",
+      "Massively Multiplayer",
+      "RPG",
+      "Simulation",
+      "Strategy"
+    ],
+    "release_year": 2019,
+    "image_url": "https://media.rawg.io/media/screenshots/df9/df90b89175ad501eba4c392ebca4a8b0.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/cryofall"
+  },
+  "Battlefleet Gothic: Armada": {
+    "genres": [
+      "Strategy"
+    ],
+    "release_year": 2016,
+    "image_url": "https://media.rawg.io/media/games/b65/b655fbbc1d96a32034b3124b6ee86442.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/battlefleet-gothic-armada"
+  },
+  "Laika: Aged Through Blood": {
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie"
+    ],
+    "release_year": 2023,
+    "image_url": "https://media.rawg.io/media/games/787/7875e4dbb15bcda66a4a5f47e22b8254.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/laika-aged-through-blood"
+  },
+  "SALE 92% Sept 2024 Many Games": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "Fall of Light: Darkest Edition": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "Bad Mojo Redux": {
+    "genres": [
+      "Adventure",
+      "Puzzle",
+      "Simulation"
+    ],
+    "release_year": 2004,
+    "image_url": "https://media.rawg.io/media/screenshots/26d/26d424d065932b422fe80e4d4c3736d6.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/bad-mojo-redux"
+  },
+  "SwordShip": {
+    "genres": [
+      "Action",
+      "Indie"
+    ],
+    "release_year": 2022,
+    "image_url": "https://media.rawg.io/media/screenshots/f7a/f7af8c0fc22975f59935f398b615e359.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/swordship-2"
+  },
+  "Sept 2024 91% Sale 7": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "Neon Blight": {
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie"
+    ],
+    "release_year": 2022,
+    "image_url": "https://media.rawg.io/media/screenshots/c8b/c8bced38a45f654e4374d28446083a36.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/neon-blight"
+  },
+  "Baby Storm": {
+    "genres": [
+      "Action",
+      "Adventure",
+      "Casual",
+      "Indie",
+      "Simulation"
+    ],
+    "release_year": 2023,
+    "image_url": "https://media.rawg.io/media/screenshots/da4/da42e89c960ff591bc0250476bf9437a.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/baby-storm"
+  },
+  "Vampire: The Masquerade - Reckoning of New York": {
+    "genres": [
+      "Indie",
+      "RPG"
+    ],
+    "release_year": 2024,
+    "image_url": "https://media.rawg.io/media/screenshots/ba4/ba497103fb10a75cf51ba85b045826ca.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/vampire-the-masquerade-reckoning-of-new-york"
+  },
+  "Sept New 2 2024 90% Sale": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "Deponia Doomsday": {
+    "genres": [
+      "Adventure",
+      "Indie",
+      "Puzzle"
+    ],
+    "release_year": 2016,
+    "image_url": "https://media.rawg.io/media/games/d87/d8788f5bdc90c142f60f66f99cfdd97b.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/deponia-doomsday"
+  },
+  "A Plague Tale: Innocence": {
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "release_year": 2019,
+    "image_url": "https://media.rawg.io/media/games/b4a/b4adf80c36e267b35acc3497ed2af19c.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/a-plague-tale-innocence"
+  },
+  "Beholder 3": {
+    "genres": [
+      "Puzzle"
+    ],
+    "release_year": 2022,
+    "image_url": "https://media.rawg.io/media/games/312/3121ba5c3d5fbe8b747475099f3e63b8.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/beholder-3"
+  },
+  "3D PUZZLE - Pirate Tavern": {
+    "genres": [
+      "Action",
+      "Adventure",
+      "Casual",
+      "Indie",
+      "RPG",
+      "Racing",
+      "Simulation",
+      "Strategy"
+    ],
+    "release_year": 2024,
+    "image_url": "https://media.rawg.io/media/screenshots/03d/03deb0f9bcde9dbfb29adc4dccdf8454.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/3d-puzzle-pirate-tavern"
+  },
+  "Are You Smarter Than a 5th Grader?™": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "Alien Earth": {
+    "genres": [
+      "Action",
+      "Adventure",
+      "Strategy"
+    ],
+    "release_year": 1997,
+    "image_url": "https://media.rawg.io/media/screenshots/b8d/b8d1f0476e54e70e2a7a3084f44bf2f9.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/alien-earth"
+  },
+  "Kingsgrave": {
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie",
+      "RPG"
+    ],
+    "release_year": 2024,
+    "image_url": "https://media.rawg.io/media/screenshots/ff2/ff2213a881f1bba759d06280bdb65e24.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/kingsgrave"
+  },
+  "3D PUZZLE - Apocalyptic Wasteland": {
+    "genres": [
+      "Action",
+      "Adventure",
+      "Casual",
+      "Indie",
+      "RPG",
+      "Simulation",
+      "Sports",
+      "Strategy"
+    ],
+    "release_year": 2024,
+    "image_url": "https://media.rawg.io/media/screenshots/79b/79bc93c8ff804f210b45bb12f87bf361.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/3d-puzzle-apocalyptic-wasteland"
+  },
+  "Train Sim World 3: Southeastern Highspeed Extended": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "A Golden Wake": {
+    "genres": [
+      "Adventure",
+      "Indie"
+    ],
+    "release_year": 2014,
+    "image_url": "https://media.rawg.io/media/screenshots/5c8/5c84bb06c5bfb3a368eaf06d987ede29.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/a-golden-wake"
+  },
+  "Togges": {
+    "genres": [
+      "Adventure",
+      "Indie"
+    ],
+    "release_year": 2022,
+    "image_url": "https://media.rawg.io/media/screenshots/67e/67e4c7cdcbebc984d4103255fc53c2d0.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/togges"
+  },
+  "Sept 2024 New Game and Sale 91%": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "Northeast Corridor: Boston - Providence": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "Agent A: A puzzle in disguise": {
+    "genres": [
+      "Adventure",
+      "Casual",
+      "Indie",
+      "Puzzle"
+    ],
+    "release_year": 2015,
+    "image_url": "https://media.rawg.io/media/screenshots/6c2/6c25924ad4c92798b76917837f3ef4c2.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/agent-a-a-puzzle-in-disguise"
+  },
+  "Planet of Lana": {
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie",
+      "Platformer",
+      "Puzzle"
+    ],
+    "release_year": 2023,
+    "image_url": "https://media.rawg.io/media/games/c61/c61a8959e0cb3cdcb2bd52a2f3aa0c2c.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/planet-of-lana"
+  },
+  "3D PUZZLE - Pizza Shop 2": {
+    "genres": [
+      "Action",
+      "Adventure",
+      "Casual",
+      "Indie",
+      "RPG",
+      "Simulation",
+      "Strategy"
+    ],
+    "release_year": 2024,
+    "image_url": "https://media.rawg.io/media/screenshots/993/9937e30abd3946c6852cff840885c19c.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/3d-puzzle-pizza-shop-2"
+  },
+  "Funtasia": {
+    "genres": [
+      "Action",
+      "Indie",
+      "Racing"
+    ],
+    "release_year": 2022,
+    "image_url": "https://media.rawg.io/media/screenshots/ca2/ca261496c0c2f169db038cec511cdaa6.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/funtasia"
+  },
+  "Agatha Christie - Hercule Poirot: The London Case": {
+    "genres": [
+      "Action",
+      "Adventure",
+      "Simulation"
+    ],
+    "release_year": 2023,
+    "image_url": "https://media.rawg.io/media/screenshots/9d5/9d559ba1f07666971cf680f7dfc4d742.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/agatha-christie-hercule-poirot-the-london-case"
+  },
+  "Spells & Secrets": {
+    "genres": [
+      "Action",
+      "Adventure",
+      "Casual",
+      "Indie",
+      "RPG",
+      "Simulation",
+      "Sports"
+    ],
+    "release_year": 2023,
+    "image_url": "https://media.rawg.io/media/screenshots/b71/b717a6ebd811a790f4478be84087f7d2.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/spells-secrets"
+  },
+  "3D PUZZLE - Winter Outpost": {
+    "genres": [
+      "Action",
+      "Adventure",
+      "Casual",
+      "Indie",
+      "RPG",
+      "Simulation",
+      "Sports",
+      "Strategy"
+    ],
+    "release_year": 2024,
+    "image_url": "https://media.rawg.io/media/screenshots/afa/afa3968626bda29ba3794930942c9529.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/3d-puzzle-winter-outpost"
+  },
+  "Source of Madness": {
+    "genres": [
+      "Action"
+    ],
+    "release_year": 2022,
+    "image_url": "https://media.rawg.io/media/games/8ee/8eec4807df435c9a176cb693f73828c9.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/source-of-madness"
+  },
+  "Agatha Christie - Hercule Poirot: The First Cases": {
+    "genres": [
+      "Adventure"
+    ],
+    "release_year": 2021,
+    "image_url": "https://media.rawg.io/media/screenshots/fdc/fdc0a80698a806ff3b82f5cc5f475ea2.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/agatha-christie-hercule-poirot-the-first-cases"
+  },
+  "FOR HONOR Year 8 Ultimate Edition": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "Sept 2024 91% Sale": {
+    "genres": [],
+    "release_year": null,
+    "status": "unmatched"
+  },
+  "Agatha Christie - The ABC Murders": {
+    "genres": [
+      "Action",
+      "Adventure",
+      "Puzzle"
+    ],
+    "release_year": 2016,
+    "image_url": "https://media.rawg.io/media/games/c15/c1504d3d18ba8011499d37b6d57261f8.jpg",
+    "status": "matched",
+    "rawg_url": "https://rawg.io/games/agatha-christie-the-abc-murders"
   }
 }
